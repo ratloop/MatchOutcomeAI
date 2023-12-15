@@ -6,6 +6,8 @@ Prerequisites: `Python 3.x`
 
 ## Usage
 
+Your own API key from [API Football](https://www.api-football.com/) must be imported into api_data_scraper.py.
+
 ```git clone https://github.com/ratloop/MatchOutcomeAI```
 
 ```pip install -r requirements.txt```
