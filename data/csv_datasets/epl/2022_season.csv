@@ -1,0 +1,359 @@
+fixture_id,season,date,stadium,game_week,home_team,away_team,home_goals,away_goals,ht_home_goals,ht_away_goals,home_shots_on_target,home_shots,home_fouls,home_corners,home_offsides,home_possession,home_yellow_cards,home_red_cards,home_goalkeeper_saves,home_attempted_passes,home_successful_passes,away_shots_on_target,away_shots,away_fouls,away_corners,away_offsides,away_possession,away_yellow_cards,away_red_cards,away_goalkeeper_saves,away_attempted_passes,away_successful_passes
+867946,2022,2022-08-05T19:00:00+00:00,Selhurst Park,Regular Season - 1,Crystal Palace,Arsenal,0,2,0,1,2,10,16,3,1,56,1,0,1,562,487,2,10,11,5,2,44,2,0,2,438,360
+867947,2022,2022-08-06T11:30:00+00:00,Craven Cottage,Regular Season - 1,Fulham,Liverpool,2,2,1,0,3,9,7,4,4,33,2,0,1,294,181,4,11,9,4,4,67,0,0,1,612,473
+867948,2022,2022-08-06T14:00:00+00:00,Vitality Stadium,Regular Season - 1,Bournemouth,Aston Villa,2,0,1,0,3,7,18,5,1,34,3,0,2,301,211,2,15,16,5,4,66,3,0,1,571,479
+867949,2022,2022-08-06T14:00:00+00:00,Elland Road,Regular Season - 1,Leeds,Wolves,2,1,1,1,4,12,13,6,0,40,2,0,5,355,269,6,15,9,4,1,60,0,0,3,546,463
+867950,2022,2022-08-07T13:00:00+00:00,King Power Stadium,Regular Season - 1,Leicester,Brentford,2,2,1,0,5,14,6,5,2,55,0,0,1,580,510,3,8,5,6,2,45,0,0,3,457,386
+867951,2022,2022-08-06T14:00:00+00:00,St. James' Park,Regular Season - 1,Newcastle,Nottingham Forest,2,0,0,0,10,23,9,11,2,61,0,0,0,469,379,0,5,14,1,0,39,3,0,7,294,207
+867952,2022,2022-08-06T14:00:00+00:00,Tottenham Hotspur Stadium,Regular Season - 1,Tottenham,Southampton,4,1,2,1,8,18,11,10,2,58,3,0,1,554,471,2,10,6,2,0,42,0,0,5,410,337
+867953,2022,2022-08-06T16:30:00+00:00,Goodison Park,Regular Season - 1,Everton,Chelsea,0,1,0,1,4,8,14,4,0,37,3,0,5,335,246,6,15,11,16,2,63,2,0,3,566,490
+867954,2022,2022-08-07T13:00:00+00:00,Old Trafford,Regular Season - 1,Manchester United,Brighton,1,2,0,2,5,17,7,6,3,63,4,0,2,548,452,4,15,12,2,1,37,1,0,5,326,229
+867955,2022,2022-08-07T15:30:00+00:00,London Stadium,Regular Season - 1,West Ham,Manchester City,0,2,0,1,1,6,8,1,4,25,0,0,0,263,206,2,14,4,4,1,75,1,0,1,833,774
+867956,2022,2022-08-13T14:00:00+00:00,Emirates Stadium,Regular Season - 2,Arsenal,Leicester,4,2,2,0,7,19,15,6,2,50,1,0,1,462,386,2,6,9,2,3,50,1,0,4,472,383
+867957,2022,2022-08-13T11:30:00+00:00,Villa Park,Regular Season - 2,Aston Villa,Everton,2,1,1,0,4,12,9,5,2,58,4,0,4,517,435,4,15,7,8,3,42,1,0,1,378,291
+867958,2022,2022-08-13T16:30:00+00:00,Gtech Community Stadium,Regular Season - 2,Brentford,Manchester United,4,0,4,0,7,13,6,8,1,33,0,0,4,255,167,4,15,15,2,2,67,4,0,3,525,444
+867959,2022,2022-08-13T14:00:00+00:00,The American Express Community Stadium,Regular Season - 2,Brighton,Newcastle,0,0,0,0,7,13,8,7,1,55,2,0,1,374,286,1,4,6,3,4,45,3,0,5,314,230
+867960,2022,2022-08-14T15:30:00+00:00,Stamford Bridge,Regular Season - 2,Chelsea,Tottenham,2,2,1,0,3,16,9,8,2,64,3,0,3,597,512,5,10,9,5,1,36,0,0,1,340,269
+867961,2022,2022-08-15T19:00:00+00:00,Anfield,Regular Season - 2,Liverpool,Crystal Palace,1,1,0,1,4,24,7,4,3,73,2,1,2,741,645,3,7,8,2,2,27,4,0,3,274,189
+867962,2022,2022-08-13T14:00:00+00:00,Etihad Stadium,Regular Season - 2,Manchester City,Bournemouth,4,0,3,0,7,19,9,11,2,67,0,0,1,696,649,1,3,9,1,1,33,3,0,4,353,288
+867963,2022,2022-08-14T13:00:00+00:00,The City Ground,Regular Season - 2,Nottingham Forest,West Ham,1,0,1,0,6,13,10,6,3,43,4,0,4,288,190,5,19,11,7,2,57,1,0,5,381,284
+867964,2022,2022-08-13T14:00:00+00:00,St. Mary's Stadium,Regular Season - 2,Southampton,Leeds,2,2,0,0,4,14,10,2,1,43,1,0,3,332,232,5,13,12,5,1,57,3,0,2,454,336
+867965,2022,2022-08-13T14:00:00+00:00,Molineux Stadium,Regular Season - 2,Wolves,Fulham,0,0,0,0,1,7,7,5,1,60,3,0,3,496,392,3,9,14,3,0,40,3,0,1,328,235
+867966,2022,2022-08-20T16:30:00+00:00,Vitality Stadium,Regular Season - 3,Bournemouth,Arsenal,0,3,0,2,1,6,12,3,1,42,2,0,3,411,324,6,14,10,4,3,58,1,0,1,580,517
+867967,2022,2022-08-20T14:00:00+00:00,Selhurst Park,Regular Season - 3,Crystal Palace,Aston Villa,3,1,1,1,9,17,16,4,1,51,2,0,4,448,378,5,13,14,2,1,49,1,0,6,428,348
+867968,2022,2022-08-20T14:00:00+00:00,Goodison Park,Regular Season - 3,Everton,Nottingham Forest,1,1,0,0,8,19,6,6,4,48,3,0,4,413,320,5,14,9,2,1,52,2,0,7,444,326
+867969,2022,2022-08-20T14:00:00+00:00,Craven Cottage,Regular Season - 3,Fulham,Brentford,3,2,2,1,9,18,13,6,5,44,3,0,3,311,219,5,13,7,3,7,56,2,0,6,417,315
+867970,2022,2022-08-21T13:00:00+00:00,Elland Road,Regular Season - 3,Leeds,Chelsea,3,0,2,0,6,12,16,4,1,39,0,0,3,318,227,3,14,15,6,7,61,3,1,3,494,405
+867971,2022,2022-08-20T14:00:00+00:00,King Power Stadium,Regular Season - 3,Leicester,Southampton,1,2,0,0,1,6,11,2,0,62,2,0,1,556,454,3,9,15,5,1,38,3,0,0,335,240
+867972,2022,2022-08-22T19:00:00+00:00,Old Trafford,Regular Season - 3,Manchester United,Liverpool,2,1,1,0,5,13,11,6,2,30,3,0,5,273,180,5,17,7,8,2,70,1,0,3,645,540
+867973,2022,2022-08-21T15:30:00+00:00,St. James' Park,Regular Season - 3,Newcastle,Manchester City,3,3,2,1,6,12,14,5,2,31,4,0,7,275,185,10,21,7,5,1,69,2,0,2,608,521
+867974,2022,2022-08-20T11:30:00+00:00,Tottenham Hotspur Stadium,Regular Season - 3,Tottenham,Wolves,1,0,0,0,4,11,10,8,2,50,2,0,3,472,411,3,20,8,6,0,50,2,0,3,477,399
+867975,2022,2022-08-21T13:00:00+00:00,London Stadium,Regular Season - 3,West Ham,Brighton,0,2,0,1,3,13,10,5,3,50,2,0,0,467,376,2,11,7,4,1,50,0,0,3,485,395
+867976,2022,2022-08-27T16:30:00+00:00,Emirates Stadium,Regular Season - 4,Arsenal,Fulham,2,1,0,0,8,22,6,9,1,72,2,0,2,595,509,3,11,12,2,0,28,3,0,6,223,138
+867977,2022,2022-08-28T13:00:00+00:00,Villa Park,Regular Season - 4,Aston Villa,West Ham,0,1,0,0,3,9,10,3,2,58,2,0,1,582,489,2,7,10,2,1,42,0,0,3,419,329
+867978,2022,2022-08-27T14:00:00+00:00,Gtech Community Stadium,Regular Season - 4,Brentford,Everton,1,1,0,1,5,20,8,8,0,58,2,0,6,514,429,7,14,8,5,2,42,2,0,4,385,302
+867979,2022,2022-08-27T14:00:00+00:00,The American Express Community Stadium,Regular Season - 4,Brighton,Leeds,1,0,0,0,4,13,10,5,2,43,2,0,2,353,250,2,10,14,3,1,57,3,0,3,475,359
+867980,2022,2022-08-27T14:00:00+00:00,Stamford Bridge,Regular Season - 4,Chelsea,Leicester,2,1,0,0,4,7,10,3,3,45,3,1,4,446,372,5,17,7,11,1,55,2,0,2,524,456
+867981,2022,2022-08-27T14:00:00+00:00,Anfield,Regular Season - 4,Liverpool,Bournemouth,9,0,5,0,12,19,6,8,3,69,0,0,2,681,589,2,5,5,1,0,31,1,0,4,303,211
+867982,2022,2022-08-27T14:00:00+00:00,Etihad Stadium,Regular Season - 4,Manchester City,Crystal Palace,4,2,0,2,5,18,14,6,2,74,1,0,1,770,702,2,2,8,1,1,26,2,0,1,265,196
+867983,2022,2022-08-28T15:30:00+00:00,The City Ground,Regular Season - 4,Nottingham Forest,Tottenham,0,2,0,1,1,17,11,6,1,55,6,0,4,568,481,7,18,13,1,3,45,1,0,1,462,372
+867984,2022,2022-08-27T11:30:00+00:00,St. Mary's Stadium,Regular Season - 4,Southampton,Manchester United,0,1,0,0,5,17,4,5,1,48,0,0,3,364,266,6,11,14,3,1,52,3,0,4,404,299
+867985,2022,2022-08-28T13:00:00+00:00,Molineux Stadium,Regular Season - 4,Wolves,Newcastle,1,1,1,0,4,10,10,4,3,36,2,0,5,265,184,6,21,11,13,1,64,1,0,3,458,376
+867986,2022,2022-08-31T18:30:00+00:00,Vitality Stadium,Regular Season - 5,Bournemouth,Wolves,0,0,0,0,2,5,12,2,0,34,2,0,3,320,238,4,17,12,5,3,66,1,0,2,603,538
+867987,2022,2022-08-31T18:30:00+00:00,Emirates Stadium,Regular Season - 5,Arsenal,Aston Villa,2,1,1,0,9,22,10,10,1,59,2,0,2,504,428,3,4,14,3,1,41,3,0,6,352,271
+867988,2022,2022-08-30T18:30:00+00:00,Craven Cottage,Regular Season - 5,Fulham,Brighton,2,1,0,0,3,10,9,3,0,39,2,0,2,344,257,4,7,11,3,2,61,1,0,2,533,446
+867989,2022,2022-08-30T19:00:00+00:00,Elland Road,Regular Season - 5,Leeds,Everton,1,1,0,1,5,14,10,10,2,69,3,0,1,644,535,2,7,9,2,2,31,3,0,4,292,203
+867990,2022,2022-09-01T19:00:00+00:00,King Power Stadium,Regular Season - 5,Leicester,Manchester United,0,1,0,1,2,10,7,1,0,54,1,0,1,595,487,2,9,15,3,2,46,3,0,2,513,400
+867991,2022,2022-08-31T18:45:00+00:00,London Stadium,Regular Season - 5,West Ham,Tottenham,1,1,0,1,4,14,10,3,1,38,2,0,3,369,307,3,12,10,4,0,62,5,0,3,621,555
+867992,2022,2022-08-30T18:30:00+00:00,Selhurst Park,Regular Season - 5,Crystal Palace,Brentford,1,1,0,0,4,13,11,4,1,49,1,0,2,472,383,3,9,8,6,0,51,2,0,3,482,386
+867993,2022,2022-08-30T18:45:00+00:00,St. Mary's Stadium,Regular Season - 5,Southampton,Chelsea,2,1,2,1,7,9,15,5,0,32,2,0,3,259,158,4,10,10,3,3,68,1,0,3,561,460
+867994,2022,2022-08-31T19:00:00+00:00,Anfield,Regular Season - 5,Liverpool,Newcastle,2,1,0,1,6,23,9,13,2,72,0,0,1,625,523,2,5,10,0,2,28,2,0,4,256,163
+867995,2022,2022-08-31T18:30:00+00:00,Etihad Stadium,Regular Season - 5,Manchester City,Nottingham Forest,6,0,3,0,9,17,9,10,2,75,0,0,1,785,720,1,8,7,1,2,25,1,0,3,261,192
+867996,2022,2022-09-03T16:30:00+00:00,Villa Park,Regular Season - 6,Aston Villa,Manchester City,1,1,0,0,1,3,7,1,5,28,2,0,3,287,203,4,13,6,4,3,72,0,0,0,763,673
+867997,2022,2022-09-03T14:00:00+00:00,Gtech Community Stadium,Regular Season - 6,Brentford,Leeds,5,2,2,1,8,14,8,2,1,31,2,0,4,218,141,6,17,9,6,1,69,2,0,3,488,402
+867998,2022,2022-09-04T13:00:00+00:00,The American Express Community Stadium,Regular Season - 6,Brighton,Leicester,5,2,2,2,11,23,6,10,2,54,1,0,2,493,421,4,6,8,1,3,46,1,0,7,436,360
+867999,2022,2022-09-03T14:00:00+00:00,Stamford Bridge,Regular Season - 6,Chelsea,West Ham,2,1,0,0,3,8,6,10,1,68,4,0,2,661,577,3,6,11,3,1,32,2,0,1,308,232
+868000,2022,2022-09-03T11:30:00+00:00,Goodison Park,Regular Season - 6,Everton,Liverpool,0,0,0,0,3,14,7,7,3,39,2,0,8,302,217,8,23,11,9,2,61,2,0,4,469,380
+868001,2022,2022-09-04T15:30:00+00:00,Old Trafford,Regular Season - 6,Manchester United,Arsenal,3,1,1,0,6,10,13,2,4,40,3,0,2,310,242,3,16,9,5,0,60,3,0,3,465,388
+868002,2022,2022-09-03T14:00:00+00:00,St. James' Park,Regular Season - 6,Newcastle,Crystal Palace,0,0,0,0,6,23,19,13,2,52,2,0,9,359,283,9,19,12,5,1,48,2,0,5,362,282
+868003,2022,2022-09-03T14:00:00+00:00,The City Ground,Regular Season - 6,Nottingham Forest,Bournemouth,2,3,2,0,3,11,13,4,1,53,2,0,0,486,402,3,8,10,6,1,47,1,0,1,442,359
+868004,2022,2022-09-03T14:00:00+00:00,Tottenham Hotspur Stadium,Regular Season - 6,Tottenham,Fulham,2,1,1,0,10,23,9,10,3,52,3,0,2,475,418,3,9,6,3,0,48,4,0,8,433,371
+868005,2022,2022-09-03T14:00:00+00:00,Molineux Stadium,Regular Season - 6,Wolves,Southampton,1,0,1,0,2,7,10,5,1,51,4,0,1,432,349,1,12,14,6,0,49,2,0,1,406,317
+868006,2022,2023-04-04T18:45:00+00:00,Vitality Stadium,Regular Season - 7,Bournemouth,Brighton,0,2,0,1,3,14,11,5,1,37,1,0,4,344,269,6,16,5,5,0,63,1,0,3,626,545
+868007,2022,2023-03-01T19:45:00+00:00,Emirates Stadium,Regular Season - 7,Arsenal,Everton,4,0,2,0,5,15,5,5,4,73,0,0,5,748,655,5,8,12,1,2,27,2,0,1,274,185
+868008,2022,2023-01-18T20:00:00+00:00,Selhurst Park,Regular Season - 7,Crystal Palace,Manchester United,1,1,0,1,5,10,9,3,0,39,1,0,3,399,294,4,15,10,3,0,61,2,0,4,626,509
+868009,2022,2023-01-12T20:00:00+00:00,Craven Cottage,Regular Season - 7,Fulham,Chelsea,2,1,1,0,3,8,12,5,3,48,4,0,9,451,364,10,20,16,7,3,52,3,1,1,496,404
+868010,2022,2023-04-04T18:45:00+00:00,Elland Road,Regular Season - 7,Leeds,Nottingham Forest,2,1,2,1,6,21,11,11,3,62,1,0,0,494,401,1,13,13,4,3,38,4,0,4,296,198
+868011,2022,2023-04-04T18:45:00+00:00,King Power Stadium,Regular Season - 7,Leicester,Aston Villa,1,2,1,1,4,9,10,4,2,36,4,1,3,290,216,5,15,14,8,1,64,0,0,3,534,471
+868012,2022,2023-03-01T20:00:00+00:00,Anfield,Regular Season - 7,Liverpool,Wolves,2,0,0,0,6,15,13,5,1,57,2,0,1,528,439,1,4,14,2,3,43,3,0,4,402,322
+868013,2022,2023-01-19T20:00:00+00:00,Etihad Stadium,Regular Season - 7,Manchester City,Tottenham,4,2,0,2,6,16,10,8,0,58,1,0,1,583,511,3,9,14,3,1,42,2,0,2,424,352
+868014,2022,2023-03-15T19:30:00+00:00,St. Mary's Stadium,Regular Season - 7,Southampton,Brentford,0,2,0,1,1,7,14,3,1,66,1,0,2,563,464,5,11,10,3,1,34,2,0,0,289,186
+868015,2022,2023-04-05T19:00:00+00:00,London Stadium,Regular Season - 7,West Ham,Newcastle,1,5,1,2,2,7,11,7,0,42,2,0,2,348,256,8,15,12,6,0,58,1,0,1,492,397
+868016,2022,2022-09-16T19:00:00+00:00,Villa Park,Regular Season - 8,Aston Villa,Southampton,1,0,1,0,3,11,13,6,1,53,3,0,1,420,312,1,7,13,3,0,47,1,0,2,376,277
+868017,2022,2022-09-18T11:00:00+00:00,Gtech Community Stadium,Regular Season - 8,Brentford,Arsenal,0,3,0,2,2,5,10,3,3,36,0,0,4,321,238,7,13,10,3,1,64,2,0,2,592,509
+868018,2022,2023-03-15T19:30:00+00:00,The American Express Community Stadium,Regular Season - 8,Brighton,Crystal Palace,1,0,1,0,5,11,13,1,2,57,1,0,3,579,488,3,11,20,4,0,43,2,0,4,430,345
+868019,2022,2023-04-04T19:00:00+00:00,Stamford Bridge,Regular Season - 8,Chelsea,Liverpool,0,0,0,0,3,12,6,3,4,50,1,0,3,522,437,4,7,17,5,3,50,4,0,2,537,449
+868020,2022,2022-09-18T13:15:00+00:00,Goodison Park,Regular Season - 8,Everton,West Ham,1,0,0,0,2,7,8,5,1,54,3,0,4,464,385,4,14,11,14,1,46,1,0,1,388,309
+868021,2022,2023-02-08T20:00:00+00:00,Old Trafford,Regular Season - 8,Manchester United,Leeds,2,2,0,1,7,24,7,6,1,66,1,0,1,615,498,2,8,11,5,0,34,3,0,5,326,210
+868022,2022,2022-09-17T14:00:00+00:00,St. James' Park,Regular Season - 8,Newcastle,Bournemouth,1,1,0,0,7,20,10,8,3,72,2,0,2,643,556,3,10,11,1,1,28,2,0,6,245,165
+868023,2022,2022-09-16T19:00:00+00:00,The City Ground,Regular Season - 8,Nottingham Forest,Fulham,2,3,1,0,3,11,11,2,2,41,2,0,4,375,279,7,15,10,10,1,59,4,0,1,555,460
+868024,2022,2022-09-17T16:30:00+00:00,Tottenham Hotspur Stadium,Regular Season - 8,Tottenham,Leicester,6,2,2,2,11,16,9,6,1,44,1,0,5,482,403,7,19,9,1,0,56,2,0,5,632,552
+868025,2022,2022-09-17T11:30:00+00:00,Molineux Stadium,Regular Season - 8,Wolves,Manchester City,0,3,0,2,1,6,7,5,0,41,2,1,4,422,353,7,16,9,7,1,59,1,0,1,622,563
+868026,2022,2022-10-01T14:00:00+00:00,Vitality Stadium,Regular Season - 9,Bournemouth,Brentford,0,0,0,0,1,7,11,7,1,42,1,0,4,375,297,4,13,10,8,2,58,2,0,0,530,440
+868027,2022,2022-10-01T11:30:00+00:00,Emirates Stadium,Regular Season - 9,Arsenal,Tottenham,3,1,1,1,9,22,10,5,1,65,2,0,2,565,511,3,7,10,2,3,35,1,1,6,307,240
+868028,2022,2022-10-01T14:00:00+00:00,Selhurst Park,Regular Season - 9,Crystal Palace,Chelsea,1,2,1,1,3,7,11,5,1,36,1,0,1,348,271,3,13,13,2,0,64,3,0,2,635,559
+868029,2022,2022-10-01T14:00:00+00:00,Craven Cottage,Regular Season - 9,Fulham,Newcastle,1,4,0,3,1,3,9,1,4,32,2,1,6,281,190,10,19,10,8,7,68,0,0,0,605,530
+868030,2022,2022-10-02T15:30:00+00:00,Elland Road,Regular Season - 9,Leeds,Aston Villa,0,0,0,0,1,6,23,2,0,44,5,1,6,375,270,7,19,12,9,2,56,2,0,1,479,370
+868031,2022,2022-10-03T19:00:00+00:00,King Power Stadium,Regular Season - 9,Leicester,Nottingham Forest,4,0,3,0,7,17,13,6,3,52,2,0,3,492,416,3,10,12,6,4,48,4,0,4,464,362
+868032,2022,2022-10-01T14:00:00+00:00,Anfield,Regular Season - 9,Liverpool,Brighton,3,3,1,2,7,15,9,9,1,54,1,0,3,530,432,6,6,13,2,0,46,1,0,5,460,359
+868033,2022,2022-10-02T13:00:00+00:00,Etihad Stadium,Regular Season - 9,Manchester City,Manchester United,6,3,4,0,10,22,3,5,1,54,0,0,5,551,485,8,12,9,1,0,46,3,0,3,476,408
+868034,2022,2022-10-01T14:00:00+00:00,St. Mary's Stadium,Regular Season - 9,Southampton,Everton,1,2,0,0,6,22,11,7,0,54,2,0,3,445,362,5,12,10,6,1,46,2,0,5,380,295
+868035,2022,2022-10-01T16:30:00+00:00,London Stadium,Regular Season - 9,West Ham,Wolves,2,0,1,0,5,18,8,1,2,39,2,0,4,372,301,4,15,6,6,1,61,2,0,3,564,492
+868036,2022,2022-10-08T14:00:00+00:00,Vitality Stadium,Regular Season - 10,Bournemouth,Leicester,2,1,0,1,4,10,8,7,3,44,1,0,4,424,359,5,9,16,2,0,56,2,0,2,551,475
+868037,2022,2022-10-09T15:30:00+00:00,Emirates Stadium,Regular Season - 10,Arsenal,Liverpool,3,2,2,1,7,11,11,4,3,44,1,0,2,386,302,3,8,11,3,6,56,2,0,4,488,395
+868038,2022,2022-10-08T16:30:00+00:00,The American Express Community Stadium,Regular Season - 10,Brighton,Tottenham,0,1,0,1,4,14,9,6,2,59,1,0,2,694,610,3,8,14,2,3,41,2,0,4,489,398
+868039,2022,2022-10-08T14:00:00+00:00,Stamford Bridge,Regular Season - 10,Chelsea,Wolves,3,0,1,0,7,20,8,4,3,57,2,0,2,591,518,2,8,8,2,0,43,0,0,4,431,360
+868040,2022,2022-10-09T13:00:00+00:00,Selhurst Park,Regular Season - 10,Crystal Palace,Leeds,2,1,1,1,5,13,13,5,2,55,3,0,3,418,321,4,10,23,3,2,45,3,0,3,345,222
+868041,2022,2022-10-09T18:00:00+00:00,Goodison Park,Regular Season - 10,Everton,Manchester United,1,2,1,2,2,11,7,5,1,40,2,0,2,375,295,4,12,13,4,4,60,1,0,1,609,510
+868042,2022,2022-10-08T14:00:00+00:00,Etihad Stadium,Regular Season - 10,Manchester City,Southampton,4,0,2,0,8,21,4,9,1,65,0,0,0,744,666,0,5,8,1,1,35,1,0,4,393,317
+868043,2022,2022-10-08T14:00:00+00:00,St. James' Park,Regular Season - 10,Newcastle,Brentford,5,1,2,0,6,16,14,9,1,54,0,0,2,389,309,3,6,9,5,3,46,1,0,2,320,239
+868044,2022,2022-10-10T19:00:00+00:00,The City Ground,Regular Season - 10,Nottingham Forest,Aston Villa,1,1,1,1,3,6,13,1,0,40,3,0,1,333,246,2,12,19,4,3,60,3,0,2,506,436
+868045,2022,2022-10-09T13:00:00+00:00,London Stadium,Regular Season - 10,West Ham,Fulham,3,1,1,1,8,17,9,4,1,50,1,0,1,485,400,2,8,7,2,2,50,3,0,5,486,400
+868046,2022,2022-10-16T13:00:00+00:00,Villa Park,Regular Season - 11,Aston Villa,Chelsea,0,2,0,1,7,18,12,7,3,41,0,0,2,353,283,4,8,11,1,1,59,3,0,7,548,468
+868047,2022,2022-10-14T19:00:00+00:00,Gtech Community Stadium,Regular Season - 11,Brentford,Brighton,2,0,1,0,3,7,12,2,0,28,3,0,7,235,157,7,21,15,11,3,72,1,0,0,611,520
+868048,2022,2022-10-15T14:00:00+00:00,Craven Cottage,Regular Season - 11,Fulham,Bournemouth,2,2,1,2,4,19,9,5,1,69,2,0,4,585,496,6,10,11,6,0,31,0,0,2,268,187
+868049,2022,2022-10-16T13:00:00+00:00,Elland Road,Regular Season - 11,Leeds,Arsenal,0,1,0,1,4,16,10,6,4,47,0,0,3,428,334,4,9,11,3,0,53,2,0,4,500,415
+868050,2022,2022-10-15T11:30:00+00:00,King Power Stadium,Regular Season - 11,Leicester,Crystal Palace,0,0,0,0,5,14,18,9,2,53,2,0,1,579,493,1,8,13,2,1,47,2,0,6,514,426
+868051,2022,2022-10-16T15:30:00+00:00,Anfield,Regular Season - 11,Liverpool,Manchester City,1,0,0,0,2,13,10,5,3,37,3,0,6,407,313,6,16,7,6,0,63,1,0,1,702,616
+868052,2022,2022-10-16T13:00:00+00:00,Old Trafford,Regular Season - 11,Manchester United,Newcastle,0,0,0,0,2,15,13,4,2,63,3,0,2,512,415,2,9,11,4,0,37,1,0,2,301,217
+868053,2022,2022-10-16T13:00:00+00:00,St. Mary's Stadium,Regular Season - 11,Southampton,West Ham,1,1,1,0,8,10,7,4,1,39,1,0,3,323,234,4,25,3,14,0,61,1,0,7,488,391
+868054,2022,2022-10-15T16:30:00+00:00,Tottenham Hotspur Stadium,Regular Season - 11,Tottenham,Everton,2,0,0,0,7,21,12,7,0,62,1,0,0,583,515,0,4,13,1,0,38,4,0,5,367,300
+868055,2022,2022-10-15T14:00:00+00:00,Molineux Stadium,Regular Season - 11,Wolves,Nottingham Forest,1,0,0,0,2,9,17,4,2,58,2,0,2,435,355,2,10,13,5,1,42,2,0,1,313,225
+868056,2022,2022-10-19T18:30:00+00:00,Vitality Stadium,Regular Season - 12,Bournemouth,Southampton,0,1,0,1,3,15,8,7,2,54,1,0,2,529,433,3,9,13,3,0,46,3,0,3,464,376
+868057,2022,2023-02-15T19:30:00+00:00,Emirates Stadium,Regular Season - 12,Arsenal,Manchester City,1,3,1,1,1,10,11,1,0,64,2,0,2,524,435,6,9,15,2,3,36,4,0,0,303,219
+868058,2022,2022-10-19T18:30:00+00:00,Gtech Community Stadium,Regular Season - 12,Brentford,Chelsea,0,0,0,0,5,8,7,6,2,34,0,0,5,317,222,5,14,7,2,0,66,0,0,5,656,559
+868059,2022,2022-10-18T18:30:00+00:00,The American Express Community Stadium,Regular Season - 12,Brighton,Nottingham Forest,0,0,0,0,7,19,10,9,1,70,3,0,0,623,541,0,3,14,1,0,30,1,0,7,260,176
+868060,2022,2022-10-20T18:30:00+00:00,Craven Cottage,Regular Season - 12,Fulham,Aston Villa,3,0,1,0,8,18,11,9,0,60,0,0,6,482,413,6,12,11,7,3,40,2,1,5,311,241
+868061,2022,2022-10-20T19:15:00+00:00,King Power Stadium,Regular Season - 12,Leicester,Leeds,2,0,2,0,1,5,15,2,4,47,2,0,2,461,361,2,14,11,9,2,53,1,0,0,518,406
+868062,2022,2022-10-18T19:15:00+00:00,Selhurst Park,Regular Season - 12,Crystal Palace,Wolves,2,1,0,1,4,14,14,4,0,51,3,0,3,449,370,4,10,18,2,4,49,1,0,2,428,340
+868063,2022,2022-10-19T18:30:00+00:00,St. James' Park,Regular Season - 12,Newcastle,Everton,1,0,1,0,4,16,9,8,0,50,2,0,0,392,301,0,1,12,2,3,50,4,0,3,412,314
+868064,2022,2022-10-19T18:30:00+00:00,Anfield,Regular Season - 12,Liverpool,West Ham,1,0,1,0,7,22,9,8,1,54,0,0,3,600,511,3,8,8,3,0,46,0,0,6,510,412
+868065,2022,2022-10-19T19:15:00+00:00,Old Trafford,Regular Season - 12,Manchester United,Tottenham,2,0,0,0,10,28,7,8,4,52,1,0,2,583,498,2,9,7,3,0,48,0,0,8,528,445
+868066,2022,2022-10-23T13:00:00+00:00,Villa Park,Regular Season - 13,Aston Villa,Brentford,4,0,3,0,11,19,14,7,0,45,1,0,3,329,247,3,12,11,6,1,55,0,0,7,397,302
+868067,2022,2022-10-22T16:30:00+00:00,Stamford Bridge,Regular Season - 13,Chelsea,Manchester United,1,1,0,0,2,6,8,6,2,48,1,0,5,414,323,6,13,10,4,3,52,4,0,1,464,360
+868068,2022,2022-10-22T14:00:00+00:00,Goodison Park,Regular Season - 13,Everton,Crystal Palace,3,0,1,0,6,9,16,3,1,46,3,0,2,382,313,2,9,14,4,2,54,4,0,3,456,387
+868069,2022,2022-10-23T13:00:00+00:00,Elland Road,Regular Season - 13,Leeds,Fulham,2,3,1,1,5,14,12,3,4,57,1,0,1,488,390,5,11,8,6,4,43,1,0,3,355,255
+868070,2022,2022-10-22T14:00:00+00:00,Etihad Stadium,Regular Season - 13,Manchester City,Brighton,3,1,2,0,4,10,11,6,0,48,1,0,1,446,368,2,8,12,3,4,52,3,0,1,471,398
+868071,2022,2022-10-22T11:30:00+00:00,The City Ground,Regular Season - 13,Nottingham Forest,Liverpool,1,0,0,0,7,10,14,2,3,25,2,0,7,227,145,7,15,8,11,0,75,1,0,6,691,595
+868072,2022,2022-10-23T13:00:00+00:00,St. Mary's Stadium,Regular Season - 13,Southampton,Arsenal,1,1,0,1,3,10,11,9,4,41,2,0,2,358,288,3,12,8,4,3,59,1,0,2,541,466
+868073,2022,2022-10-23T15:30:00+00:00,Tottenham Hotspur Stadium,Regular Season - 13,Tottenham,Newcastle,1,2,0,2,5,17,12,6,3,52,4,0,3,457,361,5,13,6,7,4,48,2,0,3,409,332
+868074,2022,2022-10-24T19:00:00+00:00,London Stadium,Regular Season - 13,West Ham,Bournemouth,2,0,1,0,4,20,9,5,1,54,0,0,3,497,421,3,5,11,0,0,46,2,0,2,432,359
+868075,2022,2022-10-23T13:00:00+00:00,Molineux Stadium,Regular Season - 13,Wolves,Leicester,0,4,0,2,6,21,10,9,3,61,2,0,0,537,458,4,5,12,2,3,39,1,0,5,347,252
+868076,2022,2022-10-29T14:00:00+00:00,Vitality Stadium,Regular Season - 14,Bournemouth,Tottenham,2,3,1,0,4,6,10,2,0,31,1,0,4,292,223,7,23,5,19,3,69,2,0,2,631,567
+868077,2022,2022-10-30T14:00:00+00:00,Emirates Stadium,Regular Season - 14,Arsenal,Nottingham Forest,5,0,1,0,10,24,9,9,1,69,0,0,2,618,551,2,5,8,4,2,31,1,0,4,275,207
+868078,2022,2022-10-29T14:00:00+00:00,Gtech Community Stadium,Regular Season - 14,Brentford,Wolves,1,1,0,0,3,12,10,3,0,58,3,0,3,419,337,4,13,17,6,1,42,3,1,2,304,229
+868079,2022,2022-10-29T14:00:00+00:00,The American Express Community Stadium,Regular Season - 14,Brighton,Chelsea,4,1,3,0,9,19,16,8,0,41,1,0,7,349,276,7,15,6,7,0,59,2,0,5,513,441
+868080,2022,2022-10-29T14:00:00+00:00,Selhurst Park,Regular Season - 14,Crystal Palace,Southampton,1,0,1,0,3,12,13,8,5,44,3,0,4,402,290,4,14,12,4,3,56,3,0,2,497,404
+868081,2022,2022-10-29T16:30:00+00:00,Craven Cottage,Regular Season - 14,Fulham,Everton,0,0,0,0,6,24,10,13,0,57,2,0,4,463,386,4,9,8,4,5,43,1,0,6,370,295
+868082,2022,2022-10-29T11:30:00+00:00,King Power Stadium,Regular Season - 14,Leicester,Manchester City,0,1,0,0,5,10,5,3,0,36,0,0,4,385,309,5,15,10,10,2,64,0,0,5,691,622
+868083,2022,2022-10-29T18:45:00+00:00,Anfield,Regular Season - 14,Liverpool,Leeds,1,2,1,1,10,22,9,14,0,69,0,0,4,679,554,6,14,3,4,0,31,1,0,9,304,192
+868084,2022,2022-10-30T16:15:00+00:00,Old Trafford,Regular Season - 14,Manchester United,West Ham,1,0,1,0,3,16,12,5,1,53,1,0,4,490,405,5,13,10,10,2,47,3,0,2,412,341
+868085,2022,2022-10-29T14:00:00+00:00,St. James' Park,Regular Season - 14,Newcastle,Aston Villa,4,0,1,0,7,20,11,3,2,60,1,0,0,520,410,0,3,11,0,3,40,1,0,3,356,263
+868086,2022,2022-11-06T14:00:00+00:00,Villa Park,Regular Season - 15,Aston Villa,Manchester United,3,1,2,1,4,6,6,3,0,42,3,0,3,401,335,3,8,12,5,3,58,3,0,1,543,463
+868087,2022,2022-11-06T12:00:00+00:00,Stamford Bridge,Regular Season - 15,Chelsea,Arsenal,0,1,0,0,1,5,19,4,3,44,5,0,1,360,264,2,14,13,6,0,56,2,0,1,452,371
+868088,2022,2022-11-05T17:30:00+00:00,Goodison Park,Regular Season - 15,Everton,Leicester,0,2,0,1,2,12,9,8,0,48,0,0,6,482,388,8,22,5,3,1,52,0,0,2,527,450
+868089,2022,2022-11-05T15:00:00+00:00,Elland Road,Regular Season - 15,Leeds,Bournemouth,4,3,1,2,4,18,16,13,0,61,2,0,2,443,362,6,9,10,3,0,39,2,0,0,290,212
+868090,2022,2022-11-05T15:00:00+00:00,Etihad Stadium,Regular Season - 15,Manchester City,Fulham,2,1,1,1,5,16,6,9,3,71,2,1,1,717,653,2,4,11,0,0,29,4,0,3,295,234
+868091,2022,2022-11-05T15:00:00+00:00,The City Ground,Regular Season - 15,Nottingham Forest,Brentford,2,2,1,1,7,15,10,3,0,47,2,0,0,419,317,2,6,11,3,2,53,2,0,5,477,367
+868092,2022,2022-11-06T14:00:00+00:00,St. Mary's Stadium,Regular Season - 15,Southampton,Newcastle,1,4,0,1,5,16,7,8,4,55,1,0,0,468,366,4,7,10,2,1,45,0,0,4,380,257
+868093,2022,2022-11-06T16:30:00+00:00,Tottenham Hotspur Stadium,Regular Season - 15,Tottenham,Liverpool,1,2,0,2,5,14,10,5,1,47,0,0,4,518,428,6,13,8,3,2,53,0,0,4,616,515
+868094,2022,2022-11-06T14:00:00+00:00,London Stadium,Regular Season - 15,West Ham,Crystal Palace,1,2,1,1,2,5,10,2,4,42,1,0,5,419,337,6,15,7,5,0,58,1,0,1,591,515
+868095,2022,2022-11-05T15:00:00+00:00,Molineux Stadium,Regular Season - 15,Wolves,Brighton,2,3,2,2,5,8,15,4,1,29,2,1,5,256,193,8,19,11,9,1,71,0,0,3,653,589
+868096,2022,2022-11-12T15:00:00+00:00,Vitality Stadium,Regular Season - 16,Bournemouth,Everton,3,0,2,0,9,16,12,3,1,36,2,0,3,305,223,3,15,8,5,1,64,0,0,5,542,464
+868097,2022,2022-11-13T14:00:00+00:00,The American Express Community Stadium,Regular Season - 16,Brighton,Aston Villa,1,2,1,1,2,7,14,11,3,65,2,0,0,526,454,2,8,11,4,1,35,7,0,1,293,211
+868098,2022,2022-11-13T16:30:00+00:00,Craven Cottage,Regular Season - 16,Fulham,Manchester United,1,2,0,1,7,14,9,10,1,53,1,0,8,461,366,9,14,10,3,2,47,1,0,6,433,344
+868099,2022,2022-11-12T15:00:00+00:00,Anfield,Regular Season - 16,Liverpool,Southampton,3,1,3,1,7,15,8,6,0,60,0,0,4,670,578,5,9,8,0,2,40,2,0,4,445,356
+868100,2022,2022-11-12T12:30:00+00:00,Etihad Stadium,Regular Season - 16,Manchester City,Brentford,1,2,1,1,6,29,9,10,2,75,2,0,5,622,530,8,10,7,2,2,25,2,0,5,216,123
+868101,2022,2022-11-12T17:30:00+00:00,St. James' Park,Regular Season - 16,Newcastle,Chelsea,1,0,0,0,3,10,14,5,3,49,4,0,2,451,373,2,5,11,3,0,51,2,0,2,471,396
+868102,2022,2022-11-12T15:00:00+00:00,The City Ground,Regular Season - 16,Nottingham Forest,Crystal Palace,1,0,0,0,2,9,11,1,3,32,1,0,0,284,203,0,8,13,5,0,68,4,0,1,633,551
+868103,2022,2022-11-12T15:00:00+00:00,Tottenham Hotspur Stadium,Regular Season - 16,Tottenham,Leeds,4,3,1,2,8,14,8,9,0,55,1,0,2,545,450,5,12,7,2,1,45,3,1,3,464,366
+868104,2022,2022-11-12T15:00:00+00:00,London Stadium,Regular Season - 16,West Ham,Leicester,0,2,0,1,6,18,9,7,2,54,3,0,4,483,374,6,9,8,2,0,46,1,0,6,422,330
+868105,2022,2022-11-12T19:45:00+00:00,Molineux Stadium,Regular Season - 16,Wolves,Arsenal,0,2,0,0,2,11,5,6,3,37,3,0,1,348,277,4,14,6,4,1,63,2,0,2,579,517
+868106,2022,2022-12-26T20:00:00+00:00,Emirates Stadium,Regular Season - 17,Arsenal,West Ham,3,1,0,1,5,16,13,7,3,67,0,0,3,657,588,4,8,17,5,0,33,2,0,2,331,250
+868107,2022,2022-12-26T17:30:00+00:00,Villa Park,Regular Season - 17,Aston Villa,Liverpool,1,3,0,2,6,12,7,0,3,48,0,0,6,471,381,9,16,12,6,3,52,0,0,5,514,420
+868108,2022,2022-12-26T12:30:00+00:00,Gtech Community Stadium,Regular Season - 17,Brentford,Tottenham,2,2,1,0,5,9,11,6,1,39,3,0,6,335,213,8,15,10,5,5,61,1,0,3,511,418
+868109,2022,2022-12-27T17:30:00+00:00,Stamford Bridge,Regular Season - 17,Chelsea,Bournemouth,2,0,2,0,5,15,8,6,3,60,0,0,4,563,497,4,9,10,8,0,40,0,0,3,357,290
+868110,2022,2022-12-26T15:00:00+00:00,Selhurst Park,Regular Season - 17,Crystal Palace,Fulham,0,3,0,1,0,4,12,1,1,36,2,2,7,368,274,11,23,15,7,2,64,0,0,0,633,543
+868111,2022,2022-12-26T15:00:00+00:00,Goodison Park,Regular Season - 17,Everton,Wolves,1,2,1,1,6,12,9,2,1,58,1,0,2,505,427,4,7,22,2,2,42,6,0,4,359,273
+868112,2022,2022-12-28T20:00:00+00:00,Elland Road,Regular Season - 17,Leeds,Manchester City,1,3,0,1,1,9,11,3,0,31,3,0,6,307,225,9,26,14,5,1,69,3,0,0,698,611
+868113,2022,2022-12-26T15:00:00+00:00,King Power Stadium,Regular Season - 17,Leicester,Newcastle,0,3,0,3,2,8,9,5,3,60,0,0,2,575,472,5,12,6,5,1,40,0,0,2,380,282
+868114,2022,2022-12-27T20:00:00+00:00,Old Trafford,Regular Season - 17,Manchester United,Nottingham Forest,3,0,2,0,8,17,13,9,1,66,3,0,3,631,549,3,8,4,9,2,34,1,0,5,314,224
+868115,2022,2022-12-26T15:00:00+00:00,St. Mary's Stadium,Regular Season - 17,Southampton,Brighton,1,3,0,2,4,14,9,4,0,34,1,0,2,329,254,4,7,10,2,1,66,2,0,3,680,590
+868116,2022,2022-12-31T15:00:00+00:00,Vitality Stadium,Regular Season - 18,Bournemouth,Crystal Palace,0,2,0,2,2,6,17,2,1,59,4,0,4,455,342,6,15,11,7,1,41,1,0,2,317,218
+868117,2022,2022-12-31T17:30:00+00:00,The American Express Community Stadium,Regular Season - 18,Brighton,Arsenal,2,4,0,2,5,9,7,7,5,68,3,0,3,598,528,7,14,11,4,0,32,3,0,3,288,209
+868118,2022,2022-12-31T15:00:00+00:00,Craven Cottage,Regular Season - 18,Fulham,Southampton,2,1,1,0,2,8,8,4,1,63,0,0,2,579,464,3,9,13,4,0,37,1,0,1,342,224
+868119,2022,2022-12-30T20:00:00+00:00,Anfield,Regular Season - 18,Liverpool,Leicester,2,1,2,1,5,21,8,4,2,57,0,0,1,588,496,2,7,15,5,5,43,1,0,5,448,352
+868120,2022,2022-12-31T15:00:00+00:00,Etihad Stadium,Regular Season - 18,Manchester City,Everton,1,1,1,0,3,16,13,7,3,74,3,0,0,662,597,1,2,14,1,2,26,4,0,2,238,185
+868121,2022,2022-12-31T15:00:00+00:00,St. James' Park,Regular Season - 18,Newcastle,Leeds,0,0,0,0,5,16,13,9,3,59,3,0,1,419,324,1,8,19,3,0,41,5,0,5,297,189
+868122,2022,2023-01-01T16:30:00+00:00,The City Ground,Regular Season - 18,Nottingham Forest,Chelsea,1,1,0,1,5,12,16,1,2,28,2,0,1,256,196,2,7,14,2,2,72,2,0,4,697,623
+868123,2022,2023-01-01T14:00:00+00:00,Tottenham Hotspur Stadium,Regular Season - 18,Tottenham,Aston Villa,0,2,0,0,2,6,15,5,1,59,4,0,2,579,498,4,13,10,3,0,41,3,0,1,403,321
+868124,2022,2022-12-30T19:45:00+00:00,London Stadium,Regular Season - 18,West Ham,Brentford,0,2,0,2,5,20,9,8,0,63,1,0,4,570,493,6,9,5,1,0,37,0,0,5,348,261
+868125,2022,2022-12-31T12:30:00+00:00,Molineux Stadium,Regular Season - 18,Wolves,Manchester United,0,1,0,0,3,10,11,7,1,46,1,0,6,394,301,6,16,11,5,2,54,3,0,3,484,393
+868126,2022,2023-01-03T19:45:00+00:00,Emirates Stadium,Regular Season - 19,Arsenal,Newcastle,0,0,0,0,4,17,10,5,1,67,4,0,1,536,460,1,8,16,5,4,33,5,0,4,253,181
+868127,2022,2023-01-04T20:00:00+00:00,Villa Park,Regular Season - 19,Aston Villa,Wolves,1,1,0,1,4,13,6,7,1,56,1,0,2,491,430,3,10,12,8,4,44,3,0,2,383,321
+868128,2022,2023-01-02T17:30:00+00:00,Gtech Community Stadium,Regular Season - 19,Brentford,Liverpool,3,1,2,0,7,10,5,4,7,27,1,0,4,237,118,6,16,8,9,4,73,3,0,5,652,543
+868129,2022,2023-01-05T20:00:00+00:00,Stamford Bridge,Regular Season - 19,Chelsea,Manchester City,0,1,0,0,2,8,9,3,2,48,2,0,2,553,471,3,12,9,2,1,52,0,0,2,612,548
+868130,2022,2023-01-04T20:00:00+00:00,Selhurst Park,Regular Season - 19,Crystal Palace,Tottenham,0,4,0,0,4,19,11,10,1,47,1,0,2,472,387,6,14,8,4,2,53,2,0,4,545,470
+868131,2022,2023-01-03T19:45:00+00:00,Goodison Park,Regular Season - 19,Everton,Brighton,1,4,0,1,4,10,8,5,1,49,3,0,4,478,419,8,19,10,2,0,51,1,0,3,512,437
+868132,2022,2023-01-04T19:45:00+00:00,Elland Road,Regular Season - 19,Leeds,West Ham,2,2,1,1,6,14,11,8,3,63,3,0,0,476,378,2,15,18,1,3,37,1,0,3,275,172
+868133,2022,2023-01-03T19:45:00+00:00,King Power Stadium,Regular Season - 19,Leicester,Fulham,0,1,0,1,6,15,12,6,0,61,2,0,1,551,449,2,11,11,3,1,39,6,0,6,348,263
+868134,2022,2023-01-03T20:00:00+00:00,Old Trafford,Regular Season - 19,Manchester United,Bournemouth,3,0,1,0,6,18,13,6,0,59,0,0,4,579,495,4,7,7,5,2,41,3,0,3,405,320
+868135,2022,2023-01-04T19:30:00+00:00,St. Mary's Stadium,Regular Season - 19,Southampton,Nottingham Forest,0,1,0,1,0,8,14,6,1,63,2,0,0,468,365,1,11,17,2,0,37,2,0,0,283,180
+868136,2022,2023-01-13T20:00:00+00:00,Villa Park,Regular Season - 20,Aston Villa,Leeds,2,1,1,0,5,11,12,0,2,54,2,0,2,421,307,4,16,18,11,5,46,2,0,3,341,236
+868137,2022,2023-01-14T17:30:00+00:00,Gtech Community Stadium,Regular Season - 20,Brentford,Bournemouth,2,0,1,0,4,12,5,5,2,50,1,0,2,426,317,2,7,9,3,1,50,1,0,2,435,338
+868138,2022,2023-01-14T15:00:00+00:00,The American Express Community Stadium,Regular Season - 20,Brighton,Liverpool,3,0,0,0,9,16,9,7,4,61,1,0,2,650,573,2,6,15,1,2,39,3,0,5,420,350
+868139,2022,2023-01-15T14:00:00+00:00,Stamford Bridge,Regular Season - 20,Chelsea,Crystal Palace,1,0,0,0,5,15,10,11,3,63,2,0,5,579,490,5,10,17,7,1,37,5,0,4,335,249
+868140,2022,2023-01-14T15:00:00+00:00,Goodison Park,Regular Season - 20,Everton,Southampton,1,2,1,0,4,12,7,6,3,52,0,0,3,395,290,5,13,18,4,2,48,3,0,3,369,261
+868141,2022,2023-01-14T12:30:00+00:00,Old Trafford,Regular Season - 20,Manchester United,Manchester City,2,1,0,0,4,8,15,1,6,29,3,0,0,310,230,1,5,5,2,2,71,0,0,1,737,658
+868142,2022,2023-01-15T14:00:00+00:00,St. James' Park,Regular Season - 20,Newcastle,Fulham,1,0,0,0,5,20,6,10,2,62,1,0,0,449,369,0,5,14,5,3,38,3,0,4,270,189
+868143,2022,2023-01-14T15:00:00+00:00,The City Ground,Regular Season - 20,Nottingham Forest,Leicester,2,0,0,0,5,15,11,3,2,39,1,0,1,345,260,1,6,12,5,1,61,2,0,3,547,452
+868144,2022,2023-01-15T16:30:00+00:00,Tottenham Hotspur Stadium,Regular Season - 20,Tottenham,Arsenal,0,2,0,2,7,17,16,4,1,51,4,0,4,461,381,5,14,15,3,2,49,2,0,7,456,384
+868145,2022,2023-01-14T15:00:00+00:00,Molineux Stadium,Regular Season - 20,Wolves,West Ham,1,0,0,0,4,17,10,4,4,59,0,0,3,548,460,4,16,7,3,1,41,2,0,3,369,288
+868146,2022,2023-01-21T15:00:00+00:00,Vitality Stadium,Regular Season - 21,Bournemouth,Nottingham Forest,1,1,1,0,4,16,10,4,2,42,1,0,4,366,265,5,20,7,6,2,58,2,0,2,485,388
+868147,2022,2023-01-22T16:30:00+00:00,Emirates Stadium,Regular Season - 21,Arsenal,Manchester United,3,2,1,1,5,25,8,12,1,57,1,0,2,520,423,4,6,9,4,4,43,2,0,2,396,307
+868148,2022,2023-01-21T17:30:00+00:00,Selhurst Park,Regular Season - 21,Crystal Palace,Newcastle,0,0,0,0,1,6,13,3,0,39,4,0,7,316,212,7,16,7,15,1,61,2,0,1,488,386
+868149,2022,2023-01-23T20:00:00+00:00,Craven Cottage,Regular Season - 21,Fulham,Tottenham,0,1,0,1,5,10,10,3,2,53,1,0,2,485,398,3,10,10,8,0,47,3,0,5,446,349
+868150,2022,2023-01-22T14:00:00+00:00,Elland Road,Regular Season - 21,Leeds,Brentford,0,0,0,0,5,9,10,2,1,59,2,0,0,501,369,0,6,18,3,1,41,2,0,5,346,223
+868151,2022,2023-01-21T15:00:00+00:00,King Power Stadium,Regular Season - 21,Leicester,Brighton,2,2,1,1,2,9,9,5,0,37,0,0,2,369,293,4,13,9,6,2,63,1,0,0,637,563
+868152,2022,2023-01-21T12:30:00+00:00,Anfield,Regular Season - 21,Liverpool,Chelsea,0,0,0,0,3,15,16,5,5,48,3,0,2,477,375,2,11,9,5,1,52,1,0,3,540,437
+868153,2022,2023-01-22T14:00:00+00:00,Etihad Stadium,Regular Season - 21,Manchester City,Wolves,3,0,1,0,7,13,10,5,1,55,1,0,1,587,526,1,10,10,7,0,45,2,0,3,478,409
+868154,2022,2023-01-21T15:00:00+00:00,St. Mary's Stadium,Regular Season - 21,Southampton,Aston Villa,0,1,0,0,5,8,19,2,3,37,1,0,4,322,228,5,16,9,2,0,63,2,0,5,566,456
+868155,2022,2023-01-21T15:00:00+00:00,London Stadium,Regular Season - 21,West Ham,Everton,2,0,2,0,4,11,9,4,1,32,1,0,2,346,275,2,5,6,9,2,68,1,0,2,729,639
+868156,2022,2023-02-04T15:00:00+00:00,Villa Park,Regular Season - 22,Aston Villa,Leicester,2,4,2,3,4,19,10,11,2,63,0,0,1,564,489,5,9,10,3,8,37,3,0,3,333,249
+868157,2022,2023-02-04T15:00:00+00:00,Gtech Community Stadium,Regular Season - 22,Brentford,Southampton,3,0,2,0,4,14,10,4,1,48,1,0,5,396,274,6,14,9,4,2,52,2,0,0,427,323
+868158,2022,2023-02-04T15:00:00+00:00,The American Express Community Stadium,Regular Season - 22,Brighton,Bournemouth,1,0,0,0,6,20,14,7,0,72,3,0,2,682,609,2,12,7,3,1,28,1,0,5,264,191
+868159,2022,2023-02-03T20:00:00+00:00,Stamford Bridge,Regular Season - 22,Chelsea,Fulham,0,0,0,0,3,12,16,6,3,67,1,0,4,662,568,4,10,12,2,0,33,4,0,2,313,226
+868160,2022,2023-02-04T12:30:00+00:00,Goodison Park,Regular Season - 22,Everton,Arsenal,1,0,0,0,4,12,13,7,3,30,4,0,2,252,180,3,15,8,5,0,70,1,0,3,639,553
+868161,2022,2023-02-04T15:00:00+00:00,Old Trafford,Regular Season - 22,Manchester United,Crystal Palace,2,1,1,0,5,14,9,5,1,53,1,1,2,487,416,3,10,9,5,4,47,2,0,3,426,342
+868162,2022,2023-02-04T17:30:00+00:00,St. James' Park,Regular Season - 22,Newcastle,West Ham,1,1,1,1,2,8,11,4,0,63,2,0,0,557,449,1,10,13,2,2,37,1,0,1,329,227
+868163,2022,2023-02-05T14:00:00+00:00,The City Ground,Regular Season - 22,Nottingham Forest,Leeds,1,0,1,0,2,6,15,0,2,30,4,0,4,253,138,4,10,14,2,3,70,2,0,1,585,438
+868164,2022,2023-02-05T16:30:00+00:00,Tottenham Hotspur Stadium,Regular Season - 22,Tottenham,Manchester City,1,0,1,0,3,12,19,4,2,35,4,1,5,303,226,5,15,14,6,1,65,3,0,2,556,487
+868165,2022,2023-02-04T15:00:00+00:00,Molineux Stadium,Regular Season - 22,Wolves,Liverpool,3,0,2,0,6,12,9,2,1,42,1,0,2,407,305,4,22,7,7,2,58,1,0,3,544,465
+868166,2022,2023-02-11T17:30:00+00:00,Vitality Stadium,Regular Season - 23,Bournemouth,Newcastle,1,1,1,1,5,11,8,4,2,33,2,0,6,276,184,7,15,10,6,5,67,3,0,3,566,463
+868167,2022,2023-02-11T15:00:00+00:00,Emirates Stadium,Regular Season - 23,Arsenal,Brentford,1,1,0,0,7,23,9,7,1,69,0,0,1,590,510,2,9,9,4,1,31,2,0,6,267,177
+868168,2022,2023-02-11T15:00:00+00:00,Selhurst Park,Regular Season - 23,Crystal Palace,Brighton,1,1,0,0,1,6,10,1,3,26,4,0,6,240,169,7,17,11,6,2,74,1,0,0,705,634
+868169,2022,2023-02-11T15:00:00+00:00,Craven Cottage,Regular Season - 23,Fulham,Nottingham Forest,2,0,1,0,3,16,9,5,1,50,0,0,1,396,313,1,10,11,4,3,50,1,0,1,408,314
+868170,2022,2023-02-12T14:00:00+00:00,Elland Road,Regular Season - 23,Leeds,Manchester United,0,2,0,0,6,16,10,7,3,33,2,0,3,251,170,5,11,13,3,3,67,1,0,6,544,444
+868171,2022,2023-02-11T15:00:00+00:00,King Power Stadium,Regular Season - 23,Leicester,Tottenham,4,1,3,1,7,15,14,1,2,49,5,0,3,454,356,4,11,9,5,2,51,2,0,2,468,387
+868172,2022,2023-02-13T20:00:00+00:00,Anfield,Regular Season - 23,Liverpool,Everton,2,0,1,0,6,15,8,3,4,59,1,0,1,585,505,1,6,16,3,2,41,3,0,4,403,317
+868173,2022,2023-02-12T16:30:00+00:00,Etihad Stadium,Regular Season - 23,Manchester City,Aston Villa,3,1,3,0,9,17,13,8,1,67,1,0,1,620,558,2,6,14,4,4,33,2,0,5,304,247
+868174,2022,2023-02-11T15:00:00+00:00,St. Mary's Stadium,Regular Season - 23,Southampton,Wolves,1,2,1,0,2,17,12,5,0,41,2,0,0,329,232,2,11,14,2,3,59,4,1,1,492,396
+868175,2022,2023-02-11T12:30:00+00:00,London Stadium,Regular Season - 23,West Ham,Chelsea,1,1,1,1,2,10,9,5,3,28,1,0,3,247,187,4,12,11,6,4,72,1,0,1,660,597
+868176,2022,2023-02-18T12:30:00+00:00,Villa Park,Regular Season - 24,Aston Villa,Arsenal,2,4,2,1,5,7,13,2,0,33,2,0,2,293,225,5,20,4,9,2,67,1,0,3,571,489
+868177,2022,2023-02-18T15:00:00+00:00,Gtech Community Stadium,Regular Season - 24,Brentford,Crystal Palace,1,1,0,0,5,12,10,2,3,59,2,0,3,517,426,4,10,8,6,2,41,2,0,4,360,280
+868178,2022,2023-02-18T15:00:00+00:00,The American Express Community Stadium,Regular Season - 24,Brighton,Fulham,0,1,0,0,7,21,12,10,4,65,0,0,1,593,520,2,5,14,2,0,35,5,0,7,316,231
+868179,2022,2023-02-18T15:00:00+00:00,Stamford Bridge,Regular Season - 24,Chelsea,Southampton,0,1,0,1,5,17,16,8,3,61,3,0,3,504,433,5,8,25,2,1,39,6,0,4,320,241
+868180,2022,2023-02-18T15:00:00+00:00,Goodison Park,Regular Season - 24,Everton,Leeds,1,0,0,0,6,15,8,6,1,50,2,0,0,399,293,0,8,6,4,0,50,3,0,3,400,276
+868181,2022,2023-02-19T14:00:00+00:00,Old Trafford,Regular Season - 24,Manchester United,Leicester,3,0,1,0,8,26,9,6,0,57,0,0,3,572,484,3,19,9,6,1,43,2,0,5,433,351
+868182,2022,2023-02-18T17:30:00+00:00,St. James' Park,Regular Season - 24,Newcastle,Liverpool,0,2,0,2,4,14,3,6,3,37,1,1,5,350,287,7,13,8,7,0,63,1,0,4,605,533
+868183,2022,2023-02-18T15:00:00+00:00,The City Ground,Regular Season - 24,Nottingham Forest,Manchester City,1,1,0,1,1,4,8,0,2,27,1,0,5,252,164,6,23,6,10,0,73,0,0,0,676,595
+868184,2022,2023-02-19T16:30:00+00:00,Tottenham Hotspur Stadium,Regular Season - 24,Tottenham,West Ham,2,0,0,0,6,16,16,4,0,57,2,0,1,544,460,1,6,10,7,0,43,1,0,4,403,302
+868185,2022,2023-02-18T15:00:00+00:00,Molineux Stadium,Regular Season - 24,Wolves,Bournemouth,0,1,0,0,4,15,12,12,2,69,3,0,0,616,520,1,5,10,2,0,31,3,0,4,291,197
+868186,2022,2023-02-25T17:30:00+00:00,Vitality Stadium,Regular Season - 25,Bournemouth,Manchester City,1,4,0,3,2,13,10,4,1,34,2,0,2,377,313,5,20,9,6,2,66,2,0,1,750,676
+868187,2022,2023-02-25T19:45:00+00:00,Selhurst Park,Regular Season - 25,Crystal Palace,Liverpool,0,0,0,0,0,6,11,5,4,36,2,0,4,345,257,4,12,14,3,1,64,5,0,0,644,544
+868188,2022,2023-02-25T15:00:00+00:00,Goodison Park,Regular Season - 25,Everton,Aston Villa,0,2,0,0,5,15,12,5,1,47,2,0,3,353,277,5,9,12,1,0,53,1,0,4,433,343
+868189,2022,2023-02-24T20:00:00+00:00,Craven Cottage,Regular Season - 25,Fulham,Wolves,1,1,0,1,5,10,12,3,1,51,2,0,1,448,364,2,8,17,3,1,49,0,0,4,442,337
+868190,2022,2023-02-25T15:00:00+00:00,Elland Road,Regular Season - 25,Leeds,Southampton,1,0,0,0,4,14,15,9,2,61,2,0,2,520,440,2,8,13,2,3,39,4,0,3,345,268
+868191,2022,2023-02-25T15:00:00+00:00,King Power Stadium,Regular Season - 25,Leicester,Arsenal,0,1,0,0,0,1,14,0,4,34,0,0,1,315,217,2,10,9,8,4,66,1,0,0,613,505
+868192,2022,2023-04-05T19:00:00+00:00,Old Trafford,Regular Season - 25,Manchester United,Brentford,1,0,1,0,3,18,8,12,3,65,3,0,1,615,528,1,6,13,3,1,35,2,0,2,327,249
+868193,2022,2023-05-18T18:30:00+00:00,St. James' Park,Regular Season - 25,Newcastle,Brighton,4,1,2,0,9,22,17,6,1,34,2,0,1,252,180,2,8,16,1,2,66,4,0,5,503,421
+868194,2022,2023-02-26T13:30:00+00:00,Tottenham Hotspur Stadium,Regular Season - 25,Tottenham,Chelsea,2,0,0,0,3,8,10,4,0,41,2,0,2,410,337,2,10,10,4,2,59,3,0,1,596,532
+868195,2022,2023-02-25T15:00:00+00:00,London Stadium,Regular Season - 25,West Ham,Nottingham Forest,4,0,0,0,5,18,8,12,1,49,0,0,3,409,319,3,8,5,3,1,51,0,0,1,435,340
+868196,2022,2023-03-04T15:00:00+00:00,Emirates Stadium,Regular Season - 26,Arsenal,Bournemouth,3,2,0,1,9,31,6,17,0,80,0,0,2,740,656,4,4,8,1,0,20,2,0,6,184,106
+868197,2022,2023-03-04T15:00:00+00:00,Villa Park,Regular Season - 26,Aston Villa,Crystal Palace,1,0,1,0,1,8,14,2,0,58,2,0,0,526,462,0,3,17,4,5,42,5,1,1,364,305
+868198,2022,2023-03-06T20:00:00+00:00,Gtech Community Stadium,Regular Season - 26,Brentford,Fulham,3,2,1,1,6,14,12,2,3,36,0,0,3,274,183,5,9,17,3,1,64,3,0,3,483,400
+868199,2022,2023-03-04T15:00:00+00:00,The American Express Community Stadium,Regular Season - 26,Brighton,West Ham,4,0,1,0,9,20,6,7,0,66,0,0,2,708,641,2,3,8,3,0,34,3,0,5,368,290
+868200,2022,2023-03-04T15:00:00+00:00,Stamford Bridge,Regular Season - 26,Chelsea,Leeds,1,0,0,0,3,13,11,5,2,57,2,0,2,579,507,2,11,7,7,2,43,0,0,2,425,337
+868201,2022,2023-03-05T16:30:00+00:00,Anfield,Regular Season - 26,Liverpool,Manchester United,7,0,1,0,8,18,13,4,0,60,2,0,4,468,365,4,8,14,3,4,40,3,0,1,314,223
+868202,2022,2023-03-04T12:30:00+00:00,Etihad Stadium,Regular Season - 26,Manchester City,Newcastle,2,0,1,0,3,11,8,8,0,56,2,0,2,539,466,2,5,13,4,1,44,4,0,1,410,331
+868203,2022,2023-03-05T14:00:00+00:00,The City Ground,Regular Season - 26,Nottingham Forest,Everton,2,2,1,2,4,10,11,3,0,57,3,0,1,472,362,3,10,17,3,0,43,5,0,2,361,240
+868204,2022,2023-03-04T17:30:00+00:00,St. Mary's Stadium,Regular Season - 26,Southampton,Leicester,1,0,1,0,5,11,12,3,4,35,4,0,0,330,227,0,11,11,4,2,65,2,0,4,615,486
+868205,2022,2023-03-04T15:00:00+00:00,Molineux Stadium,Regular Season - 26,Wolves,Tottenham,1,0,0,0,5,8,11,4,3,47,1,0,6,421,343,6,21,18,8,1,53,1,0,4,473,406
+868206,2022,2023-03-11T12:30:00+00:00,Vitality Stadium,Regular Season - 27,Bournemouth,Liverpool,1,0,1,0,2,5,7,3,2,31,2,0,5,278,182,6,15,9,8,4,69,1,0,1,637,531
+868207,2022,2023-03-11T17:30:00+00:00,Selhurst Park,Regular Season - 27,Crystal Palace,Manchester City,0,1,0,0,0,4,11,2,3,32,2,0,3,290,218,4,14,17,6,2,68,2,0,0,616,538
+868208,2022,2023-03-11T15:00:00+00:00,Goodison Park,Regular Season - 27,Everton,Brentford,1,0,1,0,6,13,11,5,3,33,2,0,3,262,164,4,12,12,8,1,67,1,0,5,523,405
+868209,2022,2023-03-12T14:00:00+00:00,Craven Cottage,Regular Season - 27,Fulham,Arsenal,0,3,0,3,2,12,10,4,2,45,0,0,4,433,358,7,15,9,8,2,55,1,0,2,539,466
+868210,2022,2023-03-11T15:00:00+00:00,Elland Road,Regular Season - 27,Leeds,Brighton,2,2,1,1,4,12,12,4,3,38,1,0,2,378,310,2,14,9,7,3,62,1,0,2,620,534
+868211,2022,2023-03-11T15:00:00+00:00,King Power Stadium,Regular Season - 27,Leicester,Chelsea,1,3,1,2,7,17,10,2,0,48,3,1,3,517,429,6,12,11,5,4,52,2,0,5,550,464
+868212,2022,2023-03-12T14:00:00+00:00,Old Trafford,Regular Season - 27,Manchester United,Southampton,0,0,0,0,4,10,12,7,0,47,2,1,4,389,304,4,17,9,8,2,53,0,0,4,444,373
+868213,2022,2023-03-12T16:30:00+00:00,St. James' Park,Regular Season - 27,Newcastle,Wolves,2,1,1,0,8,19,11,10,0,42,1,0,3,302,238,4,7,10,3,0,58,2,0,6,425,345
+868214,2022,2023-03-11T15:00:00+00:00,Tottenham Hotspur Stadium,Regular Season - 27,Tottenham,Nottingham Forest,3,1,2,0,7,15,13,2,1,55,3,0,4,490,427,5,9,13,10,1,45,1,0,4,391,318
+868215,2022,2023-03-12T14:00:00+00:00,London Stadium,Regular Season - 27,West Ham,Aston Villa,1,1,1,1,6,17,9,12,6,41,1,0,3,352,290,4,12,6,2,1,59,0,0,4,545,474
+868216,2022,2023-03-19T14:00:00+00:00,Emirates Stadium,Regular Season - 28,Arsenal,Crystal Palace,4,1,2,0,5,15,8,5,2,62,0,0,4,587,509,5,9,10,4,2,38,1,0,1,358,279
+868217,2022,2023-03-18T15:00:00+00:00,Villa Park,Regular Season - 28,Aston Villa,Bournemouth,3,0,1,0,9,20,8,9,0,56,1,0,3,447,381,3,10,13,6,2,44,4,0,6,350,294
+868218,2022,2023-03-18T15:00:00+00:00,Gtech Community Stadium,Regular Season - 28,Brentford,Leicester,1,1,1,0,2,11,10,8,1,53,3,1,0,484,374,1,14,11,4,3,47,2,0,1,443,355
+868219,2022,2023-05-04T19:00:00+00:00,The American Express Community Stadium,Regular Season - 28,Brighton,Manchester United,1,0,0,0,6,22,10,8,0,60,4,0,5,563,486,5,16,14,6,2,40,4,0,5,385,291
+868220,2022,2023-03-18T17:30:00+00:00,Stamford Bridge,Regular Season - 28,Chelsea,Everton,2,2,0,0,7,20,8,8,2,69,2,0,1,542,455,3,12,12,2,1,31,2,0,5,246,165
+868221,2022,2023-05-03T19:00:00+00:00,Anfield,Regular Season - 28,Liverpool,Fulham,1,0,1,0,3,15,10,7,3,57,0,0,3,613,522,3,9,8,5,2,43,0,0,2,454,381
+868222,2022,2023-05-03T19:00:00+00:00,Etihad Stadium,Regular Season - 28,Manchester City,West Ham,3,0,0,0,7,16,8,6,1,69,0,0,2,723,656,2,6,8,3,0,31,1,0,4,327,255
+868223,2022,2023-03-17T20:00:00+00:00,The City Ground,Regular Season - 28,Nottingham Forest,Newcastle,1,2,1,1,3,5,17,3,1,38,5,0,2,285,192,4,15,9,7,1,62,1,0,2,449,358
+868224,2022,2023-03-18T15:00:00+00:00,St. Mary's Stadium,Regular Season - 28,Southampton,Tottenham,3,3,0,1,7,19,13,10,2,50,1,0,0,457,388,3,17,8,3,1,50,1,0,4,450,377
+868225,2022,2023-03-18T15:00:00+00:00,Molineux Stadium,Regular Season - 28,Wolves,Leeds,2,4,0,1,8,23,15,5,2,66,3,2,0,580,482,4,11,9,4,0,34,5,0,6,294,199
+868226,2022,2023-04-01T14:00:00+00:00,Vitality Stadium,Regular Season - 29,Bournemouth,Fulham,2,1,0,1,7,12,15,4,1,43,1,0,1,367,281,2,10,13,3,1,57,4,0,4,496,424
+868227,2022,2023-04-01T14:00:00+00:00,Emirates Stadium,Regular Season - 29,Arsenal,Leeds,4,1,1,0,6,13,11,4,5,67,0,0,4,636,544,5,7,13,3,1,33,2,0,1,307,220
+868228,2022,2023-04-01T14:00:00+00:00,The American Express Community Stadium,Regular Season - 29,Brighton,Brentford,3,3,2,2,15,33,16,14,2,72,2,0,2,582,507,5,7,10,0,2,28,1,0,11,227,150
+868229,2022,2023-04-01T16:30:00+00:00,Stamford Bridge,Regular Season - 29,Chelsea,Aston Villa,0,2,0,1,8,27,14,13,2,69,3,0,0,600,543,2,5,16,2,0,31,3,0,7,285,214
+868230,2022,2023-04-01T14:00:00+00:00,Selhurst Park,Regular Season - 29,Crystal Palace,Leicester,2,1,0,0,9,31,12,10,1,51,3,0,1,446,357,2,3,16,1,2,49,4,0,8,445,345
+868231,2022,2023-04-03T19:00:00+00:00,Goodison Park,Regular Season - 29,Everton,Tottenham,1,1,0,0,6,15,10,3,1,39,0,1,0,377,303,2,8,14,3,3,61,3,1,5,596,502
+868232,2022,2023-04-01T11:30:00+00:00,Etihad Stadium,Regular Season - 29,Manchester City,Liverpool,4,1,1,1,8,17,9,7,3,68,1,0,0,754,692,1,4,12,1,5,32,1,0,4,350,288
+868233,2022,2023-04-02T15:30:00+00:00,St. James' Park,Regular Season - 29,Newcastle,Manchester United,2,0,0,0,6,22,8,7,1,46,0,0,1,343,264,1,6,12,4,0,54,0,0,4,417,338
+868234,2022,2023-04-01T14:00:00+00:00,The City Ground,Regular Season - 29,Nottingham Forest,Wolves,1,1,1,0,7,17,14,4,2,28,3,0,0,235,162,1,8,13,3,0,72,5,0,6,636,541
+868235,2022,2023-04-02T13:00:00+00:00,London Stadium,Regular Season - 29,West Ham,Southampton,1,0,1,0,2,12,10,5,1,43,0,0,3,403,296,3,9,11,3,1,57,2,0,2,544,455
+868236,2022,2023-04-08T14:00:00+00:00,Villa Park,Regular Season - 30,Aston Villa,Nottingham Forest,2,0,0,0,3,8,7,1,1,65,3,0,2,448,384,2,6,17,8,7,35,4,0,1,227,149
+868237,2022,2023-04-08T14:00:00+00:00,Gtech Community Stadium,Regular Season - 30,Brentford,Newcastle,1,2,1,0,6,12,10,6,2,41,0,0,3,273,206,4,10,15,5,2,59,2,0,5,413,341
+868238,2022,2023-04-08T14:00:00+00:00,Craven Cottage,Regular Season - 30,Fulham,West Ham,0,1,0,1,3,16,10,11,0,77,1,0,5,659,581,5,9,12,4,2,23,1,0,3,196,122
+868239,2022,2023-04-09T13:00:00+00:00,Elland Road,Regular Season - 30,Leeds,Crystal Palace,1,5,1,1,7,11,11,2,2,48,3,0,2,403,305,8,16,8,4,2,52,1,0,7,436,325
+868240,2022,2023-04-08T14:00:00+00:00,King Power Stadium,Regular Season - 30,Leicester,Bournemouth,0,1,0,1,4,14,10,6,3,51,0,0,6,423,319,7,19,13,6,2,49,3,0,4,417,328
+868241,2022,2023-04-09T15:30:00+00:00,Anfield,Regular Season - 30,Liverpool,Arsenal,2,2,1,2,6,21,11,5,2,59,4,0,3,525,432,5,9,11,4,2,41,4,0,4,372,285
+868242,2022,2023-04-08T11:30:00+00:00,Old Trafford,Regular Season - 30,Manchester United,Everton,2,0,1,0,11,29,10,10,3,64,0,0,1,614,535,1,15,9,4,2,36,0,0,9,331,236
+868243,2022,2023-04-08T16:30:00+00:00,St. Mary's Stadium,Regular Season - 30,Southampton,Manchester City,1,4,0,1,1,4,6,0,0,27,0,0,4,271,204,8,13,10,10,2,73,2,0,0,732,653
+868244,2022,2023-04-08T14:00:00+00:00,Tottenham Hotspur Stadium,Regular Season - 30,Tottenham,Brighton,2,1,1,1,3,9,15,3,2,35,3,0,3,299,231,4,17,15,7,1,65,1,0,1,557,485
+868245,2022,2023-04-08T14:00:00+00:00,Molineux Stadium,Regular Season - 30,Wolves,Chelsea,1,0,1,0,4,9,14,8,2,38,2,0,1,314,234,1,13,10,8,1,62,5,0,3,530,443
+868246,2022,2023-04-15T11:30:00+00:00,Villa Park,Regular Season - 31,Aston Villa,Newcastle,3,0,1,0,6,16,13,7,1,52,1,0,2,395,309,2,8,15,2,4,48,1,0,3,362,283
+868247,2022,2023-04-15T14:00:00+00:00,Stamford Bridge,Regular Season - 31,Chelsea,Brighton,1,2,1,1,2,8,11,2,1,43,2,0,9,405,330,10,26,11,8,1,57,2,0,1,555,475
+868248,2022,2023-04-15T14:00:00+00:00,Goodison Park,Regular Season - 31,Everton,Fulham,1,3,1,1,7,15,10,4,1,47,3,0,4,408,302,7,21,6,7,0,53,2,0,6,467,351
+868249,2022,2023-04-17T19:00:00+00:00,Elland Road,Regular Season - 31,Leeds,Liverpool,1,6,0,2,3,13,6,4,1,26,0,0,1,296,204,7,13,12,2,2,74,1,0,2,869,774
+868250,2022,2023-04-15T16:30:00+00:00,Etihad Stadium,Regular Season - 31,Manchester City,Leicester,3,1,3,0,4,12,8,6,0,71,1,0,3,754,695,4,11,8,2,3,29,1,0,1,317,254
+868251,2022,2023-04-16T15:30:00+00:00,The City Ground,Regular Season - 31,Nottingham Forest,Manchester United,0,2,0,1,0,6,9,4,1,32,2,0,5,281,183,8,22,9,9,3,68,2,0,0,608,504
+868252,2022,2023-04-15T14:00:00+00:00,St. Mary's Stadium,Regular Season - 31,Southampton,Crystal Palace,0,2,0,0,4,11,6,6,3,58,3,0,0,499,420,2,10,13,2,1,42,1,0,4,362,274
+868253,2022,2023-04-15T14:15:00+00:00,Tottenham Hotspur Stadium,Regular Season - 31,Tottenham,Bournemouth,2,3,1,1,8,24,8,8,1,57,1,0,3,485,395,6,9,9,1,1,43,2,0,6,379,289
+868254,2022,2023-04-16T13:00:00+00:00,London Stadium,Regular Season - 31,West Ham,Arsenal,2,2,1,2,3,16,11,7,4,29,1,0,3,226,156,5,11,8,2,1,71,2,0,1,601,523
+868255,2022,2023-04-15T14:00:00+00:00,Molineux Stadium,Regular Season - 31,Wolves,Brentford,2,0,1,0,9,11,12,5,0,51,1,0,3,453,360,3,10,8,2,1,49,1,0,7,436,352
+868256,2022,2023-04-23T13:00:00+00:00,Vitality Stadium,Regular Season - 32,Bournemouth,West Ham,0,4,0,3,5,17,7,8,0,65,1,0,6,643,560,10,18,8,5,3,35,2,0,5,358,278
+868257,2022,2023-04-21T19:00:00+00:00,Emirates Stadium,Regular Season - 32,Arsenal,Southampton,3,3,1,2,6,25,10,7,1,74,1,0,3,670,577,6,8,14,2,2,26,5,0,2,237,153
+868258,2022,2023-04-22T14:00:00+00:00,Gtech Community Stadium,Regular Season - 32,Brentford,Aston Villa,1,1,0,0,5,16,12,8,6,43,3,0,1,308,210,2,14,8,4,3,57,2,0,4,422,333
+868260,2022,2023-04-22T14:00:00+00:00,Selhurst Park,Regular Season - 32,Crystal Palace,Everton,0,0,0,0,2,12,12,8,1,57,1,0,5,414,309,5,10,14,1,3,43,3,1,2,318,214
+868261,2022,2023-04-22T11:30:00+00:00,Craven Cottage,Regular Season - 32,Fulham,Leeds,2,1,0,0,5,12,10,8,5,49,1,0,2,375,281,2,10,15,6,2,51,4,0,3,392,284
+868262,2022,2023-04-22T14:00:00+00:00,King Power Stadium,Regular Season - 32,Leicester,Wolves,2,1,1,1,8,15,17,1,1,42,1,0,2,364,270,3,16,16,7,3,58,3,0,5,497,406
+868263,2022,2023-04-22T14:00:00+00:00,Anfield,Regular Season - 32,Liverpool,Nottingham Forest,3,2,0,0,6,18,9,9,2,81,0,0,3,650,570,5,11,12,3,3,19,1,0,2,148,78
+868265,2022,2023-04-23T13:00:00+00:00,St. James' Park,Regular Season - 32,Newcastle,Tottenham,6,1,5,0,8,25,7,9,2,57,0,0,2,516,446,3,11,13,3,0,43,3,0,2,401,317
+868266,2022,2023-04-27T18:45:00+00:00,Goodison Park,Regular Season - 33,Everton,Newcastle,1,4,0,1,5,13,8,3,3,40,2,0,3,300,196,8,15,6,14,1,60,1,0,4,452,338
+868267,2022,2023-04-25T19:00:00+00:00,Elland Road,Regular Season - 33,Leeds,Leicester,1,1,1,0,3,13,14,3,4,41,4,0,2,307,197,3,15,15,6,6,59,2,0,2,445,325
+868268,2022,2023-04-26T18:30:00+00:00,The City Ground,Regular Season - 33,Nottingham Forest,Brighton,3,1,1,1,5,12,7,2,1,25,2,0,6,232,155,7,17,8,7,2,75,0,0,3,719,622
+868269,2022,2023-04-27T19:15:00+00:00,Tottenham Hotspur Stadium,Regular Season - 33,Tottenham,Manchester United,2,2,0,2,7,18,8,6,2,40,1,0,5,387,315,8,17,7,8,3,60,2,0,5,600,518
+868270,2022,2023-04-26T18:45:00+00:00,London Stadium,Regular Season - 33,West Ham,Liverpool,1,2,1,1,2,7,6,3,1,27,0,0,2,311,217,4,20,8,6,1,73,0,0,1,850,743
+868271,2022,2023-04-25T18:30:00+00:00,Molineux Stadium,Regular Season - 33,Wolves,Crystal Palace,2,0,1,0,3,9,13,6,2,41,5,0,4,320,236,4,14,14,11,1,59,4,0,2,446,364
+868272,2022,2023-04-25T18:45:00+00:00,Villa Park,Regular Season - 33,Aston Villa,Fulham,1,0,1,0,3,14,6,8,0,52,3,0,0,436,365,0,1,18,2,5,48,2,0,2,401,326
+868273,2022,2023-04-26T18:45:00+00:00,Stamford Bridge,Regular Season - 33,Chelsea,Brentford,0,2,0,1,4,15,5,5,0,73,1,0,0,696,614,1,7,13,2,2,27,2,0,4,263,173
+868274,2022,2023-04-27T18:45:00+00:00,St. Mary's Stadium,Regular Season - 33,Southampton,Bournemouth,0,1,0,0,2,11,9,6,4,57,0,0,1,501,411,2,16,11,4,2,43,3,0,2,389,306
+868275,2022,2023-04-26T19:00:00+00:00,Etihad Stadium,Regular Season - 33,Manchester City,Arsenal,4,1,2,0,9,14,13,1,0,52,3,0,1,495,421,2,8,13,3,1,48,1,0,5,457,387
+868276,2022,2023-04-30T13:00:00+00:00,Vitality Stadium,Regular Season - 34,Bournemouth,Leeds,4,1,2,1,7,12,12,2,2,42,1,0,5,371,271,6,15,14,5,1,58,0,0,3,500,402
+868277,2022,2023-05-02T19:00:00+00:00,Emirates Stadium,Regular Season - 34,Arsenal,Chelsea,3,1,3,0,10,16,10,7,1,55,0,0,3,543,470,4,7,10,2,0,45,2,0,6,455,383
+868278,2022,2023-04-29T14:00:00+00:00,Gtech Community Stadium,Regular Season - 34,Brentford,Nottingham Forest,2,1,0,1,8,14,6,6,1,69,1,0,2,550,466,3,5,13,0,1,31,2,0,6,255,174
+868279,2022,2023-04-29T14:00:00+00:00,The American Express Community Stadium,Regular Season - 34,Brighton,Wolves,6,0,4,0,8,22,14,2,2,57,1,0,2,527,465,2,10,11,5,0,43,1,0,2,381,310
+868280,2022,2023-04-29T11:30:00+00:00,Selhurst Park,Regular Season - 34,Crystal Palace,West Ham,4,3,3,2,6,16,9,8,1,60,1,0,1,498,392,4,8,17,5,1,40,2,0,2,334,219
+868281,2022,2023-04-30T13:00:00+00:00,Craven Cottage,Regular Season - 34,Fulham,Manchester City,1,2,1,2,1,4,9,2,3,37,1,0,7,373,303,9,12,10,5,1,63,3,0,0,645,560
+868282,2022,2023-05-01T19:00:00+00:00,King Power Stadium,Regular Season - 34,Leicester,Everton,2,2,2,1,6,15,10,2,6,55,4,0,6,452,335,8,23,12,9,3,45,1,0,3,340,246
+868283,2022,2023-04-30T15:30:00+00:00,Anfield,Regular Season - 34,Liverpool,Tottenham,4,3,3,1,4,12,12,4,0,68,3,0,3,724,639,7,10,6,2,5,32,2,0,0,339,250
+868284,2022,2023-04-30T13:00:00+00:00,Old Trafford,Regular Season - 34,Manchester United,Aston Villa,1,0,1,0,6,14,16,1,7,57,2,0,1,512,436,1,7,7,4,3,43,0,0,5,369,289
+868285,2022,2023-04-30T13:00:00+00:00,St. James' Park,Regular Season - 34,Newcastle,Southampton,3,1,0,1,5,22,7,11,1,63,1,0,2,498,408,3,4,10,2,2,37,4,0,3,298,208
+868286,2022,2023-05-06T14:00:00+00:00,Vitality Stadium,Regular Season - 35,Bournemouth,Chelsea,1,3,1,1,4,10,9,7,1,34,1,0,2,305,230,5,11,11,7,0,66,3,0,3,600,529
+868287,2022,2023-05-08T16:30:00+00:00,The American Express Community Stadium,Regular Season - 35,Brighton,Everton,1,5,0,3,5,23,11,15,1,78,1,0,1,741,657,5,10,13,1,1,22,5,0,4,221,144
+868288,2022,2023-05-08T14:00:00+00:00,Craven Cottage,Regular Season - 35,Fulham,Leicester,5,3,3,0,7,17,13,2,1,57,0,0,6,511,419,9,18,15,7,4,43,3,0,2,380,292
+868289,2022,2023-05-06T16:30:00+00:00,Anfield,Regular Season - 35,Liverpool,Brentford,1,0,1,0,5,15,19,7,1,54,4,0,2,378,308,1,5,10,3,2,46,2,0,4,326,244
+868290,2022,2023-05-06T14:00:00+00:00,Etihad Stadium,Regular Season - 35,Manchester City,Leeds,2,1,2,0,6,18,3,10,4,81,0,0,1,873,795,2,4,16,1,3,19,3,0,4,201,120
+868291,2022,2023-05-07T15:30:00+00:00,St. James' Park,Regular Season - 35,Newcastle,Arsenal,0,2,0,1,5,12,16,9,0,54,2,0,5,395,315,6,10,12,4,1,46,1,0,5,346,274
+868292,2022,2023-05-08T19:00:00+00:00,The City Ground,Regular Season - 35,Nottingham Forest,Southampton,4,3,3,1,4,9,16,2,3,36,1,0,2,306,213,5,19,10,11,1,64,0,0,0,537,448
+868293,2022,2023-05-06T14:00:00+00:00,Tottenham Hotspur Stadium,Regular Season - 35,Tottenham,Crystal Palace,1,0,1,0,3,8,15,8,1,58,3,0,2,514,432,2,7,14,4,0,42,5,0,2,378,285
+868294,2022,2023-05-07T18:00:00+00:00,London Stadium,Regular Season - 35,West Ham,Manchester United,1,0,1,0,4,15,4,6,1,35,0,0,4,345,263,4,19,9,6,1,65,2,0,3,680,588
+868295,2022,2023-05-06T14:00:00+00:00,Molineux Stadium,Regular Season - 35,Wolves,Aston Villa,1,0,1,0,2,6,20,5,3,38,3,0,3,264,194,3,16,9,6,2,62,3,0,1,432,371
+868296,2022,2023-05-14T15:30:00+00:00,Emirates Stadium,Regular Season - 36,Arsenal,Brighton,0,3,0,0,2,14,13,5,1,41,1,0,3,360,276,6,12,17,2,4,59,2,0,2,535,446
+868297,2022,2023-05-13T14:00:00+00:00,Villa Park,Regular Season - 36,Aston Villa,Tottenham,2,1,1,0,4,8,9,8,2,49,3,0,1,412,350,2,5,14,3,9,51,3,0,2,435,371
+868298,2022,2023-05-14T13:00:00+00:00,Gtech Community Stadium,Regular Season - 36,Brentford,West Ham,2,0,2,0,10,24,5,7,3,53,1,0,4,506,411,4,4,5,5,3,47,0,0,7,447,353
+868299,2022,2023-05-13T14:00:00+00:00,Stamford Bridge,Regular Season - 36,Chelsea,Nottingham Forest,2,2,0,1,6,14,13,2,1,76,3,0,0,708,631,2,11,15,5,2,24,1,0,4,217,132
+868300,2022,2023-05-13T14:00:00+00:00,Selhurst Park,Regular Season - 36,Crystal Palace,Bournemouth,2,0,1,0,5,17,5,11,2,60,0,0,0,604,517,0,5,12,2,1,40,2,0,3,410,330
+868301,2022,2023-05-14T13:00:00+00:00,Goodison Park,Regular Season - 36,Everton,Manchester City,0,3,0,2,3,7,12,8,1,37,1,0,1,381,324,4,9,4,6,0,63,0,0,2,670,610
+868302,2022,2023-05-13T11:30:00+00:00,Elland Road,Regular Season - 36,Leeds,Newcastle,2,2,1,1,4,9,16,2,0,36,4,1,3,253,163,5,18,14,6,2,64,2,0,2,452,365
+868303,2022,2023-05-15T19:00:00+00:00,King Power Stadium,Regular Season - 36,Leicester,Liverpool,0,3,0,2,4,4,11,4,3,33,2,0,2,331,230,5,16,17,4,4,67,1,0,4,675,576
+868304,2022,2023-05-13T14:00:00+00:00,Old Trafford,Regular Season - 36,Manchester United,Wolves,2,0,1,0,9,27,9,11,0,48,3,0,0,439,359,0,5,9,7,1,52,2,0,8,469,377
+868305,2022,2023-05-13T14:00:00+00:00,St. Mary's Stadium,Regular Season - 36,Southampton,Fulham,0,2,0,0,1,5,17,1,4,36,2,0,1,349,272,4,9,12,8,1,64,0,0,1,626,548

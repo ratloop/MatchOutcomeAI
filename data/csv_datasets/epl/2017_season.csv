@@ -1,0 +1,381 @@
+fixture_id,season,date,stadium,game_week,home_team,away_team,home_goals,away_goals,ht_home_goals,ht_away_goals,home_shots_on_target,home_shots,home_fouls,home_corners,home_offsides,home_possession,home_yellow_cards,home_red_cards,home_goalkeeper_saves,home_attempted_passes,home_successful_passes,away_shots_on_target,away_shots,away_fouls,away_corners,away_offsides,away_possession,away_yellow_cards,away_red_cards,away_goalkeeper_saves,away_attempted_passes,away_successful_passes
+11532,2017,2018-05-13T14:00:00+00:00,Turf Moor,Regular Season - 38,Burnley,Bournemouth,1,2,1,0,4,10,14,7,3,51,0,0,3,416,303,5,16,9,8,1,49,0,0,3,401,305
+11533,2017,2018-05-13T14:00:00+00:00,Selhurst Park,Regular Season - 38,Crystal Palace,West Brom,2,0,0,0,5,11,10,4,1,59,2,0,1,560,485,1,7,11,2,1,41,3,0,4,379,300
+11534,2017,2018-05-13T14:00:00+00:00,John Smith's Stadium,Regular Season - 38,Huddersfield,Arsenal,0,1,0,1,3,19,11,7,0,45,1,0,3,399,308,4,9,7,4,2,55,0,0,3,519,414
+11535,2017,2018-05-13T14:00:00+00:00,Anfield,Regular Season - 38,Liverpool,Brighton,4,0,2,0,11,22,3,7,1,72,0,0,1,737,658,1,2,6,3,1,28,0,0,6,275,194
+11536,2017,2018-05-13T14:00:00+00:00,Old Trafford,Regular Season - 38,Manchester United,Watford,1,0,1,0,1,7,6,6,5,51,4,0,3,460,370,3,7,11,5,1,49,0,0,0,429,355
+11537,2017,2018-05-13T14:00:00+00:00,St James' Park,Regular Season - 38,Newcastle,Chelsea,3,0,1,0,6,16,11,4,0,42,0,0,2,406,316,2,6,10,2,2,58,1,0,4,568,484
+11538,2017,2018-05-13T14:00:00+00:00,St. Mary's Stadium,Regular Season - 38,Southampton,Manchester City,0,1,0,0,3,8,8,1,4,30,3,0,1,259,173,2,13,10,12,2,70,2,0,2,583,506
+11539,2017,2018-05-13T14:00:00+00:00,Liberty Stadium,Regular Season - 38,Swansea,Stoke City,1,2,1,2,11,27,12,6,1,57,1,0,3,544,472,5,8,9,0,5,43,2,0,9,414,336
+11540,2017,2018-05-13T14:00:00+00:00,Wembley Stadium,Regular Season - 38,Tottenham,Leicester,5,4,1,2,6,14,9,4,2,64,1,0,5,480,393,9,17,13,4,4,36,2,0,2,265,193
+11541,2017,2018-05-13T14:00:00+00:00,London Stadium,Regular Season - 38,West Ham,Everton,3,1,1,0,4,15,10,6,4,56,0,0,6,479,396,7,14,13,6,1,44,1,0,1,365,283
+11542,2017,2018-05-10T18:45:00+00:00,London Stadium,Regular Season - 31,West Ham,Manchester United,0,0,0,0,2,9,12,1,1,44,1,0,6,476,395,6,16,12,6,2,56,1,0,2,601,519
+11543,2017,2018-05-09T19:00:00+00:00,Etihad Stadium,Regular Season - 31,Manchester City,Brighton,3,1,2,1,7,19,5,4,1,73,0,0,2,854,784,3,6,7,3,2,27,1,0,4,301,240
+11544,2017,2018-05-09T19:00:00+00:00,Wembley Stadium,Regular Season - 31,Tottenham,Newcastle,1,0,0,0,7,11,10,6,4,62,2,0,3,551,459,3,14,8,4,1,38,3,0,6,319,211
+11545,2017,2018-05-09T18:45:00+00:00,King Power Stadium,Regular Season - 31,Leicester,Arsenal,3,1,1,0,10,19,7,6,6,40,2,0,6,310,241,7,14,12,6,1,60,2,1,7,477,386
+11546,2017,2018-05-09T18:45:00+00:00,Stamford Bridge,Regular Season - 35,Chelsea,Huddersfield,1,1,0,0,5,22,7,9,2,77,0,0,1,831,722,2,3,10,0,0,23,1,0,4,243,137
+11547,2017,2018-05-08T18:45:00+00:00,Liberty Stadium,Regular Season - 31,Swansea,Southampton,0,1,0,0,3,11,7,7,2,53,2,0,7,416,300,8,13,15,6,0,47,1,0,3,372,253
+11548,2017,2018-05-06T15:30:00+00:00,Emirates Stadium,Regular Season - 37,Arsenal,Burnley,5,0,2,0,8,16,6,4,0,63,0,0,2,662,591,2,6,7,5,0,37,1,0,3,372,296
+11549,2017,2018-05-06T15:30:00+00:00,Stamford Bridge,Regular Season - 37,Chelsea,Liverpool,1,0,1,0,4,12,12,3,2,31,3,0,5,354,253,5,10,9,1,0,69,2,0,3,763,668
+11550,2017,2018-05-06T12:30:00+00:00,Etihad Stadium,Regular Season - 37,Manchester City,Huddersfield,0,0,0,0,2,15,9,10,1,79,0,0,3,720,630,3,5,4,1,1,21,3,0,2,193,108
+11551,2017,2018-05-05T16:30:00+00:00,Goodison Park,Regular Season - 37,Everton,Southampton,1,1,0,0,3,9,14,3,2,54,2,0,4,415,325,5,11,12,4,4,46,6,1,2,358,264
+11552,2017,2018-05-05T14:00:00+00:00,Vitality Stadium,Regular Season - 37,Bournemouth,Swansea,1,0,1,0,5,13,10,11,4,45,1,0,3,365,277,3,12,10,6,1,55,4,0,4,446,326
+11553,2017,2018-05-05T14:00:00+00:00,King Power Stadium,Regular Season - 37,Leicester,West Ham,0,2,0,1,2,13,8,8,2,54,1,0,1,417,328,3,13,9,3,2,46,2,0,3,363,269
+11554,2017,2018-05-05T14:00:00+00:00,Vicarage Road,Regular Season - 37,Watford,Newcastle,2,1,2,0,8,11,9,2,5,39,2,0,1,384,288,1,9,11,5,3,61,1,0,6,577,474
+11555,2017,2018-05-05T14:00:00+00:00,The Hawthorns,Regular Season - 37,West Brom,Tottenham,1,0,0,0,1,9,13,5,2,26,4,0,5,210,126,5,18,12,9,0,74,1,0,2,615,518
+11556,2017,2018-05-05T11:30:00+00:00,bet365 Stadium,Regular Season - 37,Stoke City,Crystal Palace,1,2,1,0,2,7,18,1,2,41,5,0,0,283,185,2,13,12,7,2,59,2,0,1,411,315
+11557,2017,2018-05-04T19:00:00+00:00,American Express Community Stadium,Regular Season - 37,Brighton,Manchester United,1,0,0,0,4,11,5,5,1,31,2,0,3,313,219,3,16,3,6,2,69,0,0,3,675,598
+11558,2017,2018-04-30T19:00:00+00:00,Wembley Stadium,Regular Season - 36,Tottenham,Watford,2,0,1,0,3,13,11,4,3,61,1,0,5,557,479,5,13,10,0,3,39,0,0,1,354,256
+11559,2017,2018-04-29T15:30:00+00:00,Old Trafford,Regular Season - 36,Manchester United,Arsenal,2,1,1,0,3,16,12,9,2,59,0,0,2,609,543,3,8,7,0,1,41,1,0,0,438,358
+11560,2017,2018-04-29T13:15:00+00:00,London Stadium,Regular Season - 36,West Ham,Manchester City,1,4,1,2,1,4,5,0,4,24,0,0,4,280,201,8,19,11,7,1,76,1,0,0,876,807
+11561,2017,2018-04-28T16:30:00+00:00,Liberty Stadium,Regular Season - 36,Swansea,Chelsea,0,1,0,1,3,10,13,1,1,51,1,0,2,581,503,3,11,9,2,3,49,1,0,3,572,501
+11562,2017,2018-04-28T14:00:00+00:00,Turf Moor,Regular Season - 36,Burnley,Brighton,0,0,0,0,4,10,5,3,4,44,0,0,1,341,217,1,9,17,4,3,56,2,0,4,432,325
+11563,2017,2018-04-28T14:00:00+00:00,Selhurst Park,Regular Season - 36,Crystal Palace,Leicester,5,0,2,0,9,15,11,8,1,49,1,0,0,403,338,1,6,9,2,0,51,1,1,3,389,312
+11564,2017,2018-04-28T14:00:00+00:00,John Smith's Stadium,Regular Season - 36,Huddersfield,Everton,0,2,0,1,2,9,9,4,1,53,1,0,3,496,378,5,7,8,3,3,47,0,0,2,427,291
+11565,2017,2018-04-28T14:00:00+00:00,St James' Park,Regular Season - 36,Newcastle,West Brom,0,1,0,1,2,17,8,5,0,63,1,0,1,585,470,2,9,13,1,2,37,3,0,2,339,222
+11566,2017,2018-04-28T14:00:00+00:00,St. Mary's Stadium,Regular Season - 36,Southampton,Bournemouth,2,1,1,1,6,14,12,5,1,40,5,0,6,354,256,7,14,11,8,2,60,1,0,4,502,399
+11567,2017,2018-04-28T11:30:00+00:00,Anfield,Regular Season - 36,Liverpool,Stoke City,0,0,0,0,2,20,7,9,2,71,1,0,1,632,525,1,5,14,2,2,29,2,0,2,253,142
+11568,2017,2018-04-23T19:00:00+00:00,Goodison Park,Regular Season - 35,Everton,Newcastle,1,0,0,0,1,9,10,4,4,56,2,0,2,478,365,2,9,11,6,1,44,1,0,0,362,230
+11569,2017,2018-04-22T15:30:00+00:00,Etihad Stadium,Regular Season - 35,Manchester City,Swansea,5,0,2,0,12,19,6,5,4,82,0,0,1,1015,942,1,4,8,1,1,18,1,0,7,203,142
+11570,2017,2018-04-22T12:30:00+00:00,Emirates Stadium,Regular Season - 35,Arsenal,West Ham,4,1,0,0,8,20,11,8,1,67,3,0,3,629,552,4,11,9,6,1,33,2,0,4,297,201
+11571,2017,2018-04-22T12:30:00+00:00,bet365 Stadium,Regular Season - 35,Stoke City,Burnley,1,1,1,0,3,8,15,3,2,42,2,0,6,326,189,7,16,5,8,0,58,1,0,2,428,303
+11572,2017,2018-04-21T14:00:00+00:00,Vicarage Road,Regular Season - 35,Watford,Crystal Palace,0,0,0,0,4,14,17,4,0,51,3,0,1,357,248,1,6,13,3,1,49,5,0,5,341,238
+11573,2017,2018-04-21T11:30:00+00:00,The Hawthorns,Regular Season - 35,West Brom,Liverpool,2,2,0,1,6,13,12,7,1,38,0,0,1,344,242,3,9,5,4,2,62,1,0,4,585,494
+11574,2017,2018-04-19T18:45:00+00:00,Turf Moor,Regular Season - 31,Burnley,Chelsea,1,2,0,1,2,5,9,3,3,39,1,0,4,389,288,5,16,11,2,1,61,0,0,1,609,514
+11575,2017,2018-04-19T18:45:00+00:00,King Power Stadium,Regular Season - 35,Leicester,Southampton,0,0,0,0,3,11,10,11,3,54,0,0,2,452,360,2,6,10,3,2,46,0,0,3,384,280
+11576,2017,2018-04-18T18:45:00+00:00,Vitality Stadium,Regular Season - 35,Bournemouth,Manchester United,0,2,0,1,2,13,9,8,1,44,3,0,2,428,352,4,13,8,5,3,56,1,0,2,556,474
+11577,2017,2018-04-17T18:45:00+00:00,American Express Community Stadium,Regular Season - 35,Brighton,Tottenham,1,1,0,0,5,8,6,3,0,35,1,0,5,357,251,6,16,5,4,0,65,0,0,4,634,537
+11578,2017,2018-04-16T19:00:00+00:00,London Stadium,Regular Season - 34,West Ham,Stoke City,1,1,0,0,6,18,15,10,5,62,2,0,5,466,373,7,11,21,1,3,38,3,0,5,287,198
+11579,2017,2018-04-15T15:00:00+00:00,Old Trafford,Regular Season - 34,Manchester United,West Brom,0,1,0,0,4,14,8,4,4,70,1,0,3,742,658,4,10,13,4,1,30,1,0,4,312,218
+11580,2017,2018-04-15T12:30:00+00:00,St James' Park,Regular Season - 34,Newcastle,Arsenal,2,1,1,1,4,8,11,2,1,28,1,0,2,274,173,3,15,9,5,2,72,0,0,2,695,590
+11581,2017,2018-04-14T18:45:00+00:00,Wembley Stadium,Regular Season - 34,Tottenham,Manchester City,1,3,1,2,3,8,11,5,5,48,3,0,3,464,371,6,17,12,7,1,52,4,0,2,511,426
+11582,2017,2018-04-14T16:30:00+00:00,Anfield,Regular Season - 34,Liverpool,Bournemouth,3,0,1,0,7,20,9,7,4,61,1,0,1,619,535,1,6,9,5,4,39,1,0,3,375,290
+11583,2017,2018-04-14T14:00:00+00:00,Turf Moor,Regular Season - 34,Burnley,Leicester,2,1,2,0,3,8,9,4,0,38,2,0,5,292,171,6,15,10,8,1,62,1,0,1,449,325
+11584,2017,2018-04-14T14:00:00+00:00,Selhurst Park,Regular Season - 34,Crystal Palace,Brighton,3,2,3,2,8,15,12,5,3,50,3,0,1,367,282,3,12,16,6,1,50,2,0,4,347,249
+11585,2017,2018-04-14T14:00:00+00:00,John Smith's Stadium,Regular Season - 34,Huddersfield,Watford,1,0,0,0,1,9,9,9,2,48,2,0,2,365,254,2,4,8,6,1,52,2,0,0,405,294
+11586,2017,2018-04-14T14:00:00+00:00,Liberty Stadium,Regular Season - 34,Swansea,Everton,1,1,0,1,7,17,10,6,1,50,1,0,3,447,336,3,12,11,3,0,50,1,0,4,437,331
+11587,2017,2018-04-14T11:30:00+00:00,St. Mary's Stadium,Regular Season - 34,Southampton,Chelsea,2,3,1,0,7,10,13,4,1,42,5,0,2,377,277,5,17,14,7,2,58,3,0,5,518,420
+11588,2017,2018-04-08T15:30:00+00:00,Stamford Bridge,Regular Season - 33,Chelsea,West Ham,1,1,1,0,6,23,7,10,2,59,0,0,1,594,504,2,5,11,6,2,41,1,0,5,409,308
+11589,2017,2018-04-08T13:15:00+00:00,Emirates Stadium,Regular Season - 33,Arsenal,Southampton,3,2,2,1,7,13,11,8,1,64,2,1,5,699,597,8,15,7,6,2,36,1,1,4,370,266
+11590,2017,2018-04-07T16:30:00+00:00,Etihad Stadium,Regular Season - 33,Manchester City,Manchester United,2,3,2,0,6,20,17,8,0,64,6,0,1,596,516,4,5,9,4,2,36,3,0,4,318,244
+11591,2017,2018-04-07T14:00:00+00:00,Vitality Stadium,Regular Season - 33,Bournemouth,Crystal Palace,2,2,0,0,5,21,8,11,3,52,2,0,4,472,380,6,13,9,3,1,48,2,0,3,445,355
+11592,2017,2018-04-07T14:00:00+00:00,American Express Community Stadium,Regular Season - 33,Brighton,Huddersfield,1,1,1,1,4,13,13,5,3,40,1,1,4,360,234,5,15,7,3,3,60,0,0,4,525,412
+11593,2017,2018-04-07T14:00:00+00:00,King Power Stadium,Regular Season - 33,Leicester,Newcastle,1,2,0,1,1,8,7,7,3,66,1,0,2,518,413,4,8,14,5,3,34,3,0,0,272,162
+11594,2017,2018-04-07T14:00:00+00:00,bet365 Stadium,Regular Season - 33,Stoke City,Tottenham,1,2,0,0,4,10,19,6,2,33,4,0,2,263,159,4,15,8,3,3,67,3,0,3,550,454
+11595,2017,2018-04-07T14:00:00+00:00,Vicarage Road,Regular Season - 33,Watford,Burnley,1,2,0,0,5,14,18,11,3,60,2,0,2,435,319,4,7,12,1,2,40,2,0,4,292,179
+11596,2017,2018-04-07T14:00:00+00:00,The Hawthorns,Regular Season - 33,West Brom,Swansea,1,1,0,0,3,15,15,5,6,51,3,0,0,479,395,1,7,5,1,1,49,2,0,2,452,357
+11597,2017,2018-04-07T11:30:00+00:00,Goodison Park,Regular Season - 33,Everton,Liverpool,0,0,0,0,1,6,12,3,4,38,0,0,4,359,245,3,10,7,2,1,62,0,0,1,588,472
+11598,2017,2018-04-01T15:00:00+00:00,Stamford Bridge,Regular Season - 32,Chelsea,Tottenham,1,3,1,1,4,14,4,5,4,48,0,0,3,494,384,6,12,11,5,3,52,1,0,3,528,435
+11599,2017,2018-04-01T12:30:00+00:00,Emirates Stadium,Regular Season - 32,Arsenal,Stoke City,3,0,0,0,11,24,9,6,3,69,1,0,2,647,549,2,8,13,5,3,31,2,0,8,273,178
+11600,2017,2018-03-31T16:30:00+00:00,Goodison Park,Regular Season - 32,Everton,Manchester City,1,3,0,3,2,6,10,2,2,18,0,0,1,202,133,4,18,8,11,3,82,0,0,1,976,905
+11601,2017,2018-03-31T14:00:00+00:00,American Express Community Stadium,Regular Season - 32,Brighton,Leicester,0,2,0,0,3,15,11,6,6,46,2,0,2,374,273,4,6,13,1,1,54,6,1,3,448,340
+11602,2017,2018-03-31T14:00:00+00:00,Old Trafford,Regular Season - 32,Manchester United,Swansea,2,0,2,0,5,11,5,3,5,66,0,0,2,746,675,2,3,13,3,1,34,0,0,3,366,290
+11603,2017,2018-03-31T14:00:00+00:00,St James' Park,Regular Season - 32,Newcastle,Huddersfield,1,0,0,0,3,18,9,3,3,63,1,0,0,582,467,0,4,10,3,1,37,4,0,2,339,222
+11604,2017,2018-03-31T14:00:00+00:00,Vicarage Road,Regular Season - 32,Watford,Bournemouth,2,2,1,1,5,16,16,7,3,49,4,0,4,424,322,6,13,6,4,4,51,0,0,3,426,338
+11605,2017,2018-03-31T14:00:00+00:00,The Hawthorns,Regular Season - 32,West Brom,Burnley,1,2,0,1,3,8,12,1,2,47,1,0,2,414,300,4,11,9,6,2,53,3,0,2,461,369
+11606,2017,2018-03-31T14:00:00+00:00,London Stadium,Regular Season - 32,West Ham,Southampton,3,0,3,0,5,12,9,5,1,48,0,0,0,374,261,0,9,16,9,0,52,3,0,2,404,293
+11607,2017,2018-03-31T11:30:00+00:00,Selhurst Park,Regular Season - 32,Crystal Palace,Liverpool,1,2,1,0,3,6,6,4,1,32,2,0,4,312,195,6,16,8,6,1,68,2,0,2,660,550
+11608,2017,2018-03-17T17:30:00+00:00,Anfield,Regular Season - 31,Liverpool,Watford,5,0,2,0,10,13,5,6,6,58,1,0,1,581,476,1,4,4,0,3,42,0,0,5,420,304
+11609,2017,2018-03-17T15:00:00+00:00,Vitality Stadium,Regular Season - 31,Bournemouth,West Brom,2,1,0,0,5,17,6,3,1,60,1,0,4,544,441,6,11,9,2,1,40,2,0,3,350,247
+11610,2017,2018-03-17T15:00:00+00:00,John Smith's Stadium,Regular Season - 31,Huddersfield,Crystal Palace,0,2,0,1,2,6,11,4,1,54,3,0,3,470,326,6,18,12,7,2,46,2,0,2,393,275
+11611,2017,2018-03-17T15:00:00+00:00,bet365 Stadium,Regular Season - 31,Stoke City,Everton,1,2,0,0,4,9,13,1,0,43,1,1,6,344,256,9,16,12,9,4,57,1,0,3,431,346
+11612,2017,2018-03-12T20:00:00+00:00,bet365 Stadium,Regular Season - 30,Stoke City,Manchester City,0,2,0,1,0,3,6,3,2,22,1,0,4,245,165,6,17,8,10,4,78,0,0,1,847,762
+11613,2017,2018-03-11T16:00:00+00:00,Vitality Stadium,Regular Season - 30,Bournemouth,Tottenham,1,4,1,1,3,14,10,4,0,37,1,0,4,331,226,8,12,7,5,3,63,1,0,2,559,465
+11614,2017,2018-03-11T13:30:00+00:00,Emirates Stadium,Regular Season - 30,Arsenal,Watford,3,0,1,0,7,11,12,4,5,59,2,0,4,502,417,4,11,9,9,3,41,1,0,4,324,245
+11615,2017,2018-03-10T17:30:00+00:00,Stamford Bridge,Regular Season - 30,Chelsea,Crystal Palace,2,1,2,0,11,27,8,12,2,62,1,0,1,593,518,2,9,9,3,2,38,2,0,7,361,288
+11616,2017,2018-03-10T15:00:00+00:00,Goodison Park,Regular Season - 30,Everton,Brighton,2,0,0,0,3,13,10,10,2,59,0,0,4,425,330,4,10,14,3,1,41,1,1,2,302,190
+11617,2017,2018-03-10T15:00:00+00:00,John Smith's Stadium,Regular Season - 30,Huddersfield,Swansea,0,0,0,0,4,30,9,12,2,81,2,0,0,679,608,0,0,9,0,3,19,3,1,4,169,88
+11618,2017,2018-03-10T15:00:00+00:00,St James' Park,Regular Season - 30,Newcastle,Southampton,3,0,2,0,5,7,10,2,1,37,0,0,2,305,188,2,6,10,6,1,63,2,0,2,509,374
+11619,2017,2018-03-10T15:00:00+00:00,The Hawthorns,Regular Season - 30,West Brom,Leicester,1,4,1,1,2,6,6,7,1,43,1,0,3,362,267,6,14,7,6,2,57,3,0,1,474,363
+11620,2017,2018-03-10T15:00:00+00:00,London Stadium,Regular Season - 30,West Ham,Burnley,0,3,0,0,4,13,13,5,1,51,2,0,1,385,303,4,7,7,1,3,49,2,0,4,372,287
+11621,2017,2018-03-10T12:30:00+00:00,Old Trafford,Regular Season - 30,Manchester United,Liverpool,2,1,2,0,2,5,10,1,3,32,2,0,2,283,194,2,14,16,13,0,68,1,0,0,584,483
+11622,2017,2018-03-05T20:00:00+00:00,Selhurst Park,Regular Season - 29,Crystal Palace,Manchester United,2,3,1,0,4,10,10,3,2,30,1,0,4,278,185,8,17,8,7,2,70,3,0,2,654,554
+11623,2017,2018-03-04T16:00:00+00:00,Etihad Stadium,Regular Season - 29,Manchester City,Chelsea,1,0,0,0,3,13,8,5,2,71,2,0,0,976,902,0,3,9,2,1,29,1,0,1,392,303
+11624,2017,2018-03-04T13:30:00+00:00,American Express Community Stadium,Regular Season - 29,Brighton,Arsenal,2,1,2,1,6,13,13,6,6,31,3,0,6,287,208,7,15,12,11,0,69,3,0,4,614,516
+11625,2017,2018-03-03T17:30:00+00:00,Anfield,Regular Season - 29,Liverpool,Newcastle,2,0,1,0,3,14,7,8,4,70,0,0,2,772,658,2,7,9,3,1,30,0,0,1,315,208
+11626,2017,2018-03-03T15:00:00+00:00,King Power Stadium,Regular Season - 29,Leicester,Bournemouth,1,1,0,1,4,23,11,13,3,55,2,0,2,438,295,3,8,7,1,2,45,1,0,3,374,244
+11627,2017,2018-03-03T15:00:00+00:00,St. Mary's Stadium,Regular Season - 29,Southampton,Stoke City,0,0,0,0,6,18,8,15,2,65,0,0,3,422,329,3,12,13,4,2,35,1,0,6,240,162
+11628,2017,2018-03-03T15:00:00+00:00,Liberty Stadium,Regular Season - 29,Swansea,West Ham,4,1,2,0,8,9,9,4,0,45,0,0,1,440,331,2,7,14,5,5,55,3,0,3,522,420
+11629,2017,2018-03-03T15:00:00+00:00,Wembley Stadium,Regular Season - 29,Tottenham,Huddersfield,2,0,1,0,7,15,6,8,4,74,1,0,3,806,701,3,3,8,1,2,26,1,0,5,267,169
+11630,2017,2018-03-03T15:00:00+00:00,Vicarage Road,Regular Season - 29,Watford,West Brom,1,0,0,0,4,15,11,4,3,53,2,0,2,412,290,2,9,12,6,1,47,0,0,2,346,228
+11631,2017,2018-03-03T12:30:00+00:00,Turf Moor,Regular Season - 29,Burnley,Everton,2,1,0,1,8,21,9,10,4,54,1,0,3,396,285,4,10,12,4,2,46,1,1,6,342,228
+11632,2017,2018-03-01T19:45:00+00:00,Emirates Stadium,Regular Season - 28,Arsenal,Manchester City,0,3,0,3,5,10,11,6,0,45,1,0,2,538,425,5,9,11,1,1,55,1,0,5,653,556
+11633,2017,2018-02-25T14:05:00+00:00,Old Trafford,Regular Season - 28,Manchester United,Chelsea,2,1,1,1,5,10,13,3,1,44,2,0,6,432,352,7,14,12,4,6,56,2,0,3,552,475
+11634,2017,2018-02-25T12:00:00+00:00,Selhurst Park,Regular Season - 28,Crystal Palace,Tottenham,0,1,0,0,3,5,12,3,0,23,0,0,4,205,119,4,14,5,13,1,77,1,0,3,662,566
+11635,2017,2018-02-24T17:30:00+00:00,Vicarage Road,Regular Season - 28,Watford,Everton,1,0,0,0,5,13,10,6,0,54,3,0,3,428,316,2,7,9,5,1,46,1,0,4,350,232
+11636,2017,2018-02-24T15:00:00+00:00,Vitality Stadium,Regular Season - 28,Bournemouth,Newcastle,2,2,0,2,5,18,12,8,0,63,1,0,2,551,449,4,15,10,1,4,37,4,0,3,338,234
+11637,2017,2018-02-24T15:00:00+00:00,American Express Community Stadium,Regular Season - 28,Brighton,Swansea,4,1,1,0,5,16,17,3,3,47,1,0,2,408,309,1,11,6,5,0,53,0,0,1,434,334
+11638,2017,2018-02-24T15:00:00+00:00,Turf Moor,Regular Season - 28,Burnley,Southampton,1,1,0,0,3,9,8,7,1,50,1,0,4,371,258,6,13,14,5,0,50,0,0,2,378,253
+11639,2017,2018-02-24T15:00:00+00:00,Anfield,Regular Season - 28,Liverpool,West Ham,4,1,1,0,12,21,7,8,1,68,0,0,3,712,609,4,7,7,2,2,32,2,0,8,337,235
+11640,2017,2018-02-24T15:00:00+00:00,The Hawthorns,Regular Season - 28,West Brom,Huddersfield,1,2,0,0,3,10,11,6,7,53,1,0,5,405,274,7,16,9,3,5,47,1,0,2,360,231
+11641,2017,2018-02-24T12:30:00+00:00,King Power Stadium,Regular Season - 28,Leicester,Stoke City,1,1,0,1,9,19,10,13,0,66,1,0,1,483,358,2,6,16,1,2,34,3,0,9,257,138
+11642,2017,2018-02-12T20:00:00+00:00,Stamford Bridge,Regular Season - 27,Chelsea,West Brom,3,0,1,0,8,20,11,8,1,57,0,0,1,583,486,1,8,11,7,3,43,2,0,5,428,341
+11643,2017,2018-02-11T16:30:00+00:00,St. Mary's Stadium,Regular Season - 27,Southampton,Liverpool,0,2,0,2,4,6,5,3,5,52,1,0,2,545,427,4,16,8,1,0,48,2,0,4,510,399
+11644,2017,2018-02-11T14:15:00+00:00,St James' Park,Regular Season - 27,Newcastle,Manchester United,1,0,0,0,3,10,12,0,2,35,0,0,3,361,251,4,13,15,10,2,65,2,0,2,630,503
+11645,2017,2018-02-11T12:00:00+00:00,John Smith's Stadium,Regular Season - 27,Huddersfield,Bournemouth,4,1,2,1,4,15,12,2,3,51,0,0,1,438,319,2,7,12,6,5,49,3,0,1,415,289
+11646,2017,2018-02-10T17:30:00+00:00,Etihad Stadium,Regular Season - 27,Manchester City,Leicester,5,1,1,1,11,19,10,8,1,70,2,0,1,705,616,2,2,12,2,2,30,3,0,5,288,193
+11647,2017,2018-02-10T15:00:00+00:00,Goodison Park,Regular Season - 27,Everton,Crystal Palace,3,1,0,0,5,11,14,8,2,52,1,0,3,389,298,4,16,15,7,1,48,1,0,2,345,265
+11648,2017,2018-02-10T15:00:00+00:00,bet365 Stadium,Regular Season - 27,Stoke City,Brighton,1,1,0,1,3,15,6,7,2,57,0,0,5,468,354,6,14,10,4,3,43,0,0,1,365,235
+11649,2017,2018-02-10T15:00:00+00:00,Liberty Stadium,Regular Season - 27,Swansea,Burnley,1,0,0,0,4,13,10,5,2,57,2,0,1,465,366,1,13,9,2,0,43,1,0,3,352,243
+11650,2017,2018-02-10T15:00:00+00:00,London Stadium,Regular Season - 27,West Ham,Watford,2,0,1,0,4,8,11,8,3,36,1,0,4,246,150,4,11,7,7,1,64,1,0,2,442,323
+11651,2017,2018-02-10T12:30:00+00:00,Wembley Stadium,Regular Season - 27,Tottenham,Arsenal,1,0,0,0,6,18,13,10,1,49,2,0,1,494,411,1,6,9,2,6,51,1,0,6,509,413
+11652,2017,2018-02-05T20:00:00+00:00,Vicarage Road,Regular Season - 26,Watford,Chelsea,4,1,1,0,8,21,11,6,1,44,2,0,2,407,326,3,7,8,2,1,56,4,1,4,512,422
+11653,2017,2018-02-04T16:30:00+00:00,Anfield,Regular Season - 26,Liverpool,Tottenham,2,2,1,0,3,9,15,3,2,34,3,0,4,302,204,6,13,9,7,2,66,1,0,1,590,473
+11654,2017,2018-02-04T14:15:00+00:00,Selhurst Park,Regular Season - 26,Crystal Palace,Newcastle,1,1,0,1,6,20,11,5,4,54,1,0,7,424,335,8,12,8,6,3,46,1,0,4,363,253
+11655,2017,2018-02-03T17:30:00+00:00,Emirates Stadium,Regular Season - 26,Arsenal,Everton,5,1,4,0,7,15,8,4,1,58,2,0,1,553,468,2,10,8,6,3,42,0,0,2,376,306
+11656,2017,2018-02-03T15:00:00+00:00,Vitality Stadium,Regular Season - 26,Bournemouth,Stoke City,2,1,0,1,8,15,14,8,2,57,2,0,2,439,317,4,13,19,1,6,43,3,0,5,328,221
+11657,2017,2018-02-03T15:00:00+00:00,American Express Community Stadium,Regular Season - 26,Brighton,West Ham,3,1,1,1,5,21,11,4,3,54,3,0,0,452,338,1,4,7,1,3,46,1,0,2,380,283
+11658,2017,2018-02-03T15:00:00+00:00,King Power Stadium,Regular Season - 26,Leicester,Swansea,1,1,1,0,5,13,9,3,5,60,1,0,0,521,427,1,3,8,3,0,40,0,0,3,340,248
+11659,2017,2018-02-03T15:00:00+00:00,Old Trafford,Regular Season - 26,Manchester United,Huddersfield,2,0,0,0,7,16,5,5,4,74,2,0,0,786,697,0,4,19,2,0,26,4,0,5,265,190
+11660,2017,2018-02-03T15:00:00+00:00,The Hawthorns,Regular Season - 26,West Brom,Southampton,2,3,1,2,3,9,12,5,1,38,2,0,2,322,214,5,13,10,7,2,62,1,0,1,522,404
+11661,2017,2018-02-03T12:30:00+00:00,Turf Moor,Regular Season - 26,Burnley,Manchester City,1,1,0,1,3,8,9,3,1,29,4,0,6,278,178,7,20,6,13,0,71,1,0,2,695,605
+11662,2017,2018-01-31T20:00:00+00:00,Etihad Stadium,Regular Season - 25,Manchester City,West Brom,3,0,1,0,10,19,10,9,0,74,1,0,1,695,614,1,3,10,1,0,26,3,0,7,246,162
+11663,2017,2018-01-31T20:00:00+00:00,bet365 Stadium,Regular Season - 25,Stoke City,Watford,0,0,0,0,4,11,12,2,5,48,4,0,2,279,161,2,11,12,6,0,52,3,0,4,300,185
+11664,2017,2018-01-31T20:00:00+00:00,Wembley Stadium,Regular Season - 25,Tottenham,Manchester United,2,0,2,0,6,22,10,6,1,52,2,0,3,527,432,3,6,13,3,9,48,2,0,5,470,372
+11665,2017,2018-01-31T19:45:00+00:00,Stamford Bridge,Regular Season - 25,Chelsea,Bournemouth,0,3,0,0,5,21,5,8,4,65,1,0,2,618,517,5,11,12,5,2,35,0,0,5,329,241
+11666,2017,2018-01-31T19:45:00+00:00,Goodison Park,Regular Season - 25,Everton,Leicester,2,1,2,0,4,9,10,5,3,44,0,0,0,347,231,2,8,10,5,0,56,2,0,1,440,319
+11667,2017,2018-01-31T19:45:00+00:00,St James' Park,Regular Season - 25,Newcastle,Burnley,1,1,0,0,4,14,15,7,2,52,1,0,2,397,280,2,11,15,4,0,48,2,0,3,364,241
+11668,2017,2018-01-31T19:45:00+00:00,St. Mary's Stadium,Regular Season - 25,Southampton,Brighton,1,1,0,1,3,18,8,7,0,65,3,0,1,588,484,2,9,10,2,4,35,1,0,2,315,215
+11669,2017,2018-01-30T20:00:00+00:00,John Smith's Stadium,Regular Season - 25,Huddersfield,Liverpool,0,3,0,2,1,5,8,1,3,25,0,0,4,308,214,7,14,8,4,2,75,0,0,1,913,809
+11670,2017,2018-01-30T19:45:00+00:00,Liberty Stadium,Regular Season - 25,Swansea,Arsenal,3,1,1,1,4,12,4,4,0,25,0,0,3,306,225,4,9,8,3,3,75,3,0,1,894,824
+11671,2017,2018-01-30T19:45:00+00:00,London Stadium,Regular Season - 25,West Ham,Crystal Palace,1,1,1,1,3,8,11,5,2,40,1,0,2,296,204,3,9,15,3,0,60,3,0,2,454,371
+11672,2017,2018-01-22T20:00:00+00:00,Liberty Stadium,Regular Season - 24,Swansea,Liverpool,1,0,1,0,2,3,5,3,1,28,0,0,4,295,204,4,21,9,9,1,72,2,0,1,756,662
+11673,2017,2018-01-21T16:00:00+00:00,St. Mary's Stadium,Regular Season - 24,Southampton,Tottenham,1,1,1,1,4,10,8,2,2,41,2,0,1,343,237,2,17,15,9,1,59,3,0,4,491,407
+11674,2017,2018-01-20T17:30:00+00:00,Etihad Stadium,Regular Season - 24,Manchester City,Newcastle,3,1,1,0,9,21,5,18,4,80,0,0,3,799,723,4,6,10,0,2,20,1,0,6,193,114
+11675,2017,2018-01-20T15:00:00+00:00,Emirates Stadium,Regular Season - 24,Arsenal,Crystal Palace,4,1,4,0,10,16,6,5,3,63,0,0,4,727,642,5,9,8,10,1,37,0,0,6,406,336
+11676,2017,2018-01-20T15:00:00+00:00,Turf Moor,Regular Season - 24,Burnley,Manchester United,0,1,0,0,3,14,7,5,1,48,3,0,1,423,309,2,12,13,4,2,52,3,0,3,461,363
+11677,2017,2018-01-20T15:00:00+00:00,Goodison Park,Regular Season - 24,Everton,West Brom,1,1,0,1,4,9,15,0,0,56,2,0,4,474,341,5,15,10,3,0,44,1,0,3,356,223
+11678,2017,2018-01-20T15:00:00+00:00,King Power Stadium,Regular Season - 24,Leicester,Watford,2,0,1,0,5,9,11,4,5,53,0,0,3,422,331,3,11,10,5,3,47,0,0,3,356,254
+11679,2017,2018-01-20T15:00:00+00:00,bet365 Stadium,Regular Season - 24,Stoke City,Huddersfield,2,0,0,0,6,11,18,3,10,48,1,0,3,330,199,3,6,13,2,0,52,1,0,4,353,194
+11680,2017,2018-01-20T15:00:00+00:00,London Stadium,Regular Season - 24,West Ham,Bournemouth,1,1,0,0,4,12,8,6,5,47,3,0,2,386,281,3,8,7,3,5,53,1,0,3,434,335
+11681,2017,2018-01-20T12:30:00+00:00,American Express Community Stadium,Regular Season - 24,Brighton,Chelsea,0,4,0,2,3,10,12,5,4,41,3,0,6,362,287,10,14,5,3,0,59,0,0,3,535,462
+11682,2017,2018-01-15T20:00:00+00:00,Old Trafford,Regular Season - 23,Manchester United,Stoke City,3,0,2,0,9,20,14,6,4,60,2,0,4,604,542,5,11,10,1,0,40,1,0,6,395,326
+11683,2017,2018-01-14T16:00:00+00:00,Anfield,Regular Season - 23,Liverpool,Manchester City,4,3,1,1,7,16,10,5,3,35,2,0,1,367,277,4,11,7,6,3,65,3,0,3,667,571
+11684,2017,2018-01-14T13:30:00+00:00,Vitality Stadium,Regular Season - 23,Bournemouth,Arsenal,2,1,0,0,5,13,8,4,0,40,2,0,2,366,232,3,12,10,5,4,60,2,0,3,551,410
+11685,2017,2018-01-13T17:30:00+00:00,Wembley Stadium,Regular Season - 23,Tottenham,Everton,4,0,1,0,10,20,11,3,2,61,0,0,0,579,484,0,7,15,3,7,39,2,0,6,360,258
+11686,2017,2018-01-13T15:00:00+00:00,Stamford Bridge,Regular Season - 23,Chelsea,Leicester,0,0,0,0,7,17,14,6,5,55,2,0,1,511,427,1,14,13,3,3,45,4,1,7,415,329
+11687,2017,2018-01-13T15:00:00+00:00,Selhurst Park,Regular Season - 23,Crystal Palace,Burnley,1,0,1,0,2,17,16,3,0,44,0,0,2,324,212,2,8,10,2,4,56,3,0,1,415,310
+11688,2017,2018-01-13T15:00:00+00:00,John Smith's Stadium,Regular Season - 23,Huddersfield,West Ham,1,4,1,1,2,8,7,7,0,64,1,0,1,548,443,6,8,9,3,5,36,1,0,1,306,209
+11689,2017,2018-01-13T15:00:00+00:00,St James' Park,Regular Season - 23,Newcastle,Swansea,1,1,0,0,4,12,11,4,2,42,0,0,2,369,276,5,8,10,5,0,58,3,0,3,500,401
+11690,2017,2018-01-13T15:00:00+00:00,Vicarage Road,Regular Season - 23,Watford,Southampton,2,2,0,2,4,16,11,5,0,55,0,0,2,464,350,4,10,13,4,3,45,5,0,2,376,256
+11691,2017,2018-01-13T15:00:00+00:00,The Hawthorns,Regular Season - 23,West Brom,Brighton,2,0,1,0,4,15,8,9,3,44,0,0,1,355,244,1,13,15,6,2,56,0,0,2,450,348
+11692,2017,2018-01-04T20:00:00+00:00,Wembley Stadium,Regular Season - 21,Tottenham,West Ham,1,1,0,0,8,31,10,7,3,70,0,0,0,669,558,1,3,6,1,3,30,2,0,7,283,186
+11693,2017,2018-01-03T19:45:00+00:00,Emirates Stadium,Regular Season - 22,Arsenal,Chelsea,2,2,0,0,6,14,11,10,2,58,3,0,4,599,515,6,19,11,8,3,42,2,0,4,422,348
+11694,2017,2018-01-02T20:00:00+00:00,Etihad Stadium,Regular Season - 22,Manchester City,Watford,3,1,2,0,7,18,8,9,1,76,1,0,3,854,784,4,7,12,1,3,24,1,0,5,261,182
+11695,2017,2018-01-02T19:45:00+00:00,St. Mary's Stadium,Regular Season - 22,Southampton,Crystal Palace,1,2,1,0,3,10,8,4,1,61,0,0,2,560,444,4,11,11,7,0,39,1,0,2,350,246
+11696,2017,2018-01-02T19:45:00+00:00,Liberty Stadium,Regular Season - 22,Swansea,Tottenham,0,2,0,1,1,8,12,6,4,32,2,0,3,313,232,5,12,9,5,2,68,2,0,1,675,593
+11697,2017,2018-01-02T19:45:00+00:00,London Stadium,Regular Season - 22,West Ham,West Brom,2,1,0,1,5,13,12,3,1,52,3,0,2,449,372,3,12,12,4,1,48,2,0,3,413,327
+11698,2017,2018-01-01T17:30:00+00:00,Goodison Park,Regular Season - 22,Everton,Manchester United,0,2,0,0,0,12,11,6,1,39,2,0,4,365,282,6,21,10,6,1,61,0,0,0,585,495
+11699,2017,2018-01-01T15:00:00+00:00,Turf Moor,Regular Season - 22,Burnley,Liverpool,1,2,0,0,4,13,4,3,1,42,0,0,3,377,266,5,19,12,9,2,58,0,0,3,511,410
+11700,2017,2018-01-01T15:00:00+00:00,King Power Stadium,Regular Season - 22,Leicester,Huddersfield,3,0,0,0,5,11,7,4,4,51,1,0,1,482,387,1,6,9,1,1,49,1,0,2,455,369
+11701,2017,2018-01-01T15:00:00+00:00,bet365 Stadium,Regular Season - 22,Stoke City,Newcastle,0,1,0,0,4,11,10,10,2,58,3,0,5,463,352,6,14,11,5,0,42,1,0,4,335,223
+11702,2017,2018-01-01T12:30:00+00:00,American Express Community Stadium,Regular Season - 22,Brighton,Bournemouth,2,2,1,1,6,15,13,5,1,49,2,0,6,394,300,8,26,9,12,0,51,1,0,4,403,329
+11703,2017,2017-12-31T16:30:00+00:00,The Hawthorns,Regular Season - 21,West Brom,Arsenal,1,1,0,0,3,14,14,5,1,34,3,0,4,322,244,4,14,9,6,2,66,3,0,2,647,544
+11704,2017,2017-12-31T12:00:00+00:00,Selhurst Park,Regular Season - 21,Crystal Palace,Manchester City,0,0,0,0,2,10,14,7,4,25,5,0,5,205,124,4,15,11,8,2,75,4,0,1,626,550
+11705,2017,2017-12-30T17:30:00+00:00,Old Trafford,Regular Season - 21,Manchester United,Southampton,0,0,0,0,3,15,12,10,1,54,2,0,3,500,427,3,8,13,7,2,46,4,0,3,423,329
+11706,2017,2017-12-30T15:00:00+00:00,Vitality Stadium,Regular Season - 21,Bournemouth,Everton,2,1,1,0,7,18,8,4,0,47,0,0,0,416,290,1,6,13,4,5,53,0,0,5,471,348
+11707,2017,2017-12-30T15:00:00+00:00,Stamford Bridge,Regular Season - 21,Chelsea,Stoke City,5,0,3,0,12,21,5,7,3,58,1,0,1,653,592,1,1,10,0,2,42,1,0,7,474,395
+11708,2017,2017-12-30T15:00:00+00:00,John Smith's Stadium,Regular Season - 21,Huddersfield,Burnley,0,0,0,0,1,3,14,5,0,56,2,0,4,384,284,4,11,14,4,3,44,1,0,1,294,179
+11709,2017,2017-12-30T15:00:00+00:00,Anfield,Regular Season - 21,Liverpool,Leicester,2,1,0,1,6,18,7,7,4,60,3,0,0,566,456,1,7,3,1,3,40,2,0,4,371,258
+11710,2017,2017-12-30T15:00:00+00:00,St James' Park,Regular Season - 21,Newcastle,Brighton,0,0,0,0,2,11,11,3,1,45,2,0,3,411,292,3,10,10,6,2,55,2,0,2,505,396
+11711,2017,2017-12-30T15:00:00+00:00,Vicarage Road,Regular Season - 21,Watford,Swansea,1,2,1,0,4,9,14,1,3,51,4,0,2,500,412,4,9,13,8,2,49,2,0,3,478,396
+11712,2017,2017-12-28T20:00:00+00:00,Selhurst Park,Regular Season - 20,Crystal Palace,Arsenal,2,3,0,1,2,16,12,5,1,34,1,0,6,336,249,9,16,7,4,3,66,1,0,0,654,553
+11713,2017,2017-12-27T19:45:00+00:00,St James' Park,Regular Season - 20,Newcastle,Manchester City,0,1,0,1,2,6,11,3,4,22,1,0,5,228,133,6,22,6,8,4,78,0,0,1,824,736
+11714,2017,2017-12-26T17:30:00+00:00,Anfield,Regular Season - 20,Liverpool,Swansea,5,0,1,0,9,22,5,4,3,55,0,0,4,601,530,4,7,8,2,0,45,1,0,4,496,422
+11715,2017,2017-12-26T15:00:00+00:00,Vitality Stadium,Regular Season - 20,Bournemouth,West Ham,3,3,1,1,10,25,12,7,0,56,3,0,2,424,330,5,10,14,4,2,44,4,0,7,333,236
+11716,2017,2017-12-26T15:00:00+00:00,Stamford Bridge,Regular Season - 20,Chelsea,Brighton,2,0,0,0,8,25,8,13,2,67,0,0,1,695,614,1,8,8,1,2,33,1,0,5,341,264
+11717,2017,2017-12-26T15:00:00+00:00,John Smith's Stadium,Regular Season - 20,Huddersfield,Stoke City,1,1,1,0,7,18,9,8,2,58,2,0,4,500,416,7,15,12,5,2,42,4,0,6,372,274
+11718,2017,2017-12-26T15:00:00+00:00,Old Trafford,Regular Season - 20,Manchester United,Burnley,2,2,0,2,6,24,10,12,0,71,3,0,0,638,534,2,3,14,2,1,29,7,0,3,270,157
+11719,2017,2017-12-26T15:00:00+00:00,Vicarage Road,Regular Season - 20,Watford,Leicester,2,1,1,1,1,11,7,8,4,49,3,0,4,355,234,5,11,13,8,6,51,3,0,0,359,244
+11720,2017,2017-12-26T15:00:00+00:00,The Hawthorns,Regular Season - 20,West Brom,Everton,0,0,0,0,3,17,14,10,1,52,2,0,3,370,263,3,7,13,2,1,48,0,0,3,344,238
+11721,2017,2017-12-26T12:30:00+00:00,Wembley Stadium,Regular Season - 20,Tottenham,Southampton,5,2,2,0,7,16,8,3,1,57,0,0,5,493,408,6,16,15,8,1,43,2,0,1,359,265
+11722,2017,2017-12-23T19:45:00+00:00,King Power Stadium,Regular Season - 19,Leicester,Manchester United,2,2,1,1,3,11,19,4,0,49,4,1,4,448,354,6,19,8,6,5,51,2,0,1,448,371
+11723,2017,2017-12-23T17:30:00+00:00,Turf Moor,Regular Season - 19,Burnley,Tottenham,0,3,0,1,2,5,10,4,5,40,1,0,5,350,233,8,18,10,4,1,60,2,0,2,527,419
+11724,2017,2017-12-23T15:00:00+00:00,American Express Community Stadium,Regular Season - 19,Brighton,Watford,1,0,0,0,3,14,8,6,6,51,0,0,1,426,328,1,12,11,4,0,49,0,0,2,397,288
+11725,2017,2017-12-23T15:00:00+00:00,Etihad Stadium,Regular Season - 19,Manchester City,Bournemouth,4,0,1,0,5,14,8,4,4,78,0,0,1,901,825,1,5,7,6,2,22,1,0,1,232,163
+11726,2017,2017-12-23T15:00:00+00:00,St. Mary's Stadium,Regular Season - 19,Southampton,Huddersfield,1,1,1,0,6,12,16,9,3,52,2,0,1,384,269,2,10,9,1,4,48,1,0,5,345,223
+11727,2017,2017-12-23T15:00:00+00:00,bet365 Stadium,Regular Season - 19,Stoke City,West Brom,3,1,2,0,5,9,9,1,0,43,1,0,6,357,259,7,17,11,11,2,57,0,0,2,445,338
+11728,2017,2017-12-23T15:00:00+00:00,Liberty Stadium,Regular Season - 19,Swansea,Crystal Palace,1,1,0,0,2,7,13,6,1,64,2,0,4,594,505,5,13,11,3,1,36,3,0,2,336,257
+11729,2017,2017-12-23T15:00:00+00:00,London Stadium,Regular Season - 19,West Ham,Newcastle,2,3,1,1,6,19,9,6,4,63,1,0,1,426,329,4,11,12,3,0,37,1,0,4,249,155
+11730,2017,2017-12-23T12:30:00+00:00,Goodison Park,Regular Season - 19,Everton,Chelsea,0,0,0,0,0,5,8,2,2,32,3,0,5,327,230,8,25,4,7,4,68,0,0,0,679,569
+11731,2017,2017-12-22T19:45:00+00:00,Emirates Stadium,Regular Season - 19,Arsenal,Liverpool,3,3,0,1,4,11,9,7,3,53,1,0,6,503,380,9,14,11,8,1,47,0,0,1,436,334
+11732,2017,2017-12-18T20:00:00+00:00,Goodison Park,Regular Season - 18,Everton,Swansea,3,1,1,1,7,12,12,6,1,51,2,0,2,445,349,3,8,12,3,0,49,3,0,4,431,332
+11733,2017,2017-12-17T16:30:00+00:00,Vitality Stadium,Regular Season - 18,Bournemouth,Liverpool,0,4,0,3,2,6,5,2,2,44,1,0,3,511,414,7,21,10,3,4,56,1,0,2,655,576
+11734,2017,2017-12-17T14:15:00+00:00,The Hawthorns,Regular Season - 18,West Brom,Manchester United,1,2,0,2,5,12,14,6,1,43,1,0,1,433,341,3,8,7,3,1,57,3,0,4,588,484
+11735,2017,2017-12-16T17:30:00+00:00,Etihad Stadium,Regular Season - 18,Manchester City,Tottenham,4,1,1,0,11,20,13,5,4,52,2,0,1,456,370,2,7,20,1,2,48,4,0,7,412,327
+11736,2017,2017-12-16T16:00:00+00:00,bet365 Stadium,Regular Season - 18,Stoke City,West Ham,0,3,0,1,0,17,12,7,0,54,2,0,4,432,333,7,14,13,9,1,46,1,0,0,372,295
+11737,2017,2017-12-16T15:00:00+00:00,Emirates Stadium,Regular Season - 18,Arsenal,Newcastle,1,0,1,0,5,23,13,7,1,71,2,0,2,761,649,2,10,9,5,2,29,1,0,4,299,201
+11738,2017,2017-12-16T15:00:00+00:00,American Express Community Stadium,Regular Season - 18,Brighton,Burnley,0,0,0,0,2,12,13,8,2,57,4,0,6,475,375,7,11,13,2,2,43,2,0,1,358,243
+11739,2017,2017-12-16T15:00:00+00:00,Stamford Bridge,Regular Season - 18,Chelsea,Southampton,1,0,1,0,8,24,8,8,3,53,1,0,2,545,467,2,6,16,4,2,47,3,0,7,474,386
+11740,2017,2017-12-16T15:00:00+00:00,Vicarage Road,Regular Season - 18,Watford,Huddersfield,1,4,0,2,3,13,12,8,3,59,2,1,3,452,356,9,15,17,7,3,41,4,1,2,310,225
+11741,2017,2017-12-16T12:30:00+00:00,King Power Stadium,Regular Season - 18,Leicester,Crystal Palace,0,3,0,2,2,11,12,6,0,56,4,1,3,452,357,6,13,13,4,0,44,2,0,2,368,275
+11742,2017,2017-12-13T20:00:00+00:00,Anfield,Regular Season - 17,Liverpool,West Brom,0,0,0,0,5,14,16,5,1,70,1,0,1,711,611,1,6,6,7,4,30,1,0,3,291,195
+11743,2017,2017-12-13T20:00:00+00:00,Old Trafford,Regular Season - 17,Manchester United,Bournemouth,1,0,1,0,2,9,14,4,2,56,1,0,7,570,482,7,14,12,9,0,44,2,0,1,427,342
+11744,2017,2017-12-13T20:00:00+00:00,Wembley Stadium,Regular Season - 17,Tottenham,Brighton,2,0,1,0,8,25,5,10,3,75,1,0,4,749,663,4,7,10,2,1,25,1,0,5,248,161
+11745,2017,2017-12-13T20:00:00+00:00,London Stadium,Regular Season - 17,West Ham,Arsenal,0,0,0,0,0,6,9,1,4,29,2,0,3,300,214,3,22,9,7,0,71,0,0,0,704,607
+11746,2017,2017-12-13T19:45:00+00:00,St James' Park,Regular Season - 17,Newcastle,Everton,0,1,0,1,4,16,10,4,2,55,3,1,3,509,392,4,7,11,1,3,45,2,0,4,426,312
+11747,2017,2017-12-13T19:45:00+00:00,St. Mary's Stadium,Regular Season - 17,Southampton,Leicester,1,4,0,3,4,11,13,9,3,53,1,0,5,413,334,11,16,9,9,1,47,0,0,3,369,278
+11748,2017,2017-12-13T19:45:00+00:00,Liberty Stadium,Regular Season - 17,Swansea,Manchester City,0,4,0,2,3,7,12,2,2,21,0,0,6,223,149,10,23,6,5,1,79,0,0,3,834,763
+11749,2017,2017-12-12T20:00:00+00:00,Selhurst Park,Regular Season - 17,Crystal Palace,Watford,2,1,0,1,4,14,14,4,3,53,2,0,1,415,318,2,7,18,6,0,47,3,1,2,352,242
+11750,2017,2017-12-12T20:00:00+00:00,John Smith's Stadium,Regular Season - 17,Huddersfield,Chelsea,1,3,0,2,2,7,11,1,2,35,0,0,2,431,363,5,12,4,3,10,65,0,0,2,769,707
+11751,2017,2017-12-12T19:45:00+00:00,Turf Moor,Regular Season - 17,Burnley,Stoke City,1,0,0,0,2,10,6,6,4,51,0,0,7,392,251,7,14,14,4,2,49,0,0,1,380,240
+11752,2017,2017-12-10T16:30:00+00:00,Old Trafford,Regular Season - 16,Manchester United,Manchester City,1,2,1,1,5,8,16,2,4,35,4,0,5,329,225,7,14,10,8,0,65,2,0,4,606,502
+11753,2017,2017-12-10T14:15:00+00:00,Anfield,Regular Season - 16,Liverpool,Everton,1,1,1,0,3,23,8,12,1,79,1,0,1,736,644,2,3,11,1,0,21,3,0,2,197,99
+11754,2017,2017-12-10T12:00:00+00:00,St. Mary's Stadium,Regular Season - 16,Southampton,Arsenal,1,1,1,0,3,6,12,4,4,33,2,0,5,375,296,6,11,10,5,1,67,2,0,3,758,664
+11755,2017,2017-12-09T17:30:00+00:00,St James' Park,Regular Season - 16,Newcastle,Leicester,2,3,1,1,4,10,10,6,1,37,2,0,3,337,230,5,13,8,5,2,63,1,0,2,562,446
+11756,2017,2017-12-09T15:00:00+00:00,Turf Moor,Regular Season - 16,Burnley,Watford,1,0,1,0,5,8,10,3,6,49,1,0,2,377,251,2,11,12,5,3,51,0,1,4,394,276
+11757,2017,2017-12-09T15:00:00+00:00,Selhurst Park,Regular Season - 16,Crystal Palace,Bournemouth,2,2,2,2,8,24,14,6,5,45,5,0,3,345,257,5,11,14,3,3,55,2,0,6,442,352
+11758,2017,2017-12-09T15:00:00+00:00,John Smith's Stadium,Regular Season - 16,Huddersfield,Brighton,2,0,2,0,6,19,6,8,1,58,0,0,2,541,403,2,7,10,1,5,42,0,0,4,391,267
+11759,2017,2017-12-09T15:00:00+00:00,Liberty Stadium,Regular Season - 16,Swansea,West Brom,1,0,0,0,3,18,8,6,1,54,2,0,1,461,365,1,7,18,3,2,46,5,0,2,396,298
+11760,2017,2017-12-09T15:00:00+00:00,Wembley Stadium,Regular Season - 16,Tottenham,Stoke City,5,1,1,0,11,20,12,12,7,70,1,0,2,657,579,3,4,9,6,2,30,0,0,7,268,172
+11761,2017,2017-12-09T12:30:00+00:00,London Stadium,Regular Season - 16,West Ham,Chelsea,1,0,1,0,2,5,10,4,3,30,6,0,2,299,219,2,19,10,3,2,70,1,0,1,683,586
+11762,2017,2017-12-03T16:00:00+00:00,Etihad Stadium,Regular Season - 15,Manchester City,West Ham,2,1,0,1,8,24,5,10,2,77,2,0,3,753,664,4,7,7,4,4,23,2,0,6,220,158
+11763,2017,2017-12-03T13:30:00+00:00,Vitality Stadium,Regular Season - 15,Bournemouth,Southampton,1,1,1,0,5,16,6,5,0,47,2,0,2,415,330,4,15,12,4,6,53,1,0,4,458,371
+11764,2017,2017-12-02T17:30:00+00:00,Emirates Stadium,Regular Season - 15,Arsenal,Manchester United,1,3,0,2,16,33,11,12,4,75,3,0,2,656,562,4,8,10,1,0,25,2,1,14,222,147
+11765,2017,2017-12-02T15:00:00+00:00,American Express Community Stadium,Regular Season - 15,Brighton,Liverpool,1,5,0,2,2,6,8,2,0,42,1,0,2,489,398,6,12,7,2,2,58,0,0,1,662,583
+11766,2017,2017-12-02T15:00:00+00:00,Goodison Park,Regular Season - 15,Everton,Huddersfield,2,0,0,0,4,6,12,2,1,47,2,0,3,367,252,3,5,9,5,0,53,1,0,2,396,281
+11767,2017,2017-12-02T15:00:00+00:00,King Power Stadium,Regular Season - 15,Leicester,Burnley,1,0,1,0,3,16,3,10,1,51,0,0,5,415,302,4,14,11,7,6,49,2,0,2,382,282
+11768,2017,2017-12-02T15:00:00+00:00,bet365 Stadium,Regular Season - 15,Stoke City,Swansea,2,1,2,1,3,10,12,2,3,44,2,0,3,377,295,3,10,10,6,0,56,0,0,1,458,372
+11769,2017,2017-12-02T15:00:00+00:00,Vicarage Road,Regular Season - 15,Watford,Tottenham,1,1,1,1,2,6,16,7,1,50,4,0,1,399,316,2,8,8,2,10,50,1,1,1,404,329
+11770,2017,2017-12-02T15:00:00+00:00,The Hawthorns,Regular Season - 15,West Brom,Crystal Palace,0,0,0,0,6,20,11,3,3,51,3,0,2,395,288,2,10,10,7,1,49,1,0,7,380,271
+11771,2017,2017-12-02T12:30:00+00:00,Stamford Bridge,Regular Season - 15,Chelsea,Newcastle,3,1,2,1,9,23,8,11,2,65,0,0,1,743,647,2,8,13,4,1,35,1,0,6,390,299
+11772,2017,2017-11-29T20:00:00+00:00,Goodison Park,Regular Season - 14,Everton,West Ham,4,0,2,0,5,8,16,2,2,43,2,0,3,411,325,3,7,6,6,1,57,1,0,1,511,406
+11773,2017,2017-11-29T20:00:00+00:00,Etihad Stadium,Regular Season - 14,Manchester City,Southampton,2,1,0,0,12,26,12,6,1,74,1,0,1,778,668,2,7,11,5,1,26,1,0,10,270,157
+11774,2017,2017-11-29T20:00:00+00:00,bet365 Stadium,Regular Season - 14,Stoke City,Liverpool,0,3,0,1,1,10,8,5,4,39,1,0,4,349,244,7,14,10,9,2,61,5,0,1,548,445
+11775,2017,2017-11-29T19:45:00+00:00,Emirates Stadium,Regular Season - 14,Arsenal,Huddersfield,5,0,1,0,7,21,10,7,2,70,0,0,2,813,716,2,7,12,2,3,30,1,0,1,337,259
+11776,2017,2017-11-29T19:45:00+00:00,Vitality Stadium,Regular Season - 14,Bournemouth,Burnley,1,2,0,1,2,11,9,4,0,62,0,0,2,567,453,4,10,11,6,1,38,1,0,1,345,247
+11777,2017,2017-11-29T19:45:00+00:00,Stamford Bridge,Regular Season - 14,Chelsea,Swansea,1,0,0,0,10,21,10,15,0,61,1,0,0,608,518,0,2,7,1,0,39,0,0,9,404,315
+11778,2017,2017-11-28T20:00:00+00:00,Vicarage Road,Regular Season - 14,Watford,Manchester United,2,4,0,3,3,12,12,5,0,59,2,0,2,496,411,7,15,10,5,0,41,1,0,1,346,257
+11779,2017,2017-11-28T20:00:00+00:00,The Hawthorns,Regular Season - 14,West Brom,Newcastle,2,2,1,0,4,8,13,1,0,47,0,0,3,401,305,4,14,12,6,2,53,0,0,2,435,342
+11780,2017,2017-11-28T19:45:00+00:00,American Express Community Stadium,Regular Season - 14,Brighton,Crystal Palace,0,0,0,0,4,10,13,10,5,53,2,0,4,452,334,4,10,8,5,0,47,0,0,3,405,295
+11781,2017,2017-11-28T19:45:00+00:00,King Power Stadium,Regular Season - 14,Leicester,Tottenham,2,1,2,0,4,7,7,4,2,37,1,0,4,336,240,6,18,10,9,1,63,2,0,1,561,465
+11782,2017,2017-11-26T16:00:00+00:00,John Smith's Stadium,Regular Season - 13,Huddersfield,Manchester City,1,2,1,0,0,4,10,3,3,20,2,1,3,184,94,5,14,10,7,3,80,3,0,0,733,642
+11783,2017,2017-11-26T14:00:00+00:00,Turf Moor,Regular Season - 13,Burnley,Arsenal,0,1,0,0,2,8,8,5,4,36,2,0,1,350,269,2,18,14,5,3,64,0,0,2,636,531
+11784,2017,2017-11-26T13:30:00+00:00,St. Mary's Stadium,Regular Season - 13,Southampton,Everton,4,1,1,1,5,17,6,7,0,67,0,0,1,663,564,2,5,13,2,0,33,0,0,1,329,232
+11785,2017,2017-11-25T17:30:00+00:00,Anfield,Regular Season - 13,Liverpool,Chelsea,1,1,0,0,4,16,10,7,0,53,0,0,2,587,504,3,11,7,8,5,47,0,0,3,497,411
+11786,2017,2017-11-25T15:00:00+00:00,Selhurst Park,Regular Season - 13,Crystal Palace,Stoke City,2,1,0,0,5,10,9,5,2,54,1,0,2,492,379,3,10,5,2,1,46,1,0,3,425,327
+11787,2017,2017-11-25T15:00:00+00:00,Old Trafford,Regular Season - 13,Manchester United,Brighton,1,0,0,0,4,15,9,5,2,58,0,0,2,565,478,2,8,9,0,1,42,2,0,4,404,311
+11788,2017,2017-11-25T15:00:00+00:00,St James' Park,Regular Season - 13,Newcastle,Watford,0,3,0,2,2,12,8,6,4,52,1,0,2,480,378,4,12,13,3,1,48,2,0,2,441,315
+11789,2017,2017-11-25T15:00:00+00:00,Liberty Stadium,Regular Season - 13,Swansea,Bournemouth,0,0,0,0,1,10,18,4,3,48,4,0,5,447,350,5,9,6,5,1,52,2,0,1,472,390
+11790,2017,2017-11-25T15:00:00+00:00,Wembley Stadium,Regular Season - 13,Tottenham,West Brom,1,1,0,1,5,25,10,8,2,72,1,0,1,689,601,2,5,13,0,6,28,4,0,4,266,190
+11791,2017,2017-11-24T20:00:00+00:00,London Stadium,Regular Season - 13,West Ham,Leicester,1,1,1,1,4,8,9,5,0,49,1,0,1,381,300,2,7,12,5,1,51,1,0,3,404,313
+11792,2017,2017-11-20T20:00:00+00:00,American Express Community Stadium,Regular Season - 12,Brighton,Stoke City,2,2,1,2,3,9,13,6,3,53,1,0,4,462,364,6,13,5,7,1,47,0,0,1,396,316
+11793,2017,2017-11-19T16:00:00+00:00,Vicarage Road,Regular Season - 12,Watford,West Ham,2,0,1,0,7,17,13,3,0,58,1,0,5,614,515,6,10,10,1,3,42,4,0,5,434,336
+11794,2017,2017-11-18T17:30:00+00:00,Old Trafford,Regular Season - 12,Manchester United,Newcastle,4,1,2,1,7,16,10,11,1,64,1,0,4,620,542,5,12,9,4,1,36,1,0,3,344,260
+11795,2017,2017-11-18T15:00:00+00:00,Vitality Stadium,Regular Season - 12,Bournemouth,Huddersfield,4,0,2,0,5,9,13,8,1,30,5,1,3,246,147,3,19,10,11,0,70,2,0,1,539,441
+11796,2017,2017-11-18T15:00:00+00:00,Turf Moor,Regular Season - 12,Burnley,Swansea,2,0,2,0,7,17,12,8,3,39,1,0,1,296,204,1,14,12,6,1,61,1,0,6,471,379
+11797,2017,2017-11-18T15:00:00+00:00,Selhurst Park,Regular Season - 12,Crystal Palace,Everton,2,2,2,2,7,16,9,9,1,68,2,0,3,539,439,5,8,26,4,1,32,3,0,5,248,159
+11798,2017,2017-11-18T15:00:00+00:00,King Power Stadium,Regular Season - 12,Leicester,Manchester City,0,2,0,1,0,2,8,1,3,25,1,0,2,266,175,4,12,10,7,1,75,1,0,1,784,705
+11799,2017,2017-11-18T15:00:00+00:00,Anfield,Regular Season - 12,Liverpool,Southampton,3,0,2,0,8,21,15,10,2,61,1,0,0,562,472,0,5,9,2,2,39,1,0,5,362,261
+11800,2017,2017-11-18T15:00:00+00:00,The Hawthorns,Regular Season - 12,West Brom,Chelsea,0,4,0,3,2,7,13,3,3,38,2,0,3,378,307,7,11,12,4,1,62,3,0,2,610,529
+11801,2017,2017-11-18T12:30:00+00:00,Emirates Stadium,Regular Season - 12,Arsenal,Tottenham,2,0,2,0,5,14,11,7,8,42,4,0,4,399,281,4,14,16,4,1,58,1,0,3,549,436
+11802,2017,2017-11-05T16:30:00+00:00,Stamford Bridge,Regular Season - 11,Chelsea,Manchester United,1,0,0,0,8,18,16,4,0,54,1,0,2,471,370,2,10,20,7,0,46,3,0,7,396,301
+11803,2017,2017-11-05T16:30:00+00:00,Goodison Park,Regular Season - 11,Everton,Watford,3,2,0,0,5,9,14,2,5,37,0,0,1,294,196,3,11,12,5,1,63,2,0,2,472,356
+11804,2017,2017-11-05T14:15:00+00:00,Etihad Stadium,Regular Season - 11,Manchester City,Arsenal,3,1,1,0,5,9,15,5,3,58,1,0,2,624,544,3,6,15,5,3,42,6,0,3,450,369
+11805,2017,2017-11-05T12:00:00+00:00,Wembley Stadium,Regular Season - 11,Tottenham,Crystal Palace,1,0,0,0,2,12,6,10,3,68,0,0,3,583,491,3,11,7,9,4,32,2,0,1,268,185
+11806,2017,2017-11-04T17:30:00+00:00,London Stadium,Regular Season - 11,West Ham,Liverpool,1,4,0,2,1,6,9,2,5,48,3,0,4,442,335,7,15,13,3,1,52,0,0,0,488,381
+11807,2017,2017-11-04T15:00:00+00:00,John Smith's Stadium,Regular Season - 11,Huddersfield,West Brom,1,0,1,0,3,7,8,3,4,50,3,1,3,421,339,3,9,15,5,4,50,4,0,2,417,330
+11808,2017,2017-11-04T15:00:00+00:00,St James' Park,Regular Season - 11,Newcastle,Bournemouth,0,1,0,0,4,16,11,11,5,48,2,0,4,373,276,6,16,12,9,1,52,2,0,4,407,308
+11809,2017,2017-11-04T15:00:00+00:00,St. Mary's Stadium,Regular Season - 11,Southampton,Burnley,0,1,0,0,3,13,4,9,2,62,0,0,0,575,466,1,5,4,1,1,38,0,0,3,344,239
+11810,2017,2017-11-04T15:00:00+00:00,Liberty Stadium,Regular Season - 11,Swansea,Brighton,0,1,0,1,2,12,13,8,1,56,2,0,1,468,379,2,5,12,7,2,44,1,0,2,371,267
+11811,2017,2017-11-04T12:30:00+00:00,bet365 Stadium,Regular Season - 11,Stoke City,Leicester,2,2,1,1,7,11,12,4,0,47,0,0,2,379,284,4,14,8,10,5,53,0,0,5,424,337
+11812,2017,2017-10-30T20:00:00+00:00,Turf Moor,Regular Season - 10,Burnley,Newcastle,1,0,0,0,5,12,9,5,4,47,3,0,5,451,343,5,12,10,3,1,53,0,0,4,521,409
+11813,2017,2017-10-29T16:00:00+00:00,King Power Stadium,Regular Season - 10,Leicester,Everton,2,0,2,0,3,9,6,3,4,40,0,0,2,324,214,2,15,10,10,1,60,2,0,1,470,374
+11814,2017,2017-10-29T13:30:00+00:00,American Express Community Stadium,Regular Season - 10,Brighton,Southampton,1,1,0,1,2,7,9,2,0,51,3,0,0,490,395,1,6,10,7,1,49,1,0,1,450,360
+11815,2017,2017-10-28T16:30:00+00:00,Vitality Stadium,Regular Season - 10,Bournemouth,Chelsea,0,1,0,0,1,7,5,5,0,41,2,0,4,459,376,5,18,5,5,5,59,0,0,1,653,569
+11816,2017,2017-10-28T14:00:00+00:00,Emirates Stadium,Regular Season - 10,Arsenal,Swansea,2,1,0,1,5,17,9,5,2,72,0,0,1,805,701,2,4,9,2,1,28,0,0,3,300,218
+11817,2017,2017-10-28T14:00:00+00:00,Selhurst Park,Regular Season - 10,Crystal Palace,West Ham,2,2,0,2,9,20,18,11,3,55,1,0,0,410,316,2,6,15,2,1,45,2,0,7,331,238
+11818,2017,2017-10-28T14:00:00+00:00,Anfield,Regular Season - 10,Liverpool,Huddersfield,3,0,0,0,8,16,10,9,0,73,0,0,0,766,660,0,1,8,2,1,27,1,0,5,280,174
+11819,2017,2017-10-28T14:00:00+00:00,Vicarage Road,Regular Season - 10,Watford,Stoke City,0,1,0,1,0,15,10,8,4,70,4,0,1,561,456,2,6,9,1,2,30,4,0,0,249,150
+11820,2017,2017-10-28T14:00:00+00:00,The Hawthorns,Regular Season - 10,West Brom,Manchester City,2,3,1,2,4,7,10,1,5,21,2,0,2,254,151,5,15,7,2,1,79,3,0,2,929,843
+11821,2017,2017-10-28T11:30:00+00:00,Old Trafford,Regular Season - 10,Manchester United,Tottenham,1,0,0,0,3,11,12,6,2,44,1,0,4,405,283,4,13,14,3,1,56,0,0,2,509,394
+11822,2017,2017-10-22T15:00:00+00:00,Wembley Stadium,Regular Season - 9,Tottenham,Liverpool,4,1,3,1,6,14,2,3,1,36,0,0,6,359,274,7,12,8,5,2,64,1,0,1,629,545
+11823,2017,2017-10-22T12:30:00+00:00,Goodison Park,Regular Season - 9,Everton,Arsenal,2,5,1,1,3,9,14,0,2,32,3,1,9,287,199,14,30,14,7,1,68,1,0,1,616,516
+11824,2017,2017-10-21T16:30:00+00:00,St. Mary's Stadium,Regular Season - 9,Southampton,West Brom,1,0,0,0,6,20,10,8,2,65,0,0,2,589,492,2,7,8,3,1,35,1,0,5,307,206
+11825,2017,2017-10-21T14:00:00+00:00,John Smith's Stadium,Regular Season - 9,Huddersfield,Manchester United,2,1,2,0,3,5,10,4,2,22,4,0,2,210,116,3,9,12,7,3,78,2,0,1,741,643
+11826,2017,2017-10-21T14:00:00+00:00,Etihad Stadium,Regular Season - 9,Manchester City,Burnley,3,0,1,0,10,15,10,4,1,77,2,0,0,803,723,0,6,6,5,2,23,3,0,7,227,150
+11827,2017,2017-10-21T14:00:00+00:00,St James' Park,Regular Season - 9,Newcastle,Crystal Palace,1,0,0,0,3,7,12,3,0,55,4,0,0,453,361,0,10,14,5,1,45,2,0,2,365,261
+11828,2017,2017-10-21T14:00:00+00:00,bet365 Stadium,Regular Season - 9,Stoke City,Bournemouth,1,2,0,2,3,11,17,8,4,52,0,0,1,407,287,3,7,10,3,1,48,1,0,2,391,282
+11829,2017,2017-10-21T14:00:00+00:00,Liberty Stadium,Regular Season - 9,Swansea,Leicester,1,2,0,1,4,19,6,7,0,55,0,0,5,463,379,6,11,9,6,3,45,1,0,3,381,276
+11830,2017,2017-10-21T11:30:00+00:00,Stamford Bridge,Regular Season - 9,Chelsea,Watford,4,2,1,1,8,14,13,6,6,52,2,0,3,462,377,5,16,16,6,3,48,3,0,4,406,324
+11831,2017,2017-10-20T19:00:00+00:00,London Stadium,Regular Season - 9,West Ham,Brighton,0,3,0,2,2,16,5,10,3,65,1,0,2,604,506,5,7,13,3,1,35,0,0,2,337,251
+11832,2017,2017-10-16T19:00:00+00:00,King Power Stadium,Regular Season - 8,Leicester,West Brom,1,1,0,0,3,11,13,4,1,57,2,0,0,486,367,1,5,6,1,1,43,2,0,2,378,271
+11833,2017,2017-10-15T15:00:00+00:00,St. Mary's Stadium,Regular Season - 8,Southampton,Newcastle,2,2,0,1,2,12,11,3,1,61,1,0,2,583,495,5,19,12,8,0,39,2,0,0,347,260
+11834,2017,2017-10-15T12:30:00+00:00,American Express Community Stadium,Regular Season - 8,Brighton,Everton,1,1,0,0,3,12,12,7,5,46,4,0,5,385,285,6,13,10,1,1,54,1,0,2,451,354
+11835,2017,2017-10-14T16:30:00+00:00,Vicarage Road,Regular Season - 8,Watford,Arsenal,2,1,0,1,2,11,8,2,1,46,1,0,5,465,365,6,9,10,5,0,54,0,0,0,552,442
+11836,2017,2017-10-14T14:00:00+00:00,Turf Moor,Regular Season - 8,Burnley,West Ham,1,1,0,1,5,20,11,7,2,62,2,0,5,454,356,6,8,14,4,1,38,4,1,4,285,189
+11837,2017,2017-10-14T14:00:00+00:00,Selhurst Park,Regular Season - 8,Crystal Palace,Chelsea,2,1,2,1,5,14,7,5,1,43,2,0,4,431,309,5,15,6,8,6,57,1,0,4,559,459
+11838,2017,2017-10-14T14:00:00+00:00,Etihad Stadium,Regular Season - 8,Manchester City,Stoke City,7,2,3,1,11,20,5,5,2,79,0,0,0,892,814,1,5,8,0,1,21,1,0,4,231,152
+11839,2017,2017-10-14T14:00:00+00:00,Liberty Stadium,Regular Season - 8,Swansea,Huddersfield,2,0,1,0,3,7,12,5,1,40,1,0,2,360,280,2,7,16,3,0,60,5,0,1,539,458
+11840,2017,2017-10-14T14:00:00+00:00,Wembley Stadium,Regular Season - 8,Tottenham,Bournemouth,1,0,0,0,6,18,9,9,3,72,1,0,2,688,613,1,5,7,5,1,28,3,0,5,254,169
+11841,2017,2017-10-14T11:30:00+00:00,Anfield,Regular Season - 8,Liverpool,Manchester United,0,0,0,0,5,19,7,7,3,62,0,0,1,580,500,1,6,13,3,1,38,2,0,5,354,267
+11842,2017,2017-10-01T15:30:00+00:00,St James' Park,Regular Season - 7,Newcastle,Liverpool,1,1,1,1,5,8,11,1,1,32,1,0,1,295,196,2,17,6,5,2,68,1,0,4,613,515
+11843,2017,2017-10-01T13:15:00+00:00,Goodison Park,Regular Season - 7,Everton,Burnley,0,1,0,1,4,25,14,9,1,63,2,0,1,501,398,2,5,7,3,1,37,2,0,4,295,179
+11844,2017,2017-10-01T11:00:00+00:00,Emirates Stadium,Regular Season - 7,Arsenal,Brighton,2,0,1,0,11,25,7,6,2,65,0,0,1,697,612,1,9,8,5,3,35,2,0,6,357,269
+11845,2017,2017-09-30T16:30:00+00:00,Stamford Bridge,Regular Season - 7,Chelsea,Manchester City,0,1,0,0,2,4,8,4,8,38,0,0,4,395,311,6,17,13,8,0,62,2,0,2,653,578
+11846,2017,2017-09-30T14:00:00+00:00,Vitality Stadium,Regular Season - 7,Bournemouth,Leicester,0,0,0,0,4,19,6,7,1,60,1,0,1,540,436,1,8,10,5,3,40,0,0,4,347,221
+11847,2017,2017-09-30T14:00:00+00:00,Old Trafford,Regular Season - 7,Manchester United,Crystal Palace,4,0,2,0,7,18,6,6,2,59,0,0,1,566,474,1,6,9,5,1,41,0,0,3,377,295
+11848,2017,2017-09-30T14:00:00+00:00,bet365 Stadium,Regular Season - 7,Stoke City,Southampton,2,1,1,0,6,17,11,5,1,29,1,0,2,262,171,3,21,10,6,3,71,2,0,5,620,533
+11849,2017,2017-09-30T14:00:00+00:00,The Hawthorns,Regular Season - 7,West Brom,Watford,2,2,2,1,4,9,12,7,1,34,3,0,1,295,205,3,15,11,6,1,66,0,0,2,552,464
+11850,2017,2017-09-30T14:00:00+00:00,London Stadium,Regular Season - 7,West Ham,Swansea,1,0,0,0,4,9,15,2,1,43,3,0,1,375,287,1,6,13,1,0,57,2,0,3,501,412
+11851,2017,2017-09-30T11:30:00+00:00,John Smith's Stadium,Regular Season - 7,Huddersfield,Tottenham,0,4,0,3,1,6,7,4,4,40,1,0,3,368,269,7,14,4,7,2,60,1,0,1,558,452
+11852,2017,2017-09-25T19:00:00+00:00,Emirates Stadium,Regular Season - 6,Arsenal,West Brom,2,0,1,0,6,16,8,7,0,69,1,0,2,615,537,3,7,17,4,0,31,4,0,4,272,188
+11853,2017,2017-09-24T15:00:00+00:00,American Express Community Stadium,Regular Season - 6,Brighton,Newcastle,1,0,0,0,3,7,6,2,1,48,2,0,5,438,339,5,17,8,8,0,52,1,0,2,458,365
+11854,2017,2017-09-23T16:30:00+00:00,King Power Stadium,Regular Season - 6,Leicester,Liverpool,2,3,1,2,7,12,13,3,4,43,3,0,3,360,237,6,23,14,6,1,57,3,0,5,486,352
+11855,2017,2017-09-23T14:00:00+00:00,Turf Moor,Regular Season - 6,Burnley,Huddersfield,0,0,0,0,2,4,9,3,5,52,3,0,2,456,333,2,9,14,4,3,48,2,0,3,417,316
+11856,2017,2017-09-23T14:00:00+00:00,Goodison Park,Regular Season - 6,Everton,Bournemouth,2,1,0,0,3,12,12,4,3,50,3,0,3,426,334,4,8,11,6,1,50,1,0,0,415,321
+11857,2017,2017-09-23T14:00:00+00:00,Etihad Stadium,Regular Season - 6,Manchester City,Crystal Palace,5,0,1,0,9,25,6,8,0,71,3,0,0,724,656,0,5,7,2,1,29,1,0,4,281,205
+11858,2017,2017-09-23T14:00:00+00:00,St. Mary's Stadium,Regular Season - 6,Southampton,Manchester United,0,1,0,1,4,14,12,8,3,60,1,0,3,544,453,4,9,9,4,2,40,4,0,3,368,288
+11859,2017,2017-09-23T14:00:00+00:00,bet365 Stadium,Regular Season - 6,Stoke City,Chelsea,0,4,0,2,2,13,5,5,0,44,2,0,0,407,319,4,7,14,0,1,56,2,0,2,547,466
+11860,2017,2017-09-23T14:00:00+00:00,Liberty Stadium,Regular Season - 6,Swansea,Watford,1,2,0,1,3,10,9,5,0,50,1,0,2,429,323,4,8,16,4,3,50,3,0,2,433,340
+11861,2017,2017-09-23T11:30:00+00:00,London Stadium,Regular Season - 6,West Ham,Tottenham,2,3,0,2,4,10,10,4,6,48,4,0,2,367,261,5,15,20,3,5,52,4,1,2,394,293
+11862,2017,2017-09-17T15:00:00+00:00,Old Trafford,Regular Season - 5,Manchester United,Everton,4,0,1,0,7,16,15,4,2,49,1,0,3,476,403,3,7,14,1,3,51,1,0,3,510,415
+11863,2017,2017-09-17T12:30:00+00:00,Stamford Bridge,Regular Season - 5,Chelsea,Arsenal,0,0,0,0,4,13,11,5,4,50,2,1,2,532,416,2,11,15,1,2,50,3,0,4,520,411
+11864,2017,2017-09-16T16:30:00+00:00,Wembley Stadium,Regular Season - 5,Tottenham,Swansea,0,0,0,0,8,26,11,11,0,74,1,0,0,757,674,0,4,9,1,0,26,3,0,8,257,164
+11865,2017,2017-09-16T14:00:00+00:00,John Smith's Stadium,Regular Season - 5,Huddersfield,Leicester,1,1,0,0,3,15,6,8,3,59,1,0,0,486,383,1,10,6,4,1,41,1,0,2,344,247
+11866,2017,2017-09-16T14:00:00+00:00,Anfield,Regular Season - 5,Liverpool,Burnley,1,1,1,1,9,35,7,12,1,71,1,0,2,676,581,4,5,9,2,5,29,2,0,8,277,183
+11867,2017,2017-09-16T14:00:00+00:00,St James' Park,Regular Season - 5,Newcastle,Stoke City,2,1,1,0,3,14,13,7,2,42,3,0,3,291,207,4,13,11,5,1,58,1,0,1,405,304
+11868,2017,2017-09-16T14:00:00+00:00,Vicarage Road,Regular Season - 5,Watford,Manchester City,0,6,0,3,1,7,8,3,2,32,2,0,4,312,236,10,28,6,11,0,68,0,0,1,637,576
+11869,2017,2017-09-16T14:00:00+00:00,The Hawthorns,Regular Season - 5,West Brom,West Ham,0,0,0,0,1,6,15,2,3,36,2,0,1,290,212,1,9,7,3,2,64,2,0,1,487,414
+11870,2017,2017-09-16T11:30:00+00:00,Selhurst Park,Regular Season - 5,Crystal Palace,Southampton,0,1,0,1,3,14,14,5,0,45,5,0,3,410,311,4,13,13,5,1,55,1,0,3,503,404
+11871,2017,2017-09-15T19:00:00+00:00,Vitality Stadium,Regular Season - 5,Bournemouth,Brighton,2,1,0,0,3,15,5,6,1,62,0,0,0,647,573,2,9,12,4,1,38,0,0,1,390,290
+11872,2017,2017-09-11T19:00:00+00:00,London Stadium,Regular Season - 4,West Ham,Huddersfield,2,0,0,0,3,19,11,10,0,43,1,0,2,311,216,2,10,14,3,1,57,2,0,2,426,330
+11873,2017,2017-09-10T15:00:00+00:00,Liberty Stadium,Regular Season - 4,Swansea,Newcastle,0,1,0,0,4,10,11,7,1,61,2,0,7,525,424,8,16,15,5,0,39,3,0,3,329,240
+11874,2017,2017-09-10T12:30:00+00:00,Turf Moor,Regular Season - 4,Burnley,Crystal Palace,1,0,1,0,2,4,7,3,8,35,1,0,3,254,160,4,23,14,13,1,65,1,0,1,450,342
+11875,2017,2017-09-09T16:30:00+00:00,bet365 Stadium,Regular Season - 4,Stoke City,Manchester United,2,2,1,1,5,10,10,5,1,36,0,0,7,332,252,8,18,10,11,4,64,0,0,3,564,490
+11876,2017,2017-09-09T14:00:00+00:00,Emirates Stadium,Regular Season - 4,Arsenal,Bournemouth,3,0,2,0,9,17,14,10,4,58,0,0,2,583,464,2,7,10,3,0,42,1,0,6,401,291
+11877,2017,2017-09-09T14:00:00+00:00,American Express Community Stadium,Regular Season - 4,Brighton,West Brom,3,1,1,0,6,12,9,2,1,48,2,0,2,448,363,3,12,4,6,1,52,0,0,3,461,377
+11878,2017,2017-09-09T14:00:00+00:00,Goodison Park,Regular Season - 4,Everton,Tottenham,0,3,0,2,1,12,14,7,4,50,3,0,3,464,375,6,15,14,3,3,50,1,0,1,458,367
+11879,2017,2017-09-09T14:00:00+00:00,King Power Stadium,Regular Season - 4,Leicester,Chelsea,1,2,0,1,2,8,11,2,1,40,1,0,4,347,259,6,16,8,9,3,60,0,0,1,521,434
+11880,2017,2017-09-09T14:00:00+00:00,St. Mary's Stadium,Regular Season - 4,Southampton,Watford,0,2,0,1,1,9,8,7,2,52,0,0,1,423,304,3,12,11,4,1,48,0,0,1,384,276
+11881,2017,2017-09-09T11:30:00+00:00,Etihad Stadium,Regular Season - 4,Manchester City,Liverpool,5,0,2,0,10,13,10,8,5,66,2,0,3,730,658,3,7,9,3,2,34,2,1,6,372,288
+11882,2017,2017-08-27T15:00:00+00:00,Anfield,Regular Season - 3,Liverpool,Arsenal,4,0,2,0,10,18,6,4,3,48,2,0,0,507,411,0,8,9,3,5,52,4,0,7,539,438
+11883,2017,2017-08-27T15:00:00+00:00,Wembley Stadium,Regular Season - 3,Tottenham,Burnley,1,1,0,0,5,28,9,10,1,67,0,0,2,588,503,3,13,9,7,6,33,0,0,4,272,193
+11884,2017,2017-08-27T12:30:00+00:00,Stamford Bridge,Regular Season - 3,Chelsea,Everton,2,0,2,0,7,18,12,6,0,56,2,0,0,583,500,0,7,7,3,0,44,2,0,5,437,355
+11885,2017,2017-08-27T12:30:00+00:00,The Hawthorns,Regular Season - 3,West Brom,Stoke City,1,1,0,0,2,10,10,10,2,42,2,0,1,314,239,2,16,9,4,0,58,2,0,1,438,380
+11886,2017,2017-08-26T16:30:00+00:00,Old Trafford,Regular Season - 3,Manchester United,Leicester,2,0,0,0,7,22,8,9,2,69,1,0,4,662,576,4,11,7,3,3,31,2,0,5,300,208
+11887,2017,2017-08-26T14:00:00+00:00,Selhurst Park,Regular Season - 3,Crystal Palace,Swansea,0,2,0,1,3,16,9,1,0,53,4,0,1,504,416,3,7,6,1,3,47,1,0,3,464,369
+11888,2017,2017-08-26T14:00:00+00:00,John Smith's Stadium,Regular Season - 3,Huddersfield,Southampton,0,0,0,0,6,16,10,5,0,44,0,0,2,378,265,3,6,10,4,3,56,1,0,6,502,382
+11889,2017,2017-08-26T14:00:00+00:00,St James' Park,Regular Season - 3,Newcastle,West Ham,3,0,1,0,8,17,17,7,0,37,1,0,3,271,169,3,8,11,5,2,63,3,0,5,473,358
+11890,2017,2017-08-26T14:00:00+00:00,Vicarage Road,Regular Season - 3,Watford,Brighton,0,0,0,0,0,8,7,3,0,42,0,1,2,334,244,2,16,18,11,5,58,1,0,0,433,359
+11891,2017,2017-08-26T11:30:00+00:00,Vitality Stadium,Regular Season - 3,Bournemouth,Manchester City,1,2,1,1,3,9,13,2,0,29,5,0,6,258,152,8,19,14,5,3,71,6,1,2,604,524
+11892,2017,2017-08-21T19:00:00+00:00,Etihad Stadium,Regular Season - 2,Manchester City,Everton,1,1,0,1,6,19,7,7,0,65,3,1,1,560,461,2,7,9,1,3,35,4,1,5,301,198
+11893,2017,2017-08-20T15:00:00+00:00,Wembley Stadium,Regular Season - 2,Tottenham,Chelsea,1,2,0,1,6,18,14,14,0,67,4,0,0,592,501,2,9,21,3,0,33,3,0,6,280,195
+11894,2017,2017-08-20T12:30:00+00:00,John Smith's Stadium,Regular Season - 2,Huddersfield,Newcastle,1,0,0,0,3,7,13,7,4,52,3,0,5,456,353,5,13,10,3,5,48,4,0,2,415,296
+11895,2017,2017-08-19T16:30:00+00:00,bet365 Stadium,Regular Season - 2,Stoke City,Arsenal,1,0,0,0,4,11,6,2,4,22,0,0,6,213,137,6,18,11,9,3,78,0,0,3,731,639
+11896,2017,2017-08-19T14:00:00+00:00,Vitality Stadium,Regular Season - 2,Bournemouth,Watford,0,2,0,0,2,6,6,8,1,55,1,0,5,438,338,7,19,14,5,7,45,3,0,2,338,265
+11897,2017,2017-08-19T14:00:00+00:00,Turf Moor,Regular Season - 2,Burnley,West Brom,0,1,0,0,0,20,11,5,1,67,1,0,0,471,374,1,8,11,5,3,33,0,1,0,228,127
+11898,2017,2017-08-19T14:00:00+00:00,King Power Stadium,Regular Season - 2,Leicester,Brighton,2,0,1,0,4,14,8,6,1,45,1,0,2,427,332,2,5,10,2,2,55,0,0,2,526,435
+11899,2017,2017-08-19T14:00:00+00:00,Anfield,Regular Season - 2,Liverpool,Crystal Palace,1,0,0,0,13,23,12,4,2,72,1,0,1,712,603,1,4,13,2,4,28,3,0,12,273,181
+11900,2017,2017-08-19T14:00:00+00:00,St. Mary's Stadium,Regular Season - 2,Southampton,West Ham,3,2,2,1,5,14,18,7,1,66,1,0,6,569,487,8,16,10,2,0,34,1,1,2,287,192
+11901,2017,2017-08-19T11:30:00+00:00,Liberty Stadium,Regular Season - 2,Swansea,Manchester United,0,4,0,1,0,5,12,3,1,41,1,0,4,406,315,8,17,11,5,0,59,1,0,0,601,523
+11902,2017,2017-08-13T15:00:00+00:00,Old Trafford,Regular Season - 1,Manchester United,West Ham,4,0,1,0,5,21,19,11,1,55,2,0,1,493,417,1,9,7,1,4,45,2,0,1,397,316
+11903,2017,2017-08-13T12:30:00+00:00,St James' Park,Regular Season - 1,Newcastle,Tottenham,0,2,0,0,2,6,6,5,2,26,1,1,4,245,157,6,18,10,7,1,74,2,0,2,702,628
+11904,2017,2017-08-12T16:30:00+00:00,American Express Community Stadium,Regular Season - 1,Brighton,Manchester City,0,2,0,0,2,6,6,3,6,21,0,0,3,213,130,4,14,9,10,1,79,2,0,2,768,691
+11905,2017,2017-08-12T14:00:00+00:00,Stamford Bridge,Regular Season - 1,Chelsea,Burnley,2,3,0,3,6,19,16,8,2,61,5,2,2,521,446,5,10,11,5,1,39,3,0,4,320,241
+11906,2017,2017-08-12T14:00:00+00:00,Selhurst Park,Regular Season - 1,Crystal Palace,Huddersfield,0,3,0,2,4,14,7,12,0,56,1,0,4,391,304,6,9,19,9,2,44,3,0,4,306,199
+11907,2017,2017-08-12T14:00:00+00:00,Goodison Park,Regular Season - 1,Everton,Stoke City,1,0,1,0,4,9,13,6,2,61,1,0,1,497,392,1,9,10,7,6,39,1,0,3,292,211
+11908,2017,2017-08-12T14:00:00+00:00,St. Mary's Stadium,Regular Season - 1,Southampton,Swansea,0,0,0,0,2,29,10,13,0,59,2,0,0,518,432,0,4,13,0,1,41,1,0,2,365,284
+11909,2017,2017-08-12T14:00:00+00:00,The Hawthorns,Regular Season - 1,West Brom,Bournemouth,1,0,1,0,6,16,15,8,2,28,3,0,2,242,157,2,9,3,2,0,72,1,0,5,612,527
+11910,2017,2017-08-12T11:30:00+00:00,Vicarage Road,Regular Season - 1,Watford,Liverpool,3,3,2,1,4,9,14,3,3,45,0,0,2,395,277,5,14,8,3,1,55,3,0,1,477,352
+11911,2017,2017-08-11T18:45:00+00:00,Emirates Stadium,Regular Season - 1,Arsenal,Leicester,4,3,2,2,10,27,9,9,5,70,0,0,0,632,538,3,6,12,4,3,30,1,0,6,263,167

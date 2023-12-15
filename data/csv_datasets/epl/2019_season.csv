@@ -1,0 +1,381 @@
+fixture_id,season,date,stadium,game_week,home_team,away_team,home_goals,away_goals,ht_home_goals,ht_away_goals,home_shots_on_target,home_shots,home_fouls,home_corners,home_offsides,home_possession,home_yellow_cards,home_red_cards,home_goalkeeper_saves,home_attempted_passes,home_successful_passes,away_shots_on_target,away_shots,away_fouls,away_corners,away_offsides,away_possession,away_yellow_cards,away_red_cards,away_goalkeeper_saves,away_attempted_passes,away_successful_passes
+157015,2019,2019-08-09T19:00:00+00:00,Anfield,Regular Season - 1,Liverpool,Norwich,4,1,4,0,7,15,9,11,0,57,0,0,4,477,387,5,12,9,2,5,43,2,0,4,363,278
+157016,2019,2019-08-10T11:30:00+00:00,London Stadium,Regular Season - 1,West Ham,Manchester City,0,5,0,1,3,5,6,1,2,42,2,0,4,403,325,9,14,13,1,4,58,2,0,3,547,473
+157017,2019,2019-08-10T14:00:00+00:00,Vitality Stadium,Regular Season - 1,Bournemouth,Sheffield Utd,1,1,0,0,3,13,10,3,1,52,2,0,2,485,384,3,8,19,4,1,48,1,0,2,428,332
+157018,2019,2019-08-10T14:00:00+00:00,Turf Moor,Regular Season - 1,Burnley,Southampton,3,0,0,0,4,10,6,2,5,46,0,0,3,332,183,3,11,12,7,1,54,0,0,1,393,249
+157019,2019,2019-08-10T14:00:00+00:00,Selhurst Park,Regular Season - 1,Crystal Palace,Everton,0,0,0,0,2,6,16,6,4,35,2,0,2,268,161,3,10,14,2,0,65,3,1,2,500,401
+157020,2019,2019-08-11T13:00:00+00:00,King Power Stadium,Regular Season - 1,Leicester,Wolves,0,0,0,0,1,16,3,12,0,70,0,0,2,665,564,2,8,13,3,1,30,2,0,1,291,202
+157021,2019,2019-08-10T14:00:00+00:00,Vicarage Road,Regular Season - 1,Watford,Brighton,0,3,0,1,3,11,15,5,0,48,0,0,1,414,325,3,5,11,2,3,52,1,0,3,442,347
+157022,2019,2019-08-10T16:30:00+00:00,Tottenham Hotspur Stadium,Regular Season - 1,Tottenham,Aston Villa,3,1,0,1,7,31,13,14,1,70,1,0,3,587,526,4,7,9,0,0,30,0,0,3,256,200
+157023,2019,2019-08-11T13:00:00+00:00,St. James' Park,Regular Season - 1,Newcastle,Arsenal,0,1,0,0,2,9,12,5,1,38,1,0,1,378,287,2,8,7,3,3,62,3,0,2,616,523
+157024,2019,2019-08-11T15:30:00+00:00,Old Trafford,Regular Season - 1,Manchester United,Chelsea,4,0,1,0,5,11,15,3,2,46,3,0,7,449,363,7,18,13,5,0,54,4,0,1,523,442
+157025,2019,2019-08-17T11:30:00+00:00,Emirates Stadium,Regular Season - 2,Arsenal,Burnley,2,1,1,1,9,15,13,10,5,67,2,0,3,529,443,5,18,11,7,1,33,1,0,7,234,151
+157026,2019,2019-08-17T14:00:00+00:00,Villa Park,Regular Season - 2,Aston Villa,Bournemouth,1,2,0,2,7,21,10,10,5,62,0,0,2,490,402,4,12,13,5,2,38,2,0,6,295,208
+157027,2019,2019-08-17T14:00:00+00:00,The American Express Community Stadium,Regular Season - 2,Brighton,West Ham,1,1,0,0,4,16,11,8,2,57,0,0,2,497,395,3,8,10,6,4,43,2,0,3,377,276
+157028,2019,2019-08-18T15:30:00+00:00,Stamford Bridge,Regular Season - 2,Chelsea,Leicester,1,1,1,0,5,14,9,4,3,50,1,0,2,454,359,3,12,14,5,3,50,0,0,4,455,352
+157029,2019,2019-08-17T14:00:00+00:00,Goodison Park,Regular Season - 2,Everton,Watford,1,0,1,0,2,12,11,4,3,44,2,0,2,303,204,2,8,11,7,1,56,3,0,1,388,280
+157030,2019,2019-08-17T16:30:00+00:00,Etihad Stadium,Regular Season - 2,Manchester City,Tottenham,2,2,2,1,10,30,14,13,3,55,1,0,0,610,551,2,3,4,2,1,45,0,0,8,506,425
+157031,2019,2019-08-17T14:00:00+00:00,Carrow Road,Regular Season - 2,Norwich,Newcastle,3,1,1,0,8,15,9,7,2,63,1,0,3,603,529,4,12,11,5,1,37,3,0,5,336,271
+157032,2019,2019-08-18T13:00:00+00:00,Bramall Lane,Regular Season - 2,Sheffield Utd,Crystal Palace,1,0,0,0,3,15,16,8,0,42,3,0,4,354,274,4,6,11,4,1,58,1,0,2,498,392
+157033,2019,2019-08-17T14:00:00+00:00,St. Mary's Stadium,Regular Season - 2,Southampton,Liverpool,1,2,0,1,3,14,10,5,4,36,2,0,4,296,192,6,15,6,9,1,64,1,0,3,530,414
+157034,2019,2019-08-19T19:00:00+00:00,Molineux Stadium,Regular Season - 2,Wolves,Manchester United,1,1,0,1,2,6,17,4,1,34,2,0,1,350,263,2,9,8,6,1,66,2,0,1,668,579
+157035,2019,2019-08-25T13:00:00+00:00,Vitality Stadium,Regular Season - 3,Bournemouth,Manchester City,1,3,1,2,7,10,7,4,2,26,1,0,2,249,179,5,18,13,5,4,74,3,0,6,728,647
+157036,2019,2019-08-23T19:00:00+00:00,Villa Park,Regular Season - 3,Aston Villa,Everton,2,0,1,0,3,7,10,0,8,35,2,0,1,301,219,1,12,18,6,1,65,3,0,1,539,435
+157037,2019,2019-08-24T14:00:00+00:00,The American Express Community Stadium,Regular Season - 3,Brighton,Southampton,0,2,0,0,3,12,9,8,1,50,1,1,2,394,296,4,12,10,5,0,50,3,0,3,395,297
+157038,2019,2019-08-24T16:30:00+00:00,Anfield,Regular Season - 3,Liverpool,Arsenal,3,1,1,0,5,25,8,6,1,52,1,0,2,553,474,3,9,5,4,4,48,1,0,2,516,447
+157039,2019,2019-08-24T14:00:00+00:00,Old Trafford,Regular Season - 3,Manchester United,Crystal Palace,1,2,0,1,3,22,8,8,0,71,2,0,1,562,481,3,5,18,1,0,29,4,0,2,231,141
+157040,2019,2019-08-24T11:30:00+00:00,Carrow Road,Regular Season - 3,Norwich,Chelsea,2,3,2,2,5,6,9,1,0,46,1,0,5,481,391,8,23,9,8,0,54,1,0,3,543,457
+157041,2019,2019-08-24T14:00:00+00:00,Bramall Lane,Regular Season - 3,Sheffield Utd,Leicester,1,2,0,1,2,7,11,7,1,49,1,0,0,421,316,2,10,6,4,5,51,0,0,1,452,358
+157042,2019,2019-08-25T15:30:00+00:00,Tottenham Hotspur Stadium,Regular Season - 3,Tottenham,Newcastle,0,1,0,1,2,17,10,6,1,80,2,0,2,763,690,3,8,5,6,4,20,2,0,2,190,142
+157043,2019,2019-08-24T14:00:00+00:00,Vicarage Road,Regular Season - 3,Watford,West Ham,1,3,1,1,3,23,12,8,1,54,1,0,7,465,390,10,16,11,7,2,46,1,0,2,386,306
+157044,2019,2019-08-25T15:30:00+00:00,Molineux Stadium,Regular Season - 3,Wolves,Burnley,1,1,0,1,2,17,9,4,1,65,0,0,3,586,470,4,13,11,3,1,35,2,0,2,306,202
+157045,2019,2019-09-01T15:30:00+00:00,Emirates Stadium,Regular Season - 4,Arsenal,Tottenham,2,2,1,2,8,26,13,11,3,54,3,0,7,453,380,9,13,19,6,1,46,5,0,6,388,309
+157046,2019,2019-08-31T16:30:00+00:00,Turf Moor,Regular Season - 4,Burnley,Liverpool,0,3,0,2,2,7,10,6,5,36,0,0,5,318,193,7,15,16,4,1,64,0,0,2,568,442
+157047,2019,2019-08-31T14:00:00+00:00,Stamford Bridge,Regular Season - 4,Chelsea,Sheffield Utd,2,2,2,0,5,13,6,3,2,62,0,0,2,719,627,2,8,11,4,0,38,1,0,3,429,338
+157048,2019,2019-08-31T14:00:00+00:00,Selhurst Park,Regular Season - 4,Crystal Palace,Aston Villa,1,0,0,0,5,22,15,13,2,52,2,0,2,407,343,2,10,16,2,0,48,6,1,4,379,315
+157049,2019,2019-09-01T13:00:00+00:00,Goodison Park,Regular Season - 4,Everton,Wolves,3,2,2,1,6,15,12,7,1,58,1,0,3,451,364,5,8,12,7,2,42,6,1,3,320,217
+157050,2019,2019-08-31T14:00:00+00:00,King Power Stadium,Regular Season - 4,Leicester,Bournemouth,3,1,2,1,6,15,9,4,2,55,1,0,1,541,435,2,8,11,5,1,45,3,0,3,432,334
+157051,2019,2019-08-31T14:00:00+00:00,Etihad Stadium,Regular Season - 4,Manchester City,Brighton,4,0,2,0,6,15,10,8,1,53,1,0,1,598,535,2,6,6,1,3,47,1,0,2,523,454
+157052,2019,2019-08-31T14:00:00+00:00,St. James' Park,Regular Season - 4,Newcastle,Watford,1,1,1,1,5,13,5,6,6,48,2,0,3,468,359,3,13,11,5,0,52,3,0,4,498,384
+157053,2019,2019-08-31T11:30:00+00:00,St. Mary's Stadium,Regular Season - 4,Southampton,Manchester United,1,1,0,1,2,10,17,2,0,41,3,1,7,375,276,8,21,7,3,1,59,2,0,1,537,427
+157054,2019,2019-08-31T14:00:00+00:00,London Stadium,Regular Season - 4,West Ham,Norwich,2,0,1,0,8,18,16,8,2,48,2,0,3,474,395,3,8,10,2,3,52,1,0,5,500,433
+157055,2019,2019-09-15T13:00:00+00:00,Vitality Stadium,Regular Season - 5,Bournemouth,Everton,3,1,1,1,6,13,5,7,4,40,0,0,4,336,232,5,14,14,7,0,60,4,0,3,488,373
+157056,2019,2019-09-16T19:00:00+00:00,Villa Park,Regular Season - 5,Aston Villa,West Ham,0,0,0,0,5,10,13,2,3,46,2,0,1,408,329,1,13,12,4,3,54,3,1,5,470,391
+157057,2019,2019-09-14T14:00:00+00:00,The American Express Community Stadium,Regular Season - 5,Brighton,Burnley,1,1,0,0,5,14,13,3,2,62,0,0,0,491,372,1,7,7,6,2,38,2,0,4,284,178
+157058,2019,2019-09-14T11:30:00+00:00,Anfield,Regular Season - 5,Liverpool,Newcastle,3,1,2,1,9,21,5,10,2,75,0,0,0,847,764,1,8,4,1,8,25,0,0,5,282,205
+157059,2019,2019-09-14T14:00:00+00:00,Old Trafford,Regular Season - 5,Manchester United,Leicester,1,0,1,0,5,10,14,3,0,41,1,0,3,345,258,3,9,14,9,2,59,2,0,4,471,373
+157060,2019,2019-09-14T16:30:00+00:00,Carrow Road,Regular Season - 5,Norwich,Manchester City,3,2,2,1,3,7,8,3,1,31,3,0,6,318,236,8,25,7,16,0,69,1,0,0,671,594
+157061,2019,2019-09-14T14:00:00+00:00,Bramall Lane,Regular Season - 5,Sheffield Utd,Southampton,0,1,0,0,4,17,10,12,3,48,1,1,6,414,308,7,11,7,6,1,52,1,0,4,467,363
+157062,2019,2019-09-14T14:00:00+00:00,Tottenham Hotspur Stadium,Regular Season - 5,Tottenham,Crystal Palace,4,0,4,0,5,13,19,4,1,64,4,0,6,640,563,6,11,11,3,0,36,3,0,2,357,276
+157063,2019,2019-09-15T15:30:00+00:00,Vicarage Road,Regular Season - 5,Watford,Arsenal,2,2,0,2,10,31,14,7,1,52,3,0,2,499,442,4,7,4,1,0,48,3,0,8,466,386
+157064,2019,2019-09-14T14:00:00+00:00,Molineux Stadium,Regular Season - 5,Wolves,Chelsea,2,5,0,3,4,11,8,7,1,45,1,0,1,449,350,6,15,11,5,1,55,2,0,3,555,472
+157065,2019,2019-09-22T15:30:00+00:00,Emirates Stadium,Regular Season - 6,Arsenal,Aston Villa,3,2,0,1,6,21,13,9,2,58,7,1,7,465,396,9,14,15,4,0,42,1,0,3,326,265
+157066,2019,2019-09-21T14:00:00+00:00,Turf Moor,Regular Season - 6,Burnley,Norwich,2,0,2,0,6,13,11,7,2,41,0,0,2,357,272,2,11,10,3,0,59,1,0,4,528,437
+157067,2019,2019-09-22T15:30:00+00:00,Stamford Bridge,Regular Season - 6,Chelsea,Liverpool,1,2,0,2,2,13,8,6,7,55,3,0,1,492,394,3,6,13,4,1,45,3,0,1,415,303
+157068,2019,2019-09-22T13:00:00+00:00,Selhurst Park,Regular Season - 6,Crystal Palace,Wolves,1,1,0,0,4,13,7,6,1,49,2,0,3,456,359,4,13,10,7,0,51,3,1,4,442,344
+157069,2019,2019-09-21T14:00:00+00:00,Goodison Park,Regular Season - 6,Everton,Sheffield Utd,0,2,0,1,3,16,9,12,1,69,1,0,0,520,433,1,2,9,3,1,31,3,0,3,227,144
+157070,2019,2019-09-21T11:30:00+00:00,King Power Stadium,Regular Season - 6,Leicester,Tottenham,2,1,0,1,7,16,16,8,3,44,1,0,3,380,286,4,11,13,2,3,56,2,0,5,491,403
+157071,2019,2019-09-21T14:00:00+00:00,Etihad Stadium,Regular Season - 6,Manchester City,Watford,8,0,5,0,11,28,5,5,2,68,2,0,4,727,655,4,5,9,4,2,32,2,0,3,336,265
+157072,2019,2019-09-21T16:30:00+00:00,St. James' Park,Regular Season - 6,Newcastle,Brighton,0,0,0,0,4,11,12,5,0,28,2,0,2,280,195,3,16,8,3,3,72,1,0,4,718,633
+157073,2019,2019-09-20T19:00:00+00:00,St. Mary's Stadium,Regular Season - 6,Southampton,Bournemouth,1,3,0,2,6,25,8,4,1,64,1,0,0,554,429,3,6,9,5,2,36,3,0,6,300,178
+157074,2019,2019-09-22T13:00:00+00:00,London Stadium,Regular Season - 6,West Ham,Manchester United,2,0,1,0,6,8,8,3,2,46,2,0,3,424,332,3,9,9,7,1,54,2,0,4,479,399
+157075,2019,2019-09-28T14:00:00+00:00,Vitality Stadium,Regular Season - 7,Bournemouth,West Ham,2,2,1,1,5,13,7,6,2,49,3,0,4,456,349,6,17,8,6,2,51,1,0,3,478,369
+157076,2019,2019-09-28T14:00:00+00:00,Villa Park,Regular Season - 7,Aston Villa,Burnley,2,2,1,0,3,16,10,7,2,60,1,0,1,416,324,3,10,16,3,0,40,4,0,1,281,177
+157077,2019,2019-09-28T14:00:00+00:00,Stamford Bridge,Regular Season - 7,Chelsea,Brighton,2,0,0,0,10,24,5,5,1,52,2,0,1,568,487,1,8,13,2,2,48,3,0,8,502,414
+157078,2019,2019-09-28T14:00:00+00:00,Selhurst Park,Regular Season - 7,Crystal Palace,Norwich,2,0,1,0,3,15,14,5,2,44,3,0,3,415,333,3,10,10,5,1,56,1,0,1,524,438
+157079,2019,2019-09-28T16:30:00+00:00,Goodison Park,Regular Season - 7,Everton,Manchester City,1,3,1,1,8,12,4,5,2,37,2,0,5,358,294,8,19,8,2,5,63,2,0,6,619,564
+157080,2019,2019-09-29T15:30:00+00:00,King Power Stadium,Regular Season - 7,Leicester,Newcastle,5,0,1,0,5,13,12,9,0,68,1,0,0,724,645,0,3,9,0,1,32,1,1,1,328,252
+157081,2019,2019-09-30T19:00:00+00:00,Old Trafford,Regular Season - 7,Manchester United,Arsenal,1,1,1,0,4,16,18,8,2,54,4,0,4,440,350,5,10,13,7,4,46,2,0,3,364,283
+157082,2019,2019-09-28T11:30:00+00:00,Bramall Lane,Regular Season - 7,Sheffield Utd,Liverpool,0,1,0,0,2,12,8,6,0,29,1,0,3,291,192,4,16,4,5,1,71,1,0,2,708,609
+157083,2019,2019-09-28T14:00:00+00:00,Tottenham Hotspur Stadium,Regular Season - 7,Tottenham,Southampton,2,1,2,1,4,9,5,6,1,41,2,1,5,369,290,6,14,16,6,1,59,2,0,2,518,447
+157084,2019,2019-09-28T14:00:00+00:00,Molineux Stadium,Regular Season - 7,Wolves,Watford,2,0,1,0,2,6,5,1,2,39,0,0,5,404,311,5,14,6,6,1,61,1,0,1,628,530
+157085,2019,2019-10-06T13:00:00+00:00,Emirates Stadium,Regular Season - 8,Arsenal,Bournemouth,1,0,1,0,2,12,12,14,0,52,1,0,2,443,334,2,10,6,5,0,48,2,0,1,403,310
+157086,2019,2019-10-05T11:30:00+00:00,The American Express Community Stadium,Regular Season - 8,Brighton,Tottenham,3,0,2,0,6,17,11,4,1,47,2,0,3,494,405,3,8,7,4,1,53,1,0,3,547,452
+157087,2019,2019-10-05T14:00:00+00:00,Turf Moor,Regular Season - 8,Burnley,Everton,1,0,0,0,3,9,5,7,5,40,2,0,2,327,215,2,11,12,9,1,60,3,1,2,471,362
+157088,2019,2019-10-05T14:00:00+00:00,Anfield,Regular Season - 8,Liverpool,Leicester,2,1,1,0,8,18,9,4,3,50,1,0,0,494,386,1,2,17,6,2,50,4,0,6,478,355
+157089,2019,2019-10-06T13:00:00+00:00,Etihad Stadium,Regular Season - 8,Manchester City,Wolves,0,2,0,0,2,18,11,9,1,76,5,0,0,714,634,2,7,14,1,2,24,2,0,2,230,149
+157090,2019,2019-10-06T15:30:00+00:00,St. James' Park,Regular Season - 8,Newcastle,Manchester United,1,0,0,0,2,12,12,4,1,31,3,0,3,281,204,3,12,10,6,2,69,3,0,1,594,512
+157091,2019,2019-10-05T14:00:00+00:00,Carrow Road,Regular Season - 8,Norwich,Aston Villa,1,5,0,2,5,21,14,10,0,57,1,0,7,472,383,12,22,17,6,1,43,3,0,4,345,268
+157092,2019,2019-10-06T13:00:00+00:00,St. Mary's Stadium,Regular Season - 8,Southampton,Chelsea,1,4,1,3,3,10,8,3,1,43,0,0,3,400,275,7,13,15,4,0,57,1,0,1,528,395
+157093,2019,2019-10-05T14:00:00+00:00,Vicarage Road,Regular Season - 8,Watford,Sheffield Utd,0,0,0,0,2,8,7,7,2,39,0,0,3,360,252,3,9,6,7,3,61,2,0,2,554,455
+157094,2019,2019-10-05T16:30:00+00:00,London Stadium,Regular Season - 8,West Ham,Crystal Palace,1,2,0,0,4,9,11,2,2,51,3,0,1,519,426,4,7,7,2,4,49,2,0,4,489,395
+157095,2019,2019-10-19T14:00:00+00:00,Vitality Stadium,Regular Season - 9,Bournemouth,Norwich,0,0,0,0,2,11,8,6,2,47,1,0,1,407,326,1,10,11,7,2,53,3,0,2,469,378
+157096,2019,2019-10-19T14:00:00+00:00,Villa Park,Regular Season - 9,Aston Villa,Brighton,2,1,1,1,8,24,9,7,1,48,1,0,4,441,371,5,20,17,5,0,52,4,1,6,475,398
+157097,2019,2019-10-19T14:00:00+00:00,Stamford Bridge,Regular Season - 9,Chelsea,Newcastle,1,0,0,0,8,16,9,11,1,71,2,0,0,634,552,0,5,12,0,1,29,1,0,6,258,172
+157098,2019,2019-10-19T16:30:00+00:00,Selhurst Park,Regular Season - 9,Crystal Palace,Manchester City,0,2,0,2,2,7,8,1,3,28,1,0,9,276,207,10,21,10,8,2,72,1,0,2,682,595
+157099,2019,2019-10-19T11:30:00+00:00,Goodison Park,Regular Season - 9,Everton,West Ham,2,0,1,0,10,19,15,11,9,51,2,0,4,390,290,4,8,15,2,4,49,2,0,9,384,264
+157100,2019,2019-10-19T14:00:00+00:00,King Power Stadium,Regular Season - 9,Leicester,Burnley,2,1,1,1,3,19,4,9,2,64,0,0,3,556,466,4,13,10,4,3,36,3,0,1,303,218
+157101,2019,2019-10-20T15:30:00+00:00,Old Trafford,Regular Season - 9,Manchester United,Liverpool,1,1,1,0,2,7,6,3,4,32,0,0,3,299,199,4,10,14,1,1,68,1,0,1,652,547
+157102,2019,2019-10-21T19:00:00+00:00,Bramall Lane,Regular Season - 9,Sheffield Utd,Arsenal,1,0,1,0,2,8,10,7,1,31,4,0,3,287,205,3,9,12,12,1,69,4,0,1,633,548
+157103,2019,2019-10-19T14:00:00+00:00,Tottenham Hotspur Stadium,Regular Season - 9,Tottenham,Watford,1,1,0,1,2,12,5,11,5,69,4,0,1,686,592,2,7,9,2,1,31,3,0,1,313,206
+157104,2019,2019-10-19T14:00:00+00:00,Molineux Stadium,Regular Season - 9,Wolves,Southampton,1,1,0,0,1,4,10,1,1,57,3,0,4,511,399,5,14,17,3,2,43,2,0,0,385,288
+157105,2019,2019-10-27T15:30:00+00:00,Emirates Stadium,Regular Season - 10,Arsenal,Crystal Palace,2,2,2,1,6,15,18,12,1,56,2,0,2,444,362,4,10,9,5,1,44,0,0,4,345,267
+157106,2019,2019-10-26T14:00:00+00:00,The American Express Community Stadium,Regular Season - 10,Brighton,Everton,3,2,1,1,4,8,12,0,3,55,2,0,5,533,431,6,10,12,5,2,45,1,0,2,425,343
+157107,2019,2019-10-26T16:30:00+00:00,Turf Moor,Regular Season - 10,Burnley,Chelsea,2,4,0,2,5,13,7,5,1,36,3,0,3,390,286,7,16,8,6,0,64,2,0,3,691,589
+157108,2019,2019-10-27T15:30:00+00:00,Anfield,Regular Season - 10,Liverpool,Tottenham,2,1,0,1,13,21,9,8,0,68,3,0,3,631,528,4,11,11,3,4,32,3,0,12,298,200
+157109,2019,2019-10-26T11:30:00+00:00,Etihad Stadium,Regular Season - 10,Manchester City,Aston Villa,3,0,0,0,10,26,10,13,1,63,3,1,5,597,524,5,11,5,7,2,37,1,0,6,341,273
+157110,2019,2019-10-27T13:00:00+00:00,St. James' Park,Regular Season - 10,Newcastle,Wolves,1,1,1,0,2,13,8,3,1,43,2,1,4,405,317,5,13,16,6,1,57,2,0,1,533,451
+157111,2019,2019-10-27T15:30:00+00:00,Carrow Road,Regular Season - 10,Norwich,Manchester United,1,3,0,2,3,10,13,1,1,46,2,0,8,417,330,11,21,10,10,0,54,2,0,2,480,406
+157112,2019,2019-10-25T19:00:00+00:00,St. Mary's Stadium,Regular Season - 10,Southampton,Leicester,0,9,0,5,3,6,3,2,1,27,0,1,6,272,173,15,25,12,7,0,73,0,0,3,709,611
+157113,2019,2019-10-26T14:00:00+00:00,Vicarage Road,Regular Season - 10,Watford,Bournemouth,0,0,0,0,3,7,14,5,5,40,5,0,5,337,253,5,15,8,10,3,60,3,0,3,501,417
+157114,2019,2019-10-26T14:00:00+00:00,London Stadium,Regular Season - 10,West Ham,Sheffield Utd,1,1,1,0,4,12,7,10,4,60,2,0,2,545,436,4,10,10,4,4,40,2,0,3,357,261
+157115,2019,2019-11-02T12:30:00+00:00,Vitality Stadium,Regular Season - 11,Bournemouth,Manchester United,1,0,1,0,6,13,14,4,1,42,4,0,4,366,262,4,15,12,10,4,58,3,0,5,488,383
+157116,2019,2019-11-02T15:00:00+00:00,Emirates Stadium,Regular Season - 11,Arsenal,Wolves,1,1,1,0,4,10,6,8,2,57,0,0,7,539,465,8,24,15,9,2,43,2,0,3,397,316
+157117,2019,2019-11-02T15:00:00+00:00,Villa Park,Regular Season - 11,Aston Villa,Liverpool,1,2,1,0,2,4,12,2,3,26,1,0,4,226,132,6,25,9,10,2,74,2,0,1,634,533
+157118,2019,2019-11-02T15:00:00+00:00,The American Express Community Stadium,Regular Season - 11,Brighton,Norwich,2,0,0,0,5,21,11,8,3,58,0,0,0,538,452,0,7,8,3,1,42,1,0,3,391,307
+157119,2019,2019-11-03T14:00:00+00:00,Selhurst Park,Regular Season - 11,Crystal Palace,Leicester,0,2,0,0,3,12,15,5,2,44,2,0,3,334,262,5,14,16,6,1,56,2,0,3,431,353
+157120,2019,2019-11-03T16:30:00+00:00,Goodison Park,Regular Season - 11,Everton,Tottenham,1,1,0,0,3,7,9,5,1,47,1,0,1,375,281,2,5,8,2,2,53,2,0,2,443,344
+157121,2019,2019-11-02T15:00:00+00:00,Etihad Stadium,Regular Season - 11,Manchester City,Southampton,2,1,0,1,4,26,11,17,3,75,3,0,2,639,562,3,3,10,0,0,25,1,0,2,225,139
+157122,2019,2019-11-02T15:00:00+00:00,Bramall Lane,Regular Season - 11,Sheffield Utd,Burnley,3,0,3,0,6,13,8,7,1,45,1,0,1,384,266,0,6,12,6,0,55,2,0,3,460,342
+157123,2019,2019-11-02T17:30:00+00:00,Vicarage Road,Regular Season - 11,Watford,Chelsea,1,2,0,1,3,12,8,1,0,32,4,0,8,373,292,10,16,5,6,0,68,2,0,2,793,710
+157124,2019,2019-11-02T15:00:00+00:00,London Stadium,Regular Season - 11,West Ham,Newcastle,2,3,0,2,6,16,10,7,1,69,2,0,6,583,501,9,12,7,3,4,31,1,0,4,262,176
+157125,2019,2019-11-09T15:00:00+00:00,Turf Moor,Regular Season - 12,Burnley,West Ham,3,0,2,0,12,14,17,11,7,40,2,0,4,299,208,4,7,10,4,1,60,1,0,10,459,348
+157126,2019,2019-11-09T12:30:00+00:00,Stamford Bridge,Regular Season - 12,Chelsea,Crystal Palace,2,0,0,0,5,23,9,7,0,60,3,0,1,572,498,1,3,17,0,0,40,2,0,3,377,290
+157127,2019,2019-11-09T17:30:00+00:00,King Power Stadium,Regular Season - 12,Leicester,Arsenal,2,0,0,0,7,19,10,5,1,50,1,0,1,486,426,1,8,10,4,2,50,1,0,5,478,401
+157128,2019,2019-11-10T16:30:00+00:00,Anfield,Regular Season - 12,Liverpool,Manchester City,3,1,2,0,5,12,10,4,3,45,0,0,2,416,324,3,18,5,13,5,55,2,0,2,507,425
+157129,2019,2019-11-10T14:00:00+00:00,Old Trafford,Regular Season - 12,Manchester United,Brighton,3,1,2,0,11,21,10,5,0,42,2,0,1,358,287,2,6,14,2,4,58,5,0,8,483,390
+157130,2019,2019-11-09T15:00:00+00:00,St. James' Park,Regular Season - 12,Newcastle,Bournemouth,2,1,1,1,9,21,10,5,4,33,2,0,3,279,195,4,16,5,4,1,67,0,0,7,559,469
+157131,2019,2019-11-08T20:00:00+00:00,Carrow Road,Regular Season - 12,Norwich,Watford,0,2,0,1,5,17,7,10,1,65,1,0,0,597,523,2,12,13,4,0,35,4,1,5,315,232
+157132,2019,2019-11-09T15:00:00+00:00,St. Mary's Stadium,Regular Season - 12,Southampton,Everton,1,2,0,1,3,4,12,5,2,47,1,0,3,345,244,5,24,12,9,0,53,1,0,2,377,271
+157133,2019,2019-11-09T15:00:00+00:00,Tottenham Hotspur Stadium,Regular Season - 12,Tottenham,Sheffield Utd,1,1,0,0,5,17,6,4,1,61,2,0,3,602,507,4,14,9,4,6,39,2,0,4,378,285
+157134,2019,2019-11-10T14:00:00+00:00,Molineux Stadium,Regular Season - 12,Wolves,Aston Villa,2,1,1,0,5,17,17,6,0,50,4,0,3,385,309,4,13,8,3,1,50,3,0,3,375,299
+157135,2019,2019-11-23T15:00:00+00:00,Vitality Stadium,Regular Season - 13,Bournemouth,Wolves,1,2,0,2,2,9,10,5,0,46,4,1,5,443,355,8,18,12,9,4,54,1,0,2,509,443
+157136,2019,2019-11-23T15:00:00+00:00,Emirates Stadium,Regular Season - 13,Arsenal,Southampton,2,2,1,1,5,12,13,6,2,61,6,0,4,487,404,6,21,19,8,1,39,2,0,3,316,235
+157137,2019,2019-11-25T20:00:00+00:00,Villa Park,Regular Season - 13,Aston Villa,Newcastle,2,0,2,0,8,17,10,11,1,62,1,0,5,490,425,5,11,9,6,2,38,1,0,6,296,232
+157138,2019,2019-11-23T15:00:00+00:00,The American Express Community Stadium,Regular Season - 13,Brighton,Leicester,0,2,0,0,0,7,9,6,2,52,2,0,7,458,385,9,19,1,7,1,48,0,0,0,418,345
+157139,2019,2019-11-23T15:00:00+00:00,Selhurst Park,Regular Season - 13,Crystal Palace,Liverpool,1,2,0,0,6,16,8,9,3,40,0,0,2,330,246,4,12,7,8,0,60,1,0,5,510,416
+157140,2019,2019-11-23T15:00:00+00:00,Goodison Park,Regular Season - 13,Everton,Norwich,0,2,0,0,7,18,12,7,0,57,3,0,3,401,305,5,13,11,7,0,43,5,0,7,307,218
+157141,2019,2019-11-23T17:30:00+00:00,Etihad Stadium,Regular Season - 13,Manchester City,Chelsea,2,1,2,1,4,15,5,8,3,46,1,0,1,558,477,2,11,9,2,4,54,1,0,2,644,574
+157142,2019,2019-11-24T16:30:00+00:00,Bramall Lane,Regular Season - 13,Sheffield Utd,Manchester United,3,3,1,0,8,12,13,6,3,40,1,0,2,383,277,5,11,10,3,1,60,2,0,5,587,476
+157143,2019,2019-11-23T15:00:00+00:00,Vicarage Road,Regular Season - 13,Watford,Burnley,0,3,0,0,4,15,14,7,2,61,1,0,2,396,302,5,11,13,5,2,39,3,0,4,248,158
+157144,2019,2019-11-23T12:30:00+00:00,London Stadium,Regular Season - 13,West Ham,Tottenham,2,3,0,2,4,11,12,3,4,47,3,0,3,407,317,6,15,14,7,6,53,2,0,3,471,380
+157145,2019,2019-11-30T15:00:00+00:00,Turf Moor,Regular Season - 14,Burnley,Crystal Palace,0,2,0,1,4,15,13,5,1,43,2,0,1,347,229,2,7,9,6,1,57,0,0,3,464,348
+157146,2019,2019-11-30T15:00:00+00:00,Stamford Bridge,Regular Season - 14,Chelsea,West Ham,0,1,0,0,6,19,0,9,3,65,0,0,3,671,589,4,5,16,3,0,35,3,0,6,354,248
+157147,2019,2019-12-01T16:30:00+00:00,King Power Stadium,Regular Season - 14,Leicester,Everton,2,1,0,1,6,16,7,4,1,69,0,0,2,652,544,3,11,9,4,3,31,1,0,4,275,185
+157148,2019,2019-11-30T15:00:00+00:00,Anfield,Regular Season - 14,Liverpool,Brighton,2,1,2,0,7,15,3,4,1,44,0,1,4,482,388,5,12,10,5,6,56,0,0,5,592,497
+157149,2019,2019-12-01T16:30:00+00:00,Old Trafford,Regular Season - 14,Manchester United,Aston Villa,2,2,1,1,6,16,16,9,1,62,4,0,1,525,452,3,9,8,9,4,38,1,0,5,309,221
+157150,2019,2019-11-30T12:30:00+00:00,St. James' Park,Regular Season - 14,Newcastle,Manchester City,2,2,1,1,3,6,4,1,3,23,1,0,7,238,154,9,24,6,10,3,77,2,0,1,760,672
+157151,2019,2019-12-01T14:00:00+00:00,Carrow Road,Regular Season - 14,Norwich,Arsenal,2,2,2,1,8,15,8,7,1,39,2,0,4,364,293,7,16,10,12,0,61,1,0,6,541,459
+157152,2019,2019-11-30T17:30:00+00:00,St. Mary's Stadium,Regular Season - 14,Southampton,Watford,2,1,0,1,6,11,6,6,2,62,1,0,2,548,431,3,6,10,7,4,38,0,0,3,315,204
+157153,2019,2019-11-30T15:00:00+00:00,Tottenham Hotspur Stadium,Regular Season - 14,Tottenham,Bournemouth,3,2,1,0,5,14,10,4,1,52,0,0,4,515,415,6,20,12,8,0,48,2,0,2,455,358
+157154,2019,2019-12-01T14:00:00+00:00,Molineux Stadium,Regular Season - 14,Wolves,Sheffield Utd,1,1,0,1,3,13,12,7,1,59,1,0,3,517,422,4,10,18,2,3,41,5,0,3,361,270
+157155,2019,2019-12-05T20:15:00+00:00,Emirates Stadium,Regular Season - 15,Arsenal,Brighton,1,2,0,1,5,12,10,9,7,49,3,0,7,389,325,9,20,11,9,0,51,1,0,4,413,337
+157156,2019,2019-12-03T20:15:00+00:00,Turf Moor,Regular Season - 15,Burnley,Manchester City,1,4,0,1,2,4,9,3,0,24,1,0,4,250,163,8,17,6,6,2,76,1,0,1,774,690
+157157,2019,2019-12-04T19:30:00+00:00,King Power Stadium,Regular Season - 15,Leicester,Watford,2,0,0,0,6,12,13,7,3,63,3,0,1,569,467,1,4,16,2,1,37,2,0,3,324,226
+157158,2019,2019-12-05T19:30:00+00:00,Bramall Lane,Regular Season - 15,Sheffield Utd,Newcastle,0,2,0,1,6,13,10,8,3,73,2,0,2,675,579,4,6,6,1,2,27,0,0,6,253,167
+157159,2019,2019-12-04T19:30:00+00:00,Molineux Stadium,Regular Season - 15,Wolves,West Ham,2,0,1,0,7,13,8,5,3,49,1,0,3,479,390,3,6,9,4,3,51,2,0,5,496,404
+157160,2019,2019-12-04T19:30:00+00:00,Old Trafford,Regular Season - 15,Manchester United,Tottenham,2,1,1,1,7,12,9,4,1,46,0,0,4,441,335,5,8,9,3,1,54,1,0,5,497,393
+157161,2019,2019-12-04T19:30:00+00:00,Stamford Bridge,Regular Season - 15,Chelsea,Aston Villa,2,1,1,1,9,25,18,9,0,64,2,0,2,649,564,3,9,10,5,1,36,1,0,7,349,280
+157162,2019,2019-12-04T19:30:00+00:00,St. Mary's Stadium,Regular Season - 15,Southampton,Norwich,2,1,2,0,5,14,12,6,3,40,1,0,2,366,252,3,10,7,1,1,60,1,0,3,562,446
+157163,2019,2019-12-03T19:30:00+00:00,Selhurst Park,Regular Season - 15,Crystal Palace,Bournemouth,1,0,0,0,2,7,6,6,1,30,3,1,3,258,190,3,6,15,9,0,70,3,0,1,575,499
+157164,2019,2019-12-04T20:15:00+00:00,Anfield,Regular Season - 15,Liverpool,Everton,5,2,4,2,5,11,13,5,3,58,1,0,2,501,406,4,12,17,6,3,42,2,0,0,339,245
+157165,2019,2019-12-07T15:00:00+00:00,Vitality Stadium,Regular Season - 16,Bournemouth,Liverpool,0,3,0,2,0,3,5,1,5,26,0,0,6,305,198,9,21,6,3,1,74,1,0,0,852,759
+157166,2019,2019-12-08T14:00:00+00:00,Villa Park,Regular Season - 16,Aston Villa,Leicester,1,4,1,2,2,15,21,8,0,40,6,0,4,306,234,8,23,15,5,1,60,2,0,1,478,411
+157167,2019,2019-12-08T16:30:00+00:00,The American Express Community Stadium,Regular Season - 16,Brighton,Wolves,2,2,2,2,5,13,10,3,1,62,3,0,4,581,474,6,13,7,4,3,38,0,0,3,356,258
+157168,2019,2019-12-07T12:30:00+00:00,Goodison Park,Regular Season - 16,Everton,Chelsea,3,1,1,0,7,13,14,1,2,30,3,0,3,255,160,4,15,9,5,3,70,0,0,4,594,505
+157169,2019,2019-12-07T17:30:00+00:00,Etihad Stadium,Regular Season - 16,Manchester City,Manchester United,1,2,0,2,5,22,10,16,0,71,3,0,5,658,587,7,11,10,3,0,29,2,0,4,265,199
+157170,2019,2019-12-08T14:00:00+00:00,St. James' Park,Regular Season - 16,Newcastle,Southampton,2,1,0,0,6,12,11,3,0,45,1,0,3,344,233,4,19,17,12,1,55,3,0,4,410,297
+157171,2019,2019-12-08T14:00:00+00:00,Carrow Road,Regular Season - 16,Norwich,Sheffield Utd,1,2,1,0,4,14,6,9,1,58,0,0,1,579,453,3,9,12,1,2,42,4,0,3,418,293
+157172,2019,2019-12-07T15:00:00+00:00,Tottenham Hotspur Stadium,Regular Season - 16,Tottenham,Burnley,5,0,3,0,7,13,12,1,1,49,1,0,1,476,368,1,7,8,1,2,51,1,0,2,479,366
+157173,2019,2019-12-07T15:00:00+00:00,Vicarage Road,Regular Season - 16,Watford,Crystal Palace,0,0,0,0,3,13,15,6,1,50,4,0,0,384,280,0,3,16,2,1,50,2,0,3,391,288
+157174,2019,2019-12-09T20:00:00+00:00,London Stadium,Regular Season - 16,West Ham,Arsenal,1,3,1,0,4,11,12,4,1,35,2,0,0,365,288,3,10,6,3,0,65,0,0,3,675,584
+157175,2019,2019-12-15T16:30:00+00:00,Emirates Stadium,Regular Season - 17,Arsenal,Manchester City,0,3,0,3,1,6,9,3,2,42,1,0,4,482,419,7,14,24,3,1,58,4,0,1,672,608
+157176,2019,2019-12-14T15:00:00+00:00,Turf Moor,Regular Season - 17,Burnley,Newcastle,1,0,0,0,4,7,15,4,3,48,0,0,0,369,270,0,9,12,3,1,52,2,0,3,397,291
+157177,2019,2019-12-14T15:00:00+00:00,Stamford Bridge,Regular Season - 17,Chelsea,Bournemouth,0,1,0,0,5,18,9,9,3,67,1,0,1,590,487,2,11,14,4,1,33,2,0,5,293,192
+157178,2019,2019-12-16T19:45:00+00:00,Selhurst Park,Regular Season - 17,Crystal Palace,Brighton,1,1,0,0,4,11,7,3,0,34,1,0,9,315,226,10,15,12,7,1,66,1,0,3,593,496
+157179,2019,2019-12-14T15:00:00+00:00,King Power Stadium,Regular Season - 17,Leicester,Norwich,1,1,1,1,5,18,11,12,0,56,0,0,2,513,431,3,10,15,4,1,44,5,0,5,397,313
+157180,2019,2019-12-14T12:30:00+00:00,Anfield,Regular Season - 17,Liverpool,Watford,2,0,1,0,6,16,8,6,5,67,2,0,2,649,538,2,8,6,3,4,33,1,0,4,309,198
+157181,2019,2019-12-15T14:00:00+00:00,Old Trafford,Regular Season - 17,Manchester United,Everton,1,1,0,1,8,24,10,6,2,66,1,0,3,529,454,3,8,12,5,3,34,2,0,7,264,176
+157182,2019,2019-12-14T15:00:00+00:00,Bramall Lane,Regular Season - 17,Sheffield Utd,Aston Villa,2,0,0,0,3,7,10,3,3,56,2,0,0,512,394,0,8,9,2,0,44,2,0,1,396,272
+157183,2019,2019-12-14T17:30:00+00:00,St. Mary's Stadium,Regular Season - 17,Southampton,West Ham,0,1,0,1,2,11,9,5,4,57,1,0,3,474,342,4,11,14,8,2,43,3,0,2,359,218
+157184,2019,2019-12-15T14:00:00+00:00,Molineux Stadium,Regular Season - 17,Wolves,Tottenham,1,2,0,1,5,19,14,11,0,57,4,0,3,494,379,5,9,10,2,1,43,4,0,4,375,273
+157185,2019,2019-12-21T15:00:00+00:00,Vitality Stadium,Regular Season - 18,Bournemouth,Burnley,0,1,0,0,0,3,13,4,2,64,2,0,0,437,338,1,2,21,5,0,36,4,0,0,230,134
+157186,2019,2019-12-21T15:00:00+00:00,Villa Park,Regular Season - 18,Aston Villa,Southampton,1,3,0,2,6,19,16,7,2,56,2,0,5,432,335,8,17,15,5,3,44,1,0,5,341,234
+157187,2019,2019-12-21T15:00:00+00:00,The American Express Community Stadium,Regular Season - 18,Brighton,Sheffield Utd,0,1,0,1,2,9,6,4,2,69,1,0,1,648,532,2,7,11,3,3,31,3,0,2,293,188
+157188,2019,2019-12-21T12:30:00+00:00,Goodison Park,Regular Season - 18,Everton,Arsenal,0,0,0,0,0,9,10,5,0,43,2,0,2,353,280,2,6,11,4,1,57,3,0,0,484,403
+157189,2019,2019-12-21T17:30:00+00:00,Etihad Stadium,Regular Season - 18,Manchester City,Leicester,3,1,2,1,12,23,14,6,1,62,2,0,1,690,620,2,5,9,0,3,38,2,0,9,409,332
+157190,2019,2019-12-21T15:00:00+00:00,St. James' Park,Regular Season - 18,Newcastle,Crystal Palace,1,0,0,0,3,8,12,4,2,42,2,0,4,365,282,4,16,11,5,0,58,0,0,2,503,420
+157191,2019,2019-12-21T15:00:00+00:00,Carrow Road,Regular Season - 18,Norwich,Wolves,1,2,1,0,7,13,7,3,3,50,2,0,2,455,364,4,14,14,11,2,50,4,0,6,440,357
+157192,2019,2019-12-22T16:30:00+00:00,Tottenham Hotspur Stadium,Regular Season - 18,Tottenham,Chelsea,0,2,0,2,1,5,9,3,0,44,4,1,1,455,356,3,13,11,5,2,56,3,0,1,571,467
+157193,2019,2019-12-22T14:00:00+00:00,Vicarage Road,Regular Season - 18,Watford,Manchester United,2,0,0,0,3,11,16,3,5,36,3,0,8,313,209,8,17,11,5,4,64,1,0,1,562,473
+157194,2019,2020-01-29T19:45:00+00:00,London Stadium,Regular Season - 18,West Ham,Liverpool,0,2,0,1,4,7,6,3,1,29,2,0,3,331,238,5,13,6,7,0,71,0,0,4,828,735
+157195,2019,2019-12-26T15:00:00+00:00,Vitality Stadium,Regular Season - 19,Bournemouth,Arsenal,1,1,1,0,4,12,5,8,1,39,4,0,1,383,305,2,17,13,3,0,61,4,0,3,599,520
+157196,2019,2019-12-26T15:00:00+00:00,Villa Park,Regular Season - 19,Aston Villa,Norwich,1,0,0,0,2,11,15,5,1,42,2,0,5,363,271,6,16,12,8,0,58,3,0,1,508,424
+157197,2019,2019-12-26T15:00:00+00:00,Stamford Bridge,Regular Season - 19,Chelsea,Southampton,0,2,0,1,3,10,10,8,1,66,3,0,1,688,556,3,5,9,1,2,34,2,0,3,362,228
+157198,2019,2019-12-26T15:00:00+00:00,Selhurst Park,Regular Season - 19,Crystal Palace,West Ham,2,1,0,0,4,13,5,7,1,58,0,0,1,557,464,2,10,10,6,2,42,2,0,2,390,288
+157199,2019,2019-12-26T15:00:00+00:00,Goodison Park,Regular Season - 19,Everton,Burnley,1,0,0,0,5,21,15,10,0,67,0,0,0,521,426,0,6,14,2,1,33,0,0,4,255,144
+157200,2019,2019-12-26T20:00:00+00:00,King Power Stadium,Regular Season - 19,Leicester,Liverpool,0,4,0,1,0,3,5,2,6,41,1,0,2,421,345,6,15,7,8,3,59,1,0,0,590,506
+157201,2019,2019-12-26T17:30:00+00:00,Old Trafford,Regular Season - 19,Manchester United,Newcastle,4,1,3,1,10,22,10,5,1,73,2,0,1,815,732,2,7,7,0,1,27,2,0,6,295,213
+157202,2019,2019-12-26T15:00:00+00:00,Bramall Lane,Regular Season - 19,Sheffield Utd,Watford,1,1,1,1,4,16,11,9,4,58,0,0,1,517,392,2,5,8,1,1,42,3,0,3,386,265
+157203,2019,2019-12-26T12:30:00+00:00,Tottenham Hotspur Stadium,Regular Season - 19,Tottenham,Brighton,2,1,0,1,5,11,10,9,5,53,4,0,4,494,390,5,11,9,2,0,47,2,0,3,416,331
+157204,2019,2019-12-27T19:45:00+00:00,Molineux Stadium,Regular Season - 19,Wolves,Manchester City,3,2,0,1,8,21,7,3,0,61,0,0,1,564,500,3,7,13,1,1,39,1,1,5,358,282
+157205,2019,2019-12-29T14:00:00+00:00,Emirates Stadium,Regular Season - 20,Arsenal,Chelsea,1,2,1,0,2,7,13,2,2,42,5,0,2,427,337,4,13,19,3,1,58,4,0,1,577,482
+157206,2019,2019-12-28T12:30:00+00:00,The American Express Community Stadium,Regular Season - 20,Brighton,Bournemouth,2,0,1,0,6,16,9,9,3,55,0,0,2,496,411,2,10,11,2,0,45,2,0,4,413,317
+157207,2019,2019-12-28T19:45:00+00:00,Turf Moor,Regular Season - 20,Burnley,Manchester United,0,2,0,1,1,8,17,5,5,38,4,0,2,295,200,5,14,10,4,2,62,3,0,1,501,407
+157208,2019,2019-12-29T16:30:00+00:00,Anfield,Regular Season - 20,Liverpool,Wolves,1,0,1,0,3,10,7,5,2,62,1,0,2,607,522,2,10,3,6,5,38,0,0,2,352,258
+157209,2019,2019-12-29T18:00:00+00:00,Etihad Stadium,Regular Season - 20,Manchester City,Sheffield Utd,2,0,0,0,4,16,5,8,1,72,1,0,0,871,789,0,8,6,5,5,28,1,0,2,314,233
+157210,2019,2019-12-28T15:00:00+00:00,St. James' Park,Regular Season - 20,Newcastle,Everton,1,2,0,1,5,20,13,5,3,42,2,0,7,317,233,9,22,13,8,2,58,2,0,4,435,341
+157211,2019,2019-12-28T17:30:00+00:00,Carrow Road,Regular Season - 20,Norwich,Tottenham,2,2,1,0,2,5,12,4,3,41,3,0,5,394,279,7,15,10,6,3,59,3,0,1,554,450
+157212,2019,2019-12-28T15:00:00+00:00,St. Mary's Stadium,Regular Season - 20,Southampton,Crystal Palace,1,1,0,0,5,14,13,12,2,59,1,0,1,471,380,2,5,7,4,2,41,2,0,4,334,243
+157213,2019,2019-12-28T15:00:00+00:00,Vicarage Road,Regular Season - 20,Watford,Aston Villa,3,0,1,0,6,20,16,6,1,48,5,1,2,417,331,2,11,9,3,3,52,1,0,3,433,352
+157214,2019,2019-12-28T17:30:00+00:00,London Stadium,Regular Season - 20,West Ham,Leicester,1,2,1,1,4,14,16,5,2,42,4,0,6,383,271,8,13,4,5,3,58,1,0,3,523,424
+157215,2019,2020-01-01T20:00:00+00:00,Emirates Stadium,Regular Season - 21,Arsenal,Manchester United,2,0,2,0,4,10,11,1,0,48,2,0,4,513,435,4,10,15,4,0,52,0,0,2,542,462
+157216,2019,2020-01-01T12:30:00+00:00,The American Express Community Stadium,Regular Season - 21,Brighton,Chelsea,1,1,0,1,5,16,8,5,0,47,2,0,3,484,377,5,16,15,3,3,53,3,0,4,537,436
+157217,2019,2020-01-01T12:30:00+00:00,Turf Moor,Regular Season - 21,Burnley,Aston Villa,1,2,0,2,1,20,12,8,2,61,1,0,4,506,405,6,11,10,4,1,39,1,0,0,327,223
+157218,2019,2020-01-02T20:00:00+00:00,Anfield,Regular Season - 21,Liverpool,Sheffield Utd,2,0,1,0,7,19,5,8,1,74,0,0,2,969,876,2,3,8,4,3,26,0,0,5,327,239
+157219,2019,2020-01-01T17:30:00+00:00,Etihad Stadium,Regular Season - 21,Manchester City,Everton,2,1,0,0,7,16,11,3,3,65,0,0,1,777,700,2,7,11,6,1,35,4,0,5,401,310
+157220,2019,2020-01-01T15:00:00+00:00,St. James' Park,Regular Season - 21,Newcastle,Leicester,0,3,0,2,2,5,8,4,0,23,1,0,7,244,170,10,17,12,5,3,77,1,0,2,833,755
+157221,2019,2020-01-01T17:30:00+00:00,Carrow Road,Regular Season - 21,Norwich,Crystal Palace,1,1,1,0,4,15,12,2,2,40,5,0,2,362,292,3,12,9,5,1,60,0,0,3,521,422
+157222,2019,2020-01-01T15:00:00+00:00,St. Mary's Stadium,Regular Season - 21,Southampton,Tottenham,1,0,1,0,3,12,21,6,1,40,3,0,5,343,217,5,11,8,9,3,60,4,0,2,499,369
+157223,2019,2020-01-01T15:00:00+00:00,Vicarage Road,Regular Season - 21,Watford,Wolves,2,1,1,0,3,9,12,4,1,36,3,1,3,343,250,4,16,6,7,0,64,1,0,1,578,491
+157224,2019,2020-01-01T17:30:00+00:00,London Stadium,Regular Season - 21,West Ham,Bournemouth,4,0,3,0,7,14,3,9,1,42,1,0,2,444,352,2,3,12,2,3,58,2,0,3,618,539
+157225,2019,2020-01-12T14:00:00+00:00,Vitality Stadium,Regular Season - 22,Bournemouth,Watford,0,3,0,1,1,10,3,5,0,56,1,0,2,536,420,6,18,13,5,5,44,1,0,1,411,296
+157226,2019,2020-01-12T16:30:00+00:00,Villa Park,Regular Season - 22,Aston Villa,Manchester City,1,6,0,4,1,7,5,2,1,29,2,0,5,362,291,12,22,12,4,0,71,1,0,0,877,809
+157227,2019,2020-01-11T15:00:00+00:00,Stamford Bridge,Regular Season - 22,Chelsea,Burnley,3,0,2,0,8,18,7,10,6,65,0,0,1,568,478,3,7,4,3,6,35,3,0,5,300,206
+157228,2019,2020-01-11T12:30:00+00:00,Selhurst Park,Regular Season - 22,Crystal Palace,Arsenal,1,1,0,1,3,6,14,1,3,42,2,0,3,362,258,4,7,22,4,1,58,3,1,1,487,381
+157229,2019,2020-01-11T15:00:00+00:00,Goodison Park,Regular Season - 22,Everton,Brighton,1,0,1,0,6,14,7,4,2,53,2,0,2,491,390,2,9,7,3,2,47,1,0,5,426,315
+157230,2019,2020-01-11T15:00:00+00:00,King Power Stadium,Regular Season - 22,Leicester,Southampton,1,2,1,1,5,5,9,2,3,58,0,0,7,455,331,10,16,17,4,2,42,3,0,4,318,181
+157231,2019,2020-01-11T15:00:00+00:00,Old Trafford,Regular Season - 22,Manchester United,Norwich,4,0,1,0,6,13,18,4,2,59,0,0,3,646,554,3,8,7,2,0,41,0,0,2,440,347
+157232,2019,2020-01-10T20:00:00+00:00,Bramall Lane,Regular Season - 22,Sheffield Utd,West Ham,1,0,0,0,3,13,11,7,3,46,1,0,2,437,306,2,7,6,3,1,54,0,0,2,504,369
+157233,2019,2020-01-11T17:30:00+00:00,Tottenham Hotspur Stadium,Regular Season - 22,Tottenham,Liverpool,0,1,0,1,4,14,4,4,2,33,0,0,5,381,298,7,13,8,3,2,67,2,0,4,786,683
+157234,2019,2020-01-11T15:00:00+00:00,Molineux Stadium,Regular Season - 22,Wolves,Newcastle,1,1,1,1,4,9,13,5,0,65,0,0,0,593,505,1,5,12,2,1,35,3,0,2,311,233
+157235,2019,2020-01-18T15:00:00+00:00,Emirates Stadium,Regular Season - 23,Arsenal,Sheffield Utd,1,1,1,0,4,11,9,4,3,61,1,0,2,567,457,4,12,13,5,0,39,2,0,3,353,246
+157236,2019,2020-01-18T15:00:00+00:00,The American Express Community Stadium,Regular Season - 23,Brighton,Aston Villa,1,1,1,0,2,10,11,3,2,55,3,0,2,500,391,3,8,13,4,4,45,3,0,1,397,295
+157237,2019,2020-01-19T14:00:00+00:00,Turf Moor,Regular Season - 23,Burnley,Leicester,2,1,0,1,5,8,14,4,1,44,1,0,7,386,282,8,18,8,5,0,56,0,0,3,492,388
+157238,2019,2020-01-19T16:30:00+00:00,Anfield,Regular Season - 23,Liverpool,Manchester United,2,0,1,0,5,16,7,11,2,53,1,0,4,509,403,4,9,10,5,3,47,3,0,3,455,360
+157239,2019,2020-01-18T15:00:00+00:00,Etihad Stadium,Regular Season - 23,Manchester City,Crystal Palace,2,2,0,1,6,25,9,14,0,72,1,0,2,666,595,3,5,7,2,1,28,2,0,4,270,174
+157240,2019,2020-01-18T17:30:00+00:00,St. James' Park,Regular Season - 23,Newcastle,Chelsea,1,0,0,0,2,7,9,1,1,30,1,0,3,286,192,4,19,14,10,2,70,1,0,1,655,557
+157241,2019,2020-01-18T15:00:00+00:00,Carrow Road,Regular Season - 23,Norwich,Bournemouth,1,0,1,0,5,16,10,4,0,66,2,1,3,635,535,3,6,10,5,3,34,2,1,3,316,214
+157242,2019,2020-01-18T15:00:00+00:00,St. Mary's Stadium,Regular Season - 23,Southampton,Wolves,2,3,2,0,5,11,13,1,2,52,2,0,1,402,282,4,8,12,3,2,48,1,0,3,371,237
+157243,2019,2020-01-18T12:30:00+00:00,Vicarage Road,Regular Season - 23,Watford,Tottenham,0,0,0,0,2,15,13,3,2,41,2,0,4,342,236,5,16,13,3,3,59,3,0,2,504,414
+157244,2019,2020-01-18T15:00:00+00:00,London Stadium,Regular Season - 23,West Ham,Everton,1,1,1,1,6,12,11,7,3,48,1,0,2,435,338,3,11,13,6,1,52,0,0,4,459,364
+157245,2019,2020-01-21T19:30:00+00:00,Vitality Stadium,Regular Season - 24,Bournemouth,Brighton,3,1,2,0,3,11,9,5,2,34,1,0,7,303,205,8,21,12,8,1,66,1,0,1,567,473
+157246,2019,2020-01-21T19:30:00+00:00,Villa Park,Regular Season - 24,Aston Villa,Watford,2,1,0,1,5,16,11,6,0,64,2,0,1,558,451,2,8,18,3,3,36,2,0,3,314,214
+157247,2019,2020-01-21T19:30:00+00:00,Goodison Park,Regular Season - 24,Everton,Newcastle,2,2,1,0,8,17,13,6,1,54,1,0,1,562,470,3,9,10,4,0,46,1,0,6,462,369
+157248,2019,2020-01-22T19:30:00+00:00,King Power Stadium,Regular Season - 24,Leicester,West Ham,4,1,2,0,8,19,10,7,2,67,1,0,1,569,491,2,6,19,8,1,33,1,0,4,273,185
+157249,2019,2020-01-21T19:30:00+00:00,Bramall Lane,Regular Season - 24,Sheffield Utd,Manchester City,0,1,0,0,1,4,13,5,4,32,4,0,4,286,187,5,18,13,13,1,68,3,0,1,600,520
+157250,2019,2020-01-23T20:00:00+00:00,Molineux Stadium,Regular Season - 24,Wolves,Liverpool,1,2,0,1,3,10,6,2,2,46,0,0,4,505,412,6,13,11,4,0,54,1,0,2,594,495
+157251,2019,2020-01-22T20:15:00+00:00,Old Trafford,Regular Season - 24,Manchester United,Burnley,0,2,0,1,7,24,11,5,2,72,0,0,0,692,592,2,5,7,2,2,28,2,0,7,261,154
+157252,2019,2020-01-21T20:15:00+00:00,Stamford Bridge,Regular Season - 24,Chelsea,Arsenal,2,2,1,0,8,19,11,17,2,58,2,0,0,546,479,2,2,6,5,1,42,1,1,6,385,301
+157253,2019,2020-01-22T19:30:00+00:00,Tottenham Hotspur Stadium,Regular Season - 24,Tottenham,Norwich,2,1,1,0,3,14,12,7,1,50,0,0,1,479,384,2,13,7,3,0,50,1,0,1,475,375
+157254,2019,2020-01-21T19:30:00+00:00,Selhurst Park,Regular Season - 24,Crystal Palace,Southampton,0,2,0,1,0,6,12,0,2,44,1,0,4,365,231,6,15,13,8,1,56,2,0,0,451,317
+157255,2019,2020-02-01T15:00:00+00:00,Vitality Stadium,Regular Season - 25,Bournemouth,Aston Villa,2,1,2,0,6,16,10,1,1,39,3,1,4,303,188,5,18,15,8,3,61,3,0,4,456,347
+157256,2019,2020-02-02T14:00:00+00:00,Turf Moor,Regular Season - 25,Burnley,Arsenal,0,0,0,0,2,15,8,5,4,42,1,0,2,324,245,2,13,11,7,1,58,3,0,2,462,372
+157257,2019,2020-02-01T15:00:00+00:00,Selhurst Park,Regular Season - 25,Crystal Palace,Sheffield Utd,0,1,0,0,3,13,9,9,1,60,3,0,3,515,418,3,10,15,5,0,40,2,0,3,337,240
+157258,2019,2020-02-01T12:30:00+00:00,King Power Stadium,Regular Season - 25,Leicester,Chelsea,2,2,0,0,4,14,16,4,1,49,2,0,1,478,369,3,7,14,6,1,51,2,0,2,485,379
+157259,2019,2020-02-01T15:00:00+00:00,Anfield,Regular Season - 25,Liverpool,Southampton,4,0,0,0,9,16,9,6,2,61,0,0,4,530,403,4,17,15,11,5,39,2,0,5,321,205
+157260,2019,2020-02-01T17:30:00+00:00,Old Trafford,Regular Season - 25,Manchester United,Wolves,0,0,0,0,5,16,14,4,0,63,3,0,4,633,560,4,15,15,6,1,37,2,0,5,354,281
+157261,2019,2020-02-01T15:00:00+00:00,St. James' Park,Regular Season - 25,Newcastle,Norwich,0,0,0,0,5,15,10,8,3,43,2,0,4,365,291,4,19,15,12,0,57,1,0,6,485,393
+157262,2019,2020-02-02T16:30:00+00:00,Tottenham Hotspur Stadium,Regular Season - 25,Tottenham,Manchester City,2,0,0,0,3,3,8,2,2,33,2,0,6,347,261,6,19,14,6,0,67,5,1,1,692,608
+157263,2019,2020-02-01T15:00:00+00:00,Vicarage Road,Regular Season - 25,Watford,Everton,2,3,2,2,2,11,17,4,0,44,2,0,2,364,252,5,12,14,4,2,56,4,1,0,441,327
+157264,2019,2020-02-01T15:00:00+00:00,London Stadium,Regular Season - 25,West Ham,Brighton,3,3,2,0,6,12,8,4,2,35,1,0,4,321,237,6,19,9,6,1,65,1,0,3,607,509
+157265,2019,2020-02-16T16:30:00+00:00,Emirates Stadium,Regular Season - 26,Arsenal,Newcastle,4,0,0,0,7,15,15,5,1,68,2,0,2,643,585,2,10,9,6,4,32,0,0,3,295,239
+157266,2019,2020-02-16T14:00:00+00:00,Villa Park,Regular Season - 26,Aston Villa,Tottenham,2,3,1,2,4,18,12,12,0,54,2,0,7,444,339,10,23,10,7,1,46,0,0,3,386,292
+157267,2019,2020-02-08T17:30:00+00:00,The American Express Community Stadium,Regular Season - 26,Brighton,Watford,1,1,0,1,2,10,9,3,2,67,2,0,1,603,502,2,5,12,2,2,33,2,0,2,301,193
+157268,2019,2020-02-17T20:00:00+00:00,Stamford Bridge,Regular Season - 26,Chelsea,Manchester United,0,2,0,1,1,17,11,9,2,61,4,0,1,606,528,3,9,11,8,0,39,3,0,1,382,304
+157269,2019,2020-02-08T12:30:00+00:00,Goodison Park,Regular Season - 26,Everton,Crystal Palace,3,1,1,0,8,14,11,4,1,46,0,0,1,358,263,2,10,12,6,2,54,1,0,5,420,323
+157270,2019,2020-02-19T19:30:00+00:00,Etihad Stadium,Regular Season - 26,Manchester City,West Ham,2,0,1,0,7,20,5,6,1,77,0,0,0,896,822,0,3,7,1,3,23,1,0,5,254,178
+157271,2019,2020-02-15T17:30:00+00:00,Carrow Road,Regular Season - 26,Norwich,Liverpool,0,1,0,0,1,5,5,2,1,36,1,0,5,373,268,6,17,11,7,0,64,2,0,1,624,524
+157272,2019,2020-02-09T14:00:00+00:00,Bramall Lane,Regular Season - 26,Sheffield Utd,Bournemouth,2,1,1,1,6,16,10,8,0,54,2,0,1,449,320,2,10,8,4,1,46,3,0,3,391,283
+157273,2019,2020-02-15T12:30:00+00:00,St. Mary's Stadium,Regular Season - 26,Southampton,Burnley,1,2,1,1,2,10,8,4,1,63,2,0,4,518,386,6,9,11,3,3,37,2,0,1,297,180
+157274,2019,2020-02-14T20:00:00+00:00,Molineux Stadium,Regular Season - 26,Wolves,Leicester,0,0,0,0,3,15,13,7,2,40,2,0,3,328,243,3,9,10,0,0,60,4,1,3,493,413
+157275,2019,2020-02-23T16:30:00+00:00,Emirates Stadium,Regular Season - 27,Arsenal,Everton,3,2,2,2,4,9,12,6,2,51,0,0,3,491,423,5,17,12,3,2,49,4,0,1,455,386
+157276,2019,2020-02-22T15:00:00+00:00,Turf Moor,Regular Season - 27,Burnley,Bournemouth,3,0,0,0,10,16,9,7,1,42,4,0,4,306,206,4,12,9,3,1,58,3,0,7,430,339
+157277,2019,2020-02-22T12:30:00+00:00,Stamford Bridge,Regular Season - 27,Chelsea,Tottenham,2,1,1,0,7,17,14,3,1,49,1,0,3,551,455,3,5,14,5,0,51,2,0,5,572,471
+157278,2019,2020-02-22T15:00:00+00:00,Selhurst Park,Regular Season - 27,Crystal Palace,Newcastle,1,0,1,0,9,18,15,7,0,44,2,0,2,356,263,2,8,11,5,3,56,6,1,8,447,344
+157279,2019,2020-02-22T17:30:00+00:00,King Power Stadium,Regular Season - 27,Leicester,Manchester City,0,1,0,0,3,10,14,3,1,31,0,0,6,311,239,7,18,10,7,1,69,0,0,3,677,603
+157280,2019,2020-02-24T20:00:00+00:00,Anfield,Regular Season - 27,Liverpool,West Ham,3,2,1,1,7,25,4,16,2,69,0,0,2,626,530,4,7,10,8,2,31,3,0,4,269,177
+157281,2019,2020-02-23T14:00:00+00:00,Old Trafford,Regular Season - 27,Manchester United,Watford,3,0,1,0,9,21,6,3,1,58,0,0,2,597,479,2,7,15,5,1,42,1,0,5,420,314
+157282,2019,2020-02-22T15:00:00+00:00,Bramall Lane,Regular Season - 27,Sheffield Utd,Brighton,1,1,1,1,3,13,5,12,3,66,0,0,1,532,411,2,9,6,2,2,34,2,0,2,285,188
+157283,2019,2020-02-22T15:00:00+00:00,St. Mary's Stadium,Regular Season - 27,Southampton,Aston Villa,2,0,1,0,9,28,13,9,0,45,1,0,1,341,234,1,4,17,6,2,55,4,0,7,398,295
+157284,2019,2020-02-23T14:00:00+00:00,Molineux Stadium,Regular Season - 27,Wolves,Norwich,3,0,2,0,6,19,11,4,1,39,2,0,4,378,292,4,6,6,1,0,61,3,0,3,588,499
+157285,2019,2020-02-29T15:00:00+00:00,Vitality Stadium,Regular Season - 28,Bournemouth,Chelsea,2,2,0,1,5,9,8,4,1,26,2,0,5,301,206,6,23,5,14,2,74,2,0,3,808,707
+157286,2019,2020-06-17T17:00:00+00:00,Villa Park,Regular Season - 28,Aston Villa,Sheffield Utd,0,0,0,0,6,14,11,12,1,45,1,0,1,382,301,1,5,14,4,0,55,1,0,6,483,384
+157287,2019,2020-02-29T12:30:00+00:00,The American Express Community Stadium,Regular Season - 28,Brighton,Crystal Palace,0,1,0,0,8,23,8,8,1,66,2,0,2,538,444,3,12,9,7,3,34,1,0,8,273,187
+157288,2019,2020-03-01T14:00:00+00:00,Goodison Park,Regular Season - 28,Everton,Manchester United,1,1,1,1,5,16,11,13,3,44,3,0,4,327,241,5,14,11,8,1,56,4,0,4,431,332
+157289,2019,2020-06-17T19:15:00+00:00,Etihad Stadium,Regular Season - 28,Manchester City,Arsenal,3,0,1,0,12,20,9,5,1,67,1,0,0,692,639,0,3,7,2,5,33,1,1,9,333,279
+157290,2019,2020-02-29T15:00:00+00:00,St. James' Park,Regular Season - 28,Newcastle,Burnley,0,0,0,0,4,21,11,11,2,54,4,0,0,376,254,0,7,9,7,2,46,3,0,4,323,212
+157291,2019,2020-02-28T20:00:00+00:00,Carrow Road,Regular Season - 28,Norwich,Leicester,1,0,0,0,6,11,13,6,2,42,1,0,4,344,260,4,19,16,7,0,58,2,0,5,468,389
+157292,2019,2020-03-01T14:00:00+00:00,Tottenham Hotspur Stadium,Regular Season - 28,Tottenham,Wolves,2,3,2,1,5,13,12,4,0,65,3,0,1,621,532,4,14,14,5,0,35,2,0,3,322,238
+157293,2019,2020-02-29T17:30:00+00:00,Vicarage Road,Regular Season - 28,Watford,Liverpool,3,0,0,0,5,14,4,3,5,29,0,0,1,299,198,1,7,8,5,1,71,0,0,2,732,620
+157294,2019,2020-02-29T15:00:00+00:00,London Stadium,Regular Season - 28,West Ham,Southampton,3,1,2,1,7,14,8,4,0,33,1,0,1,257,152,2,10,11,9,1,67,1,0,4,521,390
+157295,2019,2020-03-07T15:00:00+00:00,Emirates Stadium,Regular Season - 29,Arsenal,West Ham,1,0,0,0,2,9,11,6,2,68,1,0,6,621,530,6,14,9,7,2,32,2,0,1,264,181
+157296,2019,2020-03-07T17:30:00+00:00,Turf Moor,Regular Season - 29,Burnley,Tottenham,1,1,1,0,8,21,16,3,2,45,5,0,1,378,280,2,13,11,5,0,55,4,0,6,479,356
+157297,2019,2020-03-08T14:00:00+00:00,Stamford Bridge,Regular Season - 29,Chelsea,Everton,4,0,2,0,11,17,8,6,0,60,1,0,1,646,572,1,3,10,1,1,40,2,0,7,415,328
+157298,2019,2020-03-07T15:00:00+00:00,Selhurst Park,Regular Season - 29,Crystal Palace,Watford,1,0,1,0,3,10,12,8,2,44,4,0,3,371,266,3,10,16,8,1,56,4,0,2,464,349
+157299,2019,2020-03-09T20:00:00+00:00,King Power Stadium,Regular Season - 29,Leicester,Aston Villa,4,0,1,0,7,15,15,9,3,64,2,0,1,543,447,1,4,12,0,2,36,1,0,3,301,209
+157300,2019,2020-03-07T12:30:00+00:00,Anfield,Regular Season - 29,Liverpool,Bournemouth,2,1,2,1,6,14,10,9,1,74,0,0,2,729,621,4,6,12,4,5,26,1,0,4,246,149
+157301,2019,2020-03-08T16:30:00+00:00,Old Trafford,Regular Season - 29,Manchester United,Manchester City,2,0,1,0,6,12,11,2,1,27,2,0,4,294,216,4,7,9,11,2,73,4,0,4,761,676
+157302,2019,2020-03-07T15:00:00+00:00,Bramall Lane,Regular Season - 29,Sheffield Utd,Norwich,1,0,1,0,4,10,12,10,1,41,0,0,4,359,267,5,12,8,5,3,59,0,0,2,519,422
+157303,2019,2020-03-07T15:00:00+00:00,St. Mary's Stadium,Regular Season - 29,Southampton,Newcastle,0,1,0,0,3,6,14,5,0,38,0,1,6,298,205,7,14,15,8,2,62,3,0,3,500,403
+157304,2019,2020-03-07T15:00:00+00:00,Molineux Stadium,Regular Season - 29,Wolves,Brighton,0,0,0,0,1,11,4,2,0,43,1,0,1,458,343,1,7,7,0,0,57,3,0,1,606,500
+157305,2019,2020-06-20T18:45:00+00:00,Vitality Stadium,Regular Season - 30,Bournemouth,Crystal Palace,0,2,0,2,1,12,13,11,2,58,3,0,0,494,412,2,7,15,4,3,42,2,0,1,350,268
+157306,2019,2020-06-21T15:15:00+00:00,Villa Park,Regular Season - 30,Aston Villa,Chelsea,1,2,1,0,4,8,9,2,0,26,2,0,3,246,158,5,19,17,10,0,74,1,0,3,692,593
+157307,2019,2020-06-20T14:00:00+00:00,The American Express Community Stadium,Regular Season - 30,Brighton,Arsenal,2,1,0,0,5,9,13,10,0,41,2,0,5,325,261,6,13,8,7,4,59,1,0,3,476,423
+157308,2019,2020-06-21T18:00:00+00:00,Goodison Park,Regular Season - 30,Everton,Liverpool,0,0,0,0,3,8,15,1,2,29,2,0,3,256,172,3,10,12,6,1,71,2,0,3,594,505
+157309,2019,2020-06-22T19:00:00+00:00,Etihad Stadium,Regular Season - 30,Manchester City,Burnley,5,0,3,0,7,19,8,3,1,71,1,0,0,816,746,0,1,7,1,2,29,1,0,2,322,246
+157310,2019,2020-06-21T13:00:00+00:00,St. James' Park,Regular Season - 30,Newcastle,Sheffield Utd,3,0,0,0,8,12,9,2,3,46,2,0,1,442,361,1,7,10,4,1,54,2,1,5,509,424
+157311,2019,2020-06-19T17:00:00+00:00,Carrow Road,Regular Season - 30,Norwich,Southampton,0,3,0,0,1,9,9,9,3,55,1,0,6,406,289,9,22,15,7,1,45,1,0,1,333,230
+157312,2019,2020-06-19T19:15:00+00:00,Tottenham Hotspur Stadium,Regular Season - 30,Tottenham,Manchester United,1,1,1,0,3,10,17,7,1,38,0,0,6,365,273,6,12,18,6,3,62,1,0,2,586,485
+157313,2019,2020-06-20T11:30:00+00:00,Vicarage Road,Regular Season - 30,Watford,Leicester,1,1,0,0,4,8,15,2,0,31,0,0,1,254,159,2,15,12,7,3,69,1,0,3,555,452
+157314,2019,2020-06-20T16:30:00+00:00,London Stadium,Regular Season - 30,West Ham,Wolves,0,2,0,0,2,7,8,5,0,42,1,0,4,357,272,6,10,7,7,1,58,1,0,2,506,414
+157315,2019,2020-06-25T17:00:00+00:00,Turf Moor,Regular Season - 31,Burnley,Watford,1,0,0,0,5,9,13,1,3,55,1,0,3,424,298,4,10,15,7,0,45,0,0,3,329,203
+157316,2019,2020-06-25T19:15:00+00:00,Stamford Bridge,Regular Season - 31,Chelsea,Manchester City,2,1,1,0,10,15,13,5,3,35,1,0,1,382,316,2,11,3,7,1,65,1,1,5,713,650
+157317,2019,2020-06-23T17:00:00+00:00,King Power Stadium,Regular Season - 31,Leicester,Brighton,0,0,0,0,2,11,10,6,0,66,2,0,2,588,506,2,10,13,7,0,34,2,0,2,294,211
+157318,2019,2020-06-24T19:15:00+00:00,Anfield,Regular Season - 31,Liverpool,Crystal Palace,4,0,2,0,7,21,7,6,0,73,0,0,0,886,789,0,3,5,0,1,27,0,0,3,330,235
+157319,2019,2020-06-24T17:00:00+00:00,Old Trafford,Regular Season - 31,Manchester United,Sheffield Utd,3,0,2,0,6,15,10,10,1,68,1,0,1,748,681,1,4,6,5,2,32,0,0,3,338,279
+157320,2019,2020-06-24T17:00:00+00:00,St. James' Park,Regular Season - 31,Newcastle,Aston Villa,1,1,0,0,3,13,15,6,1,52,2,0,1,416,320,2,14,13,9,0,48,2,0,2,369,285
+157321,2019,2020-06-24T17:00:00+00:00,Carrow Road,Regular Season - 31,Norwich,Everton,0,1,0,0,1,9,8,6,1,46,0,0,4,432,345,5,12,13,5,1,54,1,0,1,495,396
+157322,2019,2020-06-25T17:00:00+00:00,St. Mary's Stadium,Regular Season - 31,Southampton,Arsenal,0,2,0,1,3,12,10,4,2,52,0,1,3,435,345,5,10,14,6,1,48,2,0,3,398,304
+157323,2019,2020-06-23T19:15:00+00:00,Tottenham Hotspur Stadium,Regular Season - 31,Tottenham,West Ham,2,0,0,0,4,15,12,9,3,64,2,0,2,662,571,2,10,7,4,2,36,2,0,3,361,266
+157324,2019,2020-06-24T17:00:00+00:00,Molineux Stadium,Regular Season - 31,Wolves,Bournemouth,1,0,0,0,2,10,11,6,2,55,3,0,0,425,353,0,4,11,4,2,45,3,0,1,347,264
+157325,2019,2020-07-01T17:00:00+00:00,Vitality Stadium,Regular Season - 32,Bournemouth,Newcastle,1,4,0,2,1,12,11,6,2,54,2,0,3,493,410,7,12,10,3,1,46,0,0,0,420,333
+157326,2019,2020-07-01T17:00:00+00:00,Emirates Stadium,Regular Season - 32,Arsenal,Norwich,4,0,2,0,8,13,10,6,0,51,1,0,2,468,400,2,8,10,2,2,49,4,0,4,445,354
+157327,2019,2020-06-27T11:30:00+00:00,Villa Park,Regular Season - 32,Aston Villa,Wolves,0,1,0,0,1,11,16,2,0,48,1,0,1,423,345,2,9,16,2,2,52,1,0,1,464,373
+157328,2019,2020-06-30T19:15:00+00:00,The American Express Community Stadium,Regular Season - 32,Brighton,Manchester United,0,3,0,2,2,8,10,4,2,38,0,0,3,375,305,6,12,9,5,2,62,1,0,2,629,555
+157329,2019,2020-06-29T19:00:00+00:00,Selhurst Park,Regular Season - 32,Crystal Palace,Burnley,0,1,0,0,4,17,12,9,0,58,1,0,3,479,389,4,8,13,1,0,42,1,0,4,354,272
+157330,2019,2020-07-01T17:00:00+00:00,Goodison Park,Regular Season - 32,Everton,Leicester,2,1,2,0,2,7,13,3,0,34,1,0,2,331,244,3,15,10,5,1,66,1,0,0,596,521
+157331,2019,2020-07-02T19:15:00+00:00,Etihad Stadium,Regular Season - 32,Manchester City,Liverpool,4,0,3,0,6,14,8,3,3,47,2,0,3,490,412,3,11,7,3,2,53,2,0,2,551,475
+157332,2019,2020-07-02T17:00:00+00:00,Bramall Lane,Regular Season - 32,Sheffield Utd,Tottenham,3,1,1,0,5,7,13,1,2,32,2,0,1,312,210,2,9,13,6,1,68,0,0,2,637,543
+157333,2019,2020-06-28T15:30:00+00:00,Vicarage Road,Regular Season - 32,Watford,Southampton,1,3,0,1,0,8,18,5,1,47,3,0,4,396,271,7,11,9,3,1,53,0,0,0,460,334
+157334,2019,2020-07-01T19:15:00+00:00,London Stadium,Regular Season - 32,West Ham,Chelsea,3,2,1,1,4,10,10,2,2,28,2,0,4,273,200,6,17,9,3,2,72,1,0,1,658,583
+157335,2019,2020-07-05T11:00:00+00:00,Turf Moor,Regular Season - 33,Burnley,Sheffield Utd,1,1,1,0,4,9,8,3,2,47,0,0,2,404,294,3,10,14,9,1,53,0,0,3,441,315
+157336,2019,2020-07-04T19:00:00+00:00,Stamford Bridge,Regular Season - 33,Chelsea,Watford,3,0,2,0,9,21,9,5,1,70,0,0,3,731,660,3,7,12,3,2,30,2,0,6,300,230
+157337,2019,2020-07-04T14:00:00+00:00,King Power Stadium,Regular Season - 33,Leicester,Crystal Palace,3,0,0,0,4,15,18,3,1,52,2,0,1,506,427,1,7,8,7,1,48,1,0,1,450,358
+157338,2019,2020-07-05T15:30:00+00:00,Anfield,Regular Season - 33,Liverpool,Aston Villa,2,0,0,0,4,6,18,7,1,71,1,0,3,672,566,3,9,8,5,5,29,1,0,2,263,175
+157339,2019,2020-07-04T14:00:00+00:00,Old Trafford,Regular Season - 33,Manchester United,Bournemouth,5,2,3,1,10,19,3,8,4,69,0,0,1,648,575,3,7,12,3,4,31,1,0,6,283,214
+157340,2019,2020-07-05T13:15:00+00:00,St. James' Park,Regular Season - 33,Newcastle,West Ham,2,2,1,1,4,11,9,6,1,57,1,0,5,516,423,7,17,11,4,1,43,0,0,2,379,291
+157341,2019,2020-07-04T11:30:00+00:00,Carrow Road,Regular Season - 33,Norwich,Brighton,0,1,0,1,1,12,11,0,4,58,2,0,1,587,506,2,8,13,2,0,42,2,0,1,418,345
+157342,2019,2020-07-05T18:00:00+00:00,St. Mary's Stadium,Regular Season - 33,Southampton,Manchester City,1,0,1,0,4,8,6,2,3,26,1,0,6,297,209,6,26,7,13,3,74,2,0,3,808,723
+157343,2019,2020-07-06T19:00:00+00:00,Tottenham Hotspur Stadium,Regular Season - 33,Tottenham,Everton,1,0,1,0,2,12,14,5,2,51,3,0,3,448,370,3,11,18,6,2,49,2,0,2,413,341
+157344,2019,2020-07-04T16:30:00+00:00,Molineux Stadium,Regular Season - 33,Wolves,Arsenal,0,2,0,1,1,10,6,3,1,51,2,0,2,516,441,5,8,11,5,0,49,4,0,1,482,397
+157345,2019,2020-07-09T17:00:00+00:00,Vitality Stadium,Regular Season - 34,Bournemouth,Tottenham,0,0,0,0,2,9,11,8,1,35,3,0,0,271,184,0,9,14,12,0,65,2,0,2,499,405
+157346,2019,2020-07-07T19:15:00+00:00,Emirates Stadium,Regular Season - 34,Arsenal,Leicester,1,1,1,0,7,11,10,10,4,37,1,1,4,323,223,5,13,14,1,1,63,0,0,6,558,460
+157347,2019,2020-07-09T19:15:00+00:00,Villa Park,Regular Season - 34,Aston Villa,Manchester United,0,3,0,2,1,9,7,3,2,33,2,0,3,310,236,6,14,13,5,1,67,3,0,1,637,567
+157348,2019,2020-07-08T19:15:00+00:00,The American Express Community Stadium,Regular Season - 34,Brighton,Liverpool,1,3,1,2,2,12,7,6,5,44,1,0,5,381,300,8,20,15,10,0,56,4,0,1,477,395
+157349,2019,2020-07-07T17:00:00+00:00,Selhurst Park,Regular Season - 34,Crystal Palace,Chelsea,2,3,1,2,4,13,11,7,1,42,1,0,3,381,296,6,14,10,9,0,58,0,0,2,538,451
+157350,2019,2020-07-09T17:00:00+00:00,Goodison Park,Regular Season - 34,Everton,Southampton,1,1,1,1,4,11,13,3,3,38,3,0,3,330,241,4,16,14,5,2,62,3,0,3,518,420
+157351,2019,2020-07-08T17:00:00+00:00,Etihad Stadium,Regular Season - 34,Manchester City,Newcastle,5,0,2,0,9,23,13,8,2,73,0,0,1,843,788,1,6,7,1,0,27,0,0,5,296,214
+157352,2019,2020-07-08T17:00:00+00:00,Bramall Lane,Regular Season - 34,Sheffield Utd,Wolves,1,0,0,0,3,7,5,6,3,42,2,0,1,382,277,1,6,6,1,0,58,0,0,2,545,435
+157353,2019,2020-07-07T17:00:00+00:00,Vicarage Road,Regular Season - 34,Watford,Norwich,2,1,1,1,4,9,11,4,0,43,2,0,2,375,275,3,12,15,3,0,57,4,0,2,504,417
+157354,2019,2020-07-08T17:00:00+00:00,London Stadium,Regular Season - 34,West Ham,Burnley,0,1,0,1,5,21,7,10,0,53,1,0,3,427,320,4,8,7,3,5,47,1,0,4,395,303
+157355,2019,2020-07-12T18:00:00+00:00,Vitality Stadium,Regular Season - 35,Bournemouth,Leicester,4,1,0,1,4,9,11,2,4,44,2,0,4,424,306,5,13,12,6,1,56,1,1,1,545,438
+157356,2019,2020-07-12T13:15:00+00:00,Villa Park,Regular Season - 35,Aston Villa,Crystal Palace,2,0,1,0,9,12,21,5,1,44,2,0,5,314,231,5,9,21,1,0,56,4,1,7,386,306
+157357,2019,2020-07-11T19:00:00+00:00,The American Express Community Stadium,Regular Season - 35,Brighton,Manchester City,0,5,0,2,0,3,7,2,6,29,1,0,3,335,256,8,26,3,7,1,71,0,0,0,799,723
+157358,2019,2020-07-11T14:00:00+00:00,Anfield,Regular Season - 35,Liverpool,Burnley,1,1,1,0,9,23,7,11,2,70,1,0,1,659,564,2,6,4,6,3,30,2,0,8,265,158
+157359,2019,2020-07-13T19:00:00+00:00,Old Trafford,Regular Season - 35,Manchester United,Southampton,2,2,2,1,4,8,14,4,1,47,1,0,3,463,368,5,9,15,6,0,53,3,0,2,510,412
+157360,2019,2020-07-11T11:30:00+00:00,Carrow Road,Regular Season - 35,Norwich,West Ham,0,4,0,2,2,11,9,1,1,52,1,0,3,542,471,7,19,8,6,0,48,0,0,2,478,398
+157361,2019,2020-07-11T16:30:00+00:00,Bramall Lane,Regular Season - 35,Sheffield Utd,Chelsea,3,0,2,0,4,9,8,4,1,23,1,0,4,251,159,4,15,6,6,0,77,0,0,1,809,712
+157362,2019,2020-07-12T15:30:00+00:00,Tottenham Hotspur Stadium,Regular Season - 35,Tottenham,Arsenal,2,1,1,1,9,15,16,6,2,37,5,0,3,378,306,4,13,11,5,0,63,3,0,7,636,566
+157363,2019,2020-07-11T11:30:00+00:00,Vicarage Road,Regular Season - 35,Watford,Newcastle,2,1,0,1,5,17,23,2,3,47,1,0,3,316,216,4,8,15,4,3,53,4,0,3,353,257
+157364,2019,2020-07-12T11:00:00+00:00,Molineux Stadium,Regular Season - 35,Wolves,Everton,3,0,1,0,7,14,9,5,1,55,0,0,2,564,487,2,6,9,2,0,45,2,0,4,450,370
+157365,2019,2020-07-15T19:15:00+00:00,Emirates Stadium,Regular Season - 36,Arsenal,Liverpool,2,1,2,1,2,3,14,2,5,31,3,0,8,286,183,8,24,10,13,4,69,1,0,0,614,522
+157366,2019,2020-07-15T17:00:00+00:00,Turf Moor,Regular Season - 36,Burnley,Wolves,1,1,0,0,1,9,10,3,1,46,0,0,4,359,255,5,14,8,8,1,54,0,0,0,413,317
+157367,2019,2020-07-14T19:15:00+00:00,Stamford Bridge,Regular Season - 36,Chelsea,Norwich,1,0,1,0,6,22,10,8,0,67,2,0,0,772,689,0,2,9,1,1,33,2,0,5,374,287
+157368,2019,2020-07-16T19:15:00+00:00,Selhurst Park,Regular Season - 36,Crystal Palace,Manchester United,0,2,0,1,5,13,10,2,1,40,1,0,3,428,336,5,17,15,7,0,60,2,0,5,625,546
+157369,2019,2020-07-16T17:00:00+00:00,Goodison Park,Regular Season - 36,Everton,Aston Villa,1,1,0,0,1,9,15,5,0,54,2,0,0,443,381,1,15,13,5,0,46,1,0,0,362,288
+157370,2019,2020-07-16T17:00:00+00:00,King Power Stadium,Regular Season - 36,Leicester,Sheffield Utd,2,0,1,0,7,15,12,9,3,54,1,0,1,472,374,1,5,10,5,4,46,2,0,5,401,301
+157371,2019,2020-07-15T17:00:00+00:00,Etihad Stadium,Regular Season - 36,Manchester City,Bournemouth,2,1,2,0,4,8,10,3,2,72,1,0,2,756,669,3,15,10,5,2,28,1,0,2,275,179
+157372,2019,2020-07-15T17:00:00+00:00,St. James' Park,Regular Season - 36,Newcastle,Tottenham,1,3,0,1,6,22,6,5,0,52,2,0,2,503,440,5,8,13,4,1,48,3,0,5,456,394
+157373,2019,2020-07-16T19:15:00+00:00,St. Mary's Stadium,Regular Season - 36,Southampton,Brighton,1,1,0,1,6,21,6,8,1,67,1,0,1,597,490,2,10,10,2,2,33,0,0,4,281,171
+157374,2019,2020-07-17T19:00:00+00:00,London Stadium,Regular Season - 36,West Ham,Watford,3,1,3,0,4,10,11,9,1,40,0,0,2,297,190,3,14,11,3,2,60,2,0,1,439,336
+157375,2019,2020-07-19T13:00:00+00:00,Vitality Stadium,Regular Season - 37,Bournemouth,Southampton,0,2,0,1,3,11,12,12,2,43,2,0,6,288,174,8,16,11,6,1,57,2,0,3,407,281
+157376,2019,2020-07-21T19:15:00+00:00,Villa Park,Regular Season - 37,Aston Villa,Arsenal,1,0,1,0,3,8,13,8,1,31,2,0,0,264,200,0,7,19,9,1,69,4,0,2,606,536
+157377,2019,2020-07-20T17:00:00+00:00,The American Express Community Stadium,Regular Season - 37,Brighton,Newcastle,0,0,0,0,3,11,13,9,1,62,4,0,1,542,477,1,12,12,7,1,38,2,0,3,315,241
+157378,2019,2020-07-22T19:15:00+00:00,Anfield,Regular Season - 37,Liverpool,Chelsea,5,3,3,1,7,10,8,6,0,50,1,0,2,584,474,5,10,11,0,3,50,0,0,2,575,481
+157379,2019,2020-07-22T17:00:00+00:00,Old Trafford,Regular Season - 37,Manchester United,West Ham,1,1,0,1,4,11,10,2,3,57,3,0,2,609,527,3,12,9,3,1,43,1,0,3,441,349
+157380,2019,2020-07-18T16:30:00+00:00,Carrow Road,Regular Season - 37,Norwich,Burnley,0,2,0,1,2,6,9,6,1,42,0,2,7,354,267,8,23,16,8,1,58,0,0,2,468,404
+157381,2019,2020-07-20T17:00:00+00:00,Bramall Lane,Regular Season - 37,Sheffield Utd,Everton,0,1,0,0,0,8,11,7,1,50,1,0,1,468,369,2,5,19,1,2,50,3,0,0,472,367
+157382,2019,2020-07-19T15:00:00+00:00,Tottenham Hotspur Stadium,Regular Season - 37,Tottenham,Leicester,3,0,3,0,3,7,15,4,4,29,2,0,6,285,205,6,24,10,13,0,71,1,0,1,697,630
+157383,2019,2020-07-21T17:00:00+00:00,Vicarage Road,Regular Season - 37,Watford,Manchester City,0,4,0,2,0,2,14,0,4,23,2,0,6,232,154,10,26,11,8,3,77,0,0,0,764,687
+157384,2019,2020-07-20T19:15:00+00:00,Molineux Stadium,Regular Season - 37,Wolves,Crystal Palace,2,0,1,0,5,11,11,5,0,53,2,0,3,465,380,3,7,15,2,1,47,1,0,3,404,314
+157385,2019,2020-07-26T15:00:00+00:00,Emirates Stadium,Regular Season - 38,Arsenal,Watford,3,2,3,1,5,13,9,4,1,51,3,0,4,442,368,6,19,12,8,3,49,3,0,2,398,333
+157386,2019,2020-07-26T15:00:00+00:00,Turf Moor,Regular Season - 38,Burnley,Brighton,1,2,1,1,2,13,11,6,3,54,3,0,2,378,283,4,15,11,7,2,46,0,0,1,334,259
+157387,2019,2020-07-26T15:00:00+00:00,Stamford Bridge,Regular Season - 38,Chelsea,Wolves,2,0,2,0,3,11,10,3,3,62,2,0,1,629,521,1,5,16,3,1,38,3,0,1,370,256
+157388,2019,2020-07-26T15:00:00+00:00,Selhurst Park,Regular Season - 38,Crystal Palace,Tottenham,1,1,0,1,2,13,11,7,1,47,3,0,1,422,337,2,7,13,2,0,53,2,0,1,489,406
+157389,2019,2020-07-26T15:00:00+00:00,Goodison Park,Regular Season - 38,Everton,Bournemouth,1,3,1,2,5,13,11,2,0,70,1,0,4,687,589,7,13,9,5,1,30,0,0,4,282,189
+157390,2019,2020-07-26T15:00:00+00:00,King Power Stadium,Regular Season - 38,Leicester,Manchester United,0,2,0,0,3,14,12,3,2,45,1,1,1,425,344,3,7,11,3,2,55,5,0,3,518,426
+157391,2019,2020-07-26T15:00:00+00:00,Etihad Stadium,Regular Season - 38,Manchester City,Norwich,5,0,2,0,10,31,7,9,0,73,1,0,4,722,661,4,5,4,0,2,27,1,0,4,268,192
+157392,2019,2020-07-26T15:00:00+00:00,St. James' Park,Regular Season - 38,Newcastle,Liverpool,1,3,1,1,2,3,11,2,3,25,1,0,3,267,175,6,14,5,4,1,75,0,0,1,792,705
+157393,2019,2020-07-26T15:00:00+00:00,St. Mary's Stadium,Regular Season - 38,Southampton,Sheffield Utd,3,1,0,1,4,13,9,9,2,72,0,0,2,684,587,3,5,16,1,2,28,1,0,1,260,161
+157394,2019,2020-07-26T15:00:00+00:00,London Stadium,Regular Season - 38,West Ham,Aston Villa,1,1,0,0,1,10,16,0,0,63,2,0,3,480,391,4,13,13,7,1,37,1,0,0,277,186
