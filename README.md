@@ -29,7 +29,7 @@ Lastly, the model was designed with an eye towards continuous improvement. By in
 
 ## Data Scraper
 For this predictive model, data was gathered using a purpose-built data scraper. The scraper was designed to fetch data from a specified API (Application Programming Interface), which provides a comprehensive collection of football match data for the Premier League.
-The data scraper works by making GET requests to the API's endpoints for each football season. These requests retrieve data in JSON format which includes various details about each match, such as the teams involved, the final score, the date of the match, and other match-specific statistics. The decision to use this particular API was driven by its extensive dataset that offers a wide range of features beneficial for the predictive model. The API is reliable, consistently updated, and provides granular data which is critical for the analysis
+The data scraper works by making GET requests to the API's endpoints for each football season. These requests retrieve data in JSON format which includes various details about each match, such as the teams involved, the final score, the date of the match, and other match-specific statistics. The decision to use this particular API was driven by its extensive dataset that offers a wide range of features beneficial for the predictive model. The API is reliable, consistently updated, and provides granular data which is critical for the analysis.
 
 Available statistics:
 * Shots on Goal
