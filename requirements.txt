@@ -1,0 +1,8 @@
+pandas
+numpy
+ujson
+scikit-learn
+colorama
+xgboost
+matplotlib
+requests
