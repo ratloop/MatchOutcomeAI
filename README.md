@@ -1,6 +1,22 @@
 # MatchOutcomeAI
 A data-driven approach to predicting football match outcomes using advanced machine learning techniques. This project integrates various algorithms to forecast game results, providing insights for sports betting, team performance analysis, and sports enthusiasts.
 
+# Getting Started
+
+## Prerequisites
+
+Python 3.x
+
+## Usage
+
+```git clone https://github.com/ratloop/MatchOutcomeAI```
+
+```pip install -r requirements.txt```
+
+```py main.py```
+
+# Introduction
+
 ## Problem Statement
 Predicting football match outcomes has become increasingly popular due to the rising interest in sports betting and the desire to improve team performance. Accurate predictions can benefit various stakeholders, including fans, coaches, analysts, and bookmakers. However, predicting match results remains a complex task due to numerous factors that influence a game's outcome, such as team form, player performance, and historical data. This project aims to develop a machine learning model capable of providing accurate and logical football match outcome predictions, comparable to those of popular bookmakers.
 
@@ -175,3 +191,7 @@ Option two, named 'Scrape Current Season Dataset', is uniquely dedicated to proc
 The fourth and final option, 'View Previous Prediction', provides the user with a retrospective lens. All previous predictions made by the user are stored in a JSON file, which can be accessed and reviewed anytime using this option. The tool retrieves the desired prediction from the JSON file and displays it for the user, enabling them to reflect on the past predictions or to compare them with the actual outcomes.
 
 ![User Interface - View Previous Predictions](https://i.imgur.com/G2HDFXb.png)
+
+# License
+
+This project is licensed under the MIT License.
