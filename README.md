@@ -19,22 +19,22 @@ For this predictive model, data was gathered using a purpose-built data scraper.
 The data scraper works by making GET requests to the API's endpoints for each football season. These requests retrieve data in JSON format which includes various details about each match, such as the teams involved, the final score, the date of the match, and other match-specific statistics. The decision to use this particular API was driven by its extensive dataset that offers a wide range of features beneficial for the predictive model. The API is reliable, consistently updated, and provides granular data which is critical for the analysis
 
 Available statistics:
-*Shots on Goal
-*Shots off Goal
-*Shots inside box
-*Shots outside box
-*Total Shots
-*Blocked Shots
-*Fouls
-*Corner Kicks
-*Offsides
-*Ball Possession
-*Yellow Cards
-*Red Cards
-*Goalkeeper Saves
-*Total passes
-*Passes accurate
-*Passes %
+* Shots on Goal
+* Shots off Goal
+* Shots inside box
+* Shots outside box
+* Total Shots
+* Blocked Shots
+* Fouls
+* Corner Kicks
+* Offsides
+* Ball Possession
+* Yellow Cards
+* Red Cards
+* Goalkeeper Saves
+* Total passes
+* Passes accurate
+* Passes %
 
 The data scraping process was facilitated using Python, a language renowned for its robust data manipulation capabilities and extensive libraries. Libraries such as 'requests' and 'json' were employed for HTTP requests and JSON data manipulation respectively. The decision to utilize Python was driven by its ability to streamline the data collection process, allowing us to amass a substantial dataset in a time-efficient manner.
 
@@ -103,7 +103,7 @@ A visual representation of the model comparison was made using a bar chart and h
 
 ![Model Performance Comparison Bar Chart](https://i.imgur.com/UfkDt4U.png)
 
-![Model Performance Comparison Heatmap](https://i.imgur.com/UfkDt4U.png)
+![Model Performance Comparison Heatmap](https://i.imgur.com/yODk4Ik.png)
 
 In the evaluation process, I also drew comparisons with the predictions provided by Google's football match predictor. Yet, it is crucial to bear in mind that, much like any other predictive model, Google's forecasts are not infallible. The predictions they offer stem from their unique machine learning models and the specific data they utilize, which may differ significantly from mine. Hence, the aim in making this comparison was not to establish an ultimate benchmark for precision but rather to provide another point of reference in this analysis.
 
@@ -139,7 +139,7 @@ The results of the match prediction are presented in a simple yet comprehensive 
 -	Bournemouth (Home) Win: 36.12%
 -	West Ham (Away) Win: 48.24%
 -	Draw: 15.64%
--	
+
 These percentages represent the likelihood of each outcome as per the model's calculations. The advantage of this presentation format is twofold. Firstly, it simplifies the complex underlying computations, making the results easily understandable for the users. Secondly, it parallels the odds structure that bookmakers typically use, making the system's output relatable and intuitive even for those who may not be familiar with machine learning or data science concepts.
 
 In essence, the goal is to make this powerful predictive tool user-friendly and accessible to a broad spectrum of users, whether they are hardcore football enthusiasts, casual viewers, or even professional bettors. This simplicity of understanding, combined with the system's predictive accuracy, can potentially provide valuable insights for users looking to make informed decisions related to football matches.
